@@ -80,6 +80,7 @@
         "chrono",
         "cmake",
         "CmakeLists",
+        "cmap",
         "cmatch",
         "cmath",
         "cmdline",
@@ -88,6 +89,7 @@
         "coeff",
         "coeffs",
         "colcon",
+        "colorbar",
         "comms",
         "concat",
         "concatenator",
@@ -334,6 +336,7 @@
         "mkdir",
         "mobilenetv",
         "Monrroy",
+        "mplot",
         "mpstat",
         "mptopic",
         "MQTT",
@@ -567,6 +570,7 @@
         "Tomohito",
         "Tomomi",
         "Tomoya",
+        "toolkits",
         "toplevel",
         "Toprated",
         "trafficlight",
@@ -637,6 +641,7 @@
         "Yutaka",
         "yuyv",
         "Zhang",
-        "Zhmoginov"
+        "Zhmoginov",
+        "zlabel"
     ]
 }
