@@ -17,6 +17,8 @@
         "reports*/**"
     ],
     "words": [
+        "logsim",
+        "logsim",
         "aarch",
         "abstractmethod",
         "AccCmd",
