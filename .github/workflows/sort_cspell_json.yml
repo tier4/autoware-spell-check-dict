@@ -18,9 +18,9 @@ jobs:
           sudo apt-get update && \
           sudo apt-get install -y jq
 
-      - name: Run sort.sh
+      - name: Run sort_cspell_json.sh
         run: |
-          ${GITHUB_WORKSPACE}/sort.sh
+          ${GITHUB_WORKSPACE}/sort_cspell_json.sh
 
       - name: Commit and push
         run: |
