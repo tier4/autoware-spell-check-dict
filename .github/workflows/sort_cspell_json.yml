@@ -1,0 +1,33 @@
+name: Sort .cspell.json
+
+on:
+  pull_request:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          ref: ${{ github.event.pull_request.head.ref }}
+
+      - name: Install jq
+        run: |
+          sudo apt-get update && \
+          sudo apt-get install -y jq
+
+      - name: Run sort_cspell_json.sh
+        run: |
+          ${GITHUB_WORKSPACE}/sort_cspell_json.sh
+
+      - name: Commit and push
+        run: |
+          if ! git diff --exit-code --quiet; then
+            git config user.name github-actions
+            git config user.email github-actions@github.com
+            git add -u .
+            git commit -m "Sort and uniq the words"
+            git push
+          fi
