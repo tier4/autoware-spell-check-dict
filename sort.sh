@@ -4,7 +4,7 @@ SCRIPT_DIR=$(readlink -e "$(dirname "${0}")")
 
 # Install jq
 if ! (command -v jq > /dev/null 2>&1); then
-    sudo apt install -y jq
+    sudo apt-get install -y jq
 fi
 
 # Set target file
