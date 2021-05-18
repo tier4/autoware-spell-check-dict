@@ -17,8 +17,6 @@
         "reports*/**"
     ],
     "words": [
-        "logsim",
-        "logsim",
         "aarch",
         "abstractmethod",
         "AccCmd",
@@ -314,6 +312,7 @@
         "linuxcan",
         "LIVOX",
         "LLVM",
+        "logsim",
         "lowpass",
         "LPFED",
         "LuGre",
