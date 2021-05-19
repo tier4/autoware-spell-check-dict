@@ -518,6 +518,7 @@
         "septentrio",
         "setcap",
         "setfacl",
+        "setuptools",
         "shellcheck",
         "Shimizu",
         "shinjuku",
