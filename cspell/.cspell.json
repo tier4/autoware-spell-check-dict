@@ -211,6 +211,7 @@
         "gencolors",
         "genlmsg",
         "genlmsghdr",
+        "Geochelone",
         "geographiclib",
         "georeference",
         "georeferenced",
