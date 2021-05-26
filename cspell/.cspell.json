@@ -17,8 +17,6 @@
         "reports*/**"
     ],
     "words": [
-        "rostooling",
-        "socketcan",
         "aarch",
         "abstractmethod",
         "AccCmd",
@@ -526,6 +524,7 @@
         "rospy",
         "rosrun",
         "rostest",
+        "rostooling",
         "rostopic",
         "rosunit",
         "roswww",
@@ -557,6 +556,7 @@
         "SKIPFIRST",
         "slerp",
         "smatch",
+        "socketcan",
         "softmax",
         "SPDX",
         "srvs",
