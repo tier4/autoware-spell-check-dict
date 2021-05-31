@@ -108,6 +108,7 @@
         "coretemp",
         "costmap",
         "cout",
+        "cowsay",
         "cppcheck",
         "cppcoreguidelines",
         "cpplint",
