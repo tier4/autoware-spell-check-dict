@@ -421,6 +421,7 @@
         "noninteractive",
         "nonzeros",
         "noqa",
+        "noreport",
         "nowrap",
         "nsecs",
         "NSID",
