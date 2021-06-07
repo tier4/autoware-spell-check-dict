@@ -261,6 +261,8 @@
         "idxs",
         "ifndef",
         "iframe",
+        "imdecode",
+        "imencode",
         "imgs",
         "importlib",
         "imread",
