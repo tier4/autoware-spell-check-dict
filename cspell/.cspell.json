@@ -22,7 +22,6 @@
         "reports*/**"
     ],
     "words": [
-        "insteadof",
         "aarch",
         "abstractmethod",
         "AccCmd",
@@ -347,6 +346,7 @@
         "initialtwist",
         "INLINES",
         "inplace",
+        "insteadof",
         "ipstream",
         "Isamu",
         "isclose",
