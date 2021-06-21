@@ -22,7 +22,6 @@
         "reports*/**"
     ],
     "words": [
-        "arange",
         "aarch",
         "abstractmethod",
         "AccCmd",
@@ -39,6 +38,7 @@
         "angvel",
         "antialiasing",
         "antiquewhite",
+        "arange",
         "arclength",
         "argmax",
         "argmin",
