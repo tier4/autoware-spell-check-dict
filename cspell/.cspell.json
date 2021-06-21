@@ -22,6 +22,7 @@
         "reports*/**"
     ],
     "words": [
+        "arange",
         "aarch",
         "abstractmethod",
         "AccCmd",
