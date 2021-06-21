@@ -22,7 +22,6 @@
         "reports*/**"
     ],
     "words": [
-        "stixel",
         "aarch",
         "abstractmethod",
         "AccCmd",
@@ -775,6 +774,7 @@
         "steelblue",
         "steeringmode",
         "Stellato",
+        "stixel",
         "stod",
         "stof",
         "stoi",
