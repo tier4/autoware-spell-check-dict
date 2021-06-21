@@ -22,7 +22,6 @@
         "reports*/**"
     ],
     "words": [
-        "XYZRT",
         "aarch",
         "abstractmethod",
         "AccCmd",
@@ -900,6 +899,7 @@
         "xosc",
         "XYZI",
         "XYZRGB",
+        "XYZRT",
         "yamacir",
         "yamale",
         "Yamamoto",
