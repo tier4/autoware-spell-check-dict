@@ -22,8 +22,6 @@
         "reports*/**"
     ],
     "words": [
-        "Takayuki",
-        "Murooka",
         "aarch",
         "abstractmethod",
         "AccCmd",
@@ -512,6 +510,7 @@
         "multithread",
         "multithreaded",
         "Murakami",
+        "Murooka",
         "MUSSP",
         "mutex",
         "Muxer",
@@ -806,6 +805,7 @@
         "taikitanaka",
         "Takagi",
         "Takamasa",
+        "Takayuki",
         "Takeuchi",
         "Tamagawa",
         "Tanaka",
