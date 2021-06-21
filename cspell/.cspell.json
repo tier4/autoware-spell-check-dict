@@ -22,7 +22,6 @@
         "reports*/**"
     ],
     "words": [
-        "libground",
         "aarch",
         "abstractmethod",
         "AccCmd",
@@ -411,6 +410,7 @@
         "libdpm",
         "libgomp",
         "libgoogle",
+        "libground",
         "libimage",
         "libnl",
         "libnvinfer",
