@@ -410,6 +410,7 @@
         "libdpm",
         "libgomp",
         "libgoogle",
+        "libground",
         "libimage",
         "libnl",
         "libnvinfer",
