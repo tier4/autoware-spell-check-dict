@@ -22,8 +22,6 @@
         "reports*/**"
     ],
     "words": [
-        "KHTML",
-        "etag",
         "aarch",
         "abstractmethod",
         "AccCmd",
@@ -255,6 +253,7 @@
         "Eppstein",
         "esli",
         "Esteve",
+        "etag",
         "eulerangle",
         "eval",
         "evaluable",
@@ -374,6 +373,7 @@
         "keyrings",
         "keyserver",
         "Khanh",
+        "KHTML",
         "Kimura",
         "Kinect",
         "kitti",
