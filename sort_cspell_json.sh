@@ -27,4 +27,5 @@ if [ "${PIPESTATUS[0]}" = "0" ]; then
     echo "$sorted_json" > "$cspell_json"
 else
     echo "Failed to parse json."
+    exit 1
 fi
