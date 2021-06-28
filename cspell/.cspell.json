@@ -591,6 +591,7 @@
         "openni",
         "openscenario",
         "optarg",
+        "optenv",
         "orangered",
         "orthometric",
         "osqp",
