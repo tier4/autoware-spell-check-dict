@@ -350,6 +350,8 @@
         "initialpose",
         "initialtwist",
         "INLINES",
+        "inpaint",
+        "inpainting",
         "inplace",
         "ipstream",
         "Isamu",
