@@ -22,6 +22,8 @@
         "reports*/**"
     ],
     "words": [
+        "noreply",
+        "signoff",
         "aarch",
         "abstractmethod",
         "AccCmd",
