@@ -22,8 +22,6 @@
         "reports*/**"
     ],
     "words": [
-        "noreply",
-        "signoff",
         "aarch",
         "abstractmethod",
         "AccCmd",
@@ -561,6 +559,7 @@
         "noninteractive",
         "nonzeros",
         "noqa",
+        "noreply",
         "noreport",
         "NOWARNINGS",
         "nowrap",
@@ -766,6 +765,7 @@
         "shinpei",
         "shiojiri",
         "Shuhei",
+        "signoff",
         "sigsegv",
         "SIMD",
         "SIOCETHTOOL",
