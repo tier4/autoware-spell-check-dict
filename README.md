@@ -63,7 +63,7 @@ $ find . -type d -name '.git' -prune -o \
 
 ### VSCode
 
-Please use [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) and be sure to add the followings to `settings.json`.
+Please install [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) and be sure to add the followings to `settings.json`.
 
 ```json
 "cSpell.languageSettings": [
