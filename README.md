@@ -60,3 +60,16 @@ $ find . -type d -name '.git' -prune -o \
          -not -name '*.pcd' \
           | xargs cspell > cspell_all
 ```
+
+### VSCode
+
+Please use [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) and make sure to add the followings to `settings.json`.
+
+```json
+"cSpell.languageSettings": [
+    {
+        "languageId": "c,cpp,python",
+        "allowCompoundWords": false
+    }
+]
+```
