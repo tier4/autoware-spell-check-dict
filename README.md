@@ -61,7 +61,7 @@ $ find . -type d -name '.git' -prune -o \
           | xargs cspell > cspell_all
 ```
 
-### VSCode
+### Visual Studio Code
 
 Please install [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker) and be sure to add the followings to `settings.json`.
 
