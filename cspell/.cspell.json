@@ -271,6 +271,7 @@
         "evaluable",
         "exitflag",
         "fabs",
+        "FASTCRC",
         "favicon",
         "fclose",
         "feedforward",
