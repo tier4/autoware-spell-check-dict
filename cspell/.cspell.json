@@ -747,6 +747,7 @@
         "rostest",
         "rostooling",
         "rostopic",
+        "rostopics",
         "rosunit",
         "roswww",
         "rosybrown",
