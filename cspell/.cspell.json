@@ -22,7 +22,6 @@
         "reports*/**"
     ],
     "words": [
-        "Noto",
         "aarch",
         "abstractmethod",
         "AccCmd",
@@ -583,6 +582,7 @@
         "noqa",
         "noreply",
         "noreport",
+        "Noto",
         "NOWARNINGS",
         "nowrap",
         "nsecs",
