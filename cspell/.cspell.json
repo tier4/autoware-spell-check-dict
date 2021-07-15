@@ -22,8 +22,6 @@
         "reports*/**"
     ],
     "words": [
-        "markdownlint",
-        "ECEF",
         "aarch",
         "abstractmethod",
         "AccCmd",
@@ -257,6 +255,7 @@
         "dyaw",
         "dylib",
         "Eccleston",
+        "ECEF",
         "EIGEN",
         "eigensolver",
         "Eitan",
@@ -500,6 +499,7 @@
         "Makoto",
         "malloc",
         "Marder",
+        "markdownlint",
         "markersize",
         "Masaya",
         "mathbb",
