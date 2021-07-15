@@ -22,6 +22,8 @@
         "reports*/**"
     ],
     "words": [
+        "markdownlint",
+        "ECEF",
         "aarch",
         "abstractmethod",
         "AccCmd",
