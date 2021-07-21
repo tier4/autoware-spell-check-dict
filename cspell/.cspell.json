@@ -22,7 +22,6 @@
         "reports*/**"
     ],
     "words": [
-        "automerge",
         "aarch",
         "abstractmethod",
         "AccCmd",
@@ -53,6 +52,7 @@
         "attrdata",
         "Autocompute",
         "automan",
+        "automerge",
         "AUTOMOC",
         "Autonomou",
         "autonomoustuff",
