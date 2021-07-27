@@ -119,6 +119,8 @@
         "chdir",
         "Chiyu",
         "chrono",
+        "chrony",
+        "chronyc",
         "classmethod",
         "clothoid",
         "cmake",
