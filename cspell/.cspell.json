@@ -952,6 +952,7 @@
         "uncrustify",
         "undeclare",
         "undelegated",
+        "undistort",
         "unfixable",
         "unimoji",
         "unittests",
