@@ -625,6 +625,7 @@
         "nowrap",
         "nsecs",
         "NSID",
+        "nullopt",
         "nullptr",
         "NUMD",
         "numpy",
