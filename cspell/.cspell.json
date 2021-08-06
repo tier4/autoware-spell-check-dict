@@ -19,6 +19,7 @@
         "external/**",
         "install/**",
         "log/**",
+        "package-lock.json",
         "public/**",
         "reports*/**"
     ],
