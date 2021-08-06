@@ -19,7 +19,8 @@
         "install/**",
         "log/**",
         "public/**",
-        "reports*/**"
+        "reports*/**",
+        "**/*.pcd"
     ],
     "words": [
         "aarch",
