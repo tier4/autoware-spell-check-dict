@@ -745,7 +745,6 @@
         "pytorch",
         "pyyaml",
         "qframe",
-        "QM",
         "qpoases",
         "qpsolver",
         "qtbase",
