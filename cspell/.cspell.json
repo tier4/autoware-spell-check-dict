@@ -305,6 +305,7 @@
         "Fermik",
         "fetchall",
         "figsize",
+        "fillpoly",
         "filtfilt",
         "FLANN",
         "fliplr",
