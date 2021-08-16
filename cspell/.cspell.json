@@ -24,6 +24,9 @@
         "reports*/**"
     ],
     "words": [
+        "Wnonportable",
+        "nonportable",
+        "nodiscard",
         "aarch",
         "abstractmethod",
         "AccCmd",
