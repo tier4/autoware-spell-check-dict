@@ -24,6 +24,7 @@
         "reports*/**"
     ],
     "words": [
+        "pkgs",
         "aarch",
         "abspath",
         "abstractmethod",
