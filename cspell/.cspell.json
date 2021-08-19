@@ -24,7 +24,6 @@
         "reports*/**"
     ],
     "words": [
-        "pkgs",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -736,6 +735,7 @@
         "pipefail",
         "Pixmap",
         "pjreddie's",
+        "pkgs",
         "plantuml",
         "playsinline",
         "plotjuggler",
