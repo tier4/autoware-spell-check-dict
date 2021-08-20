@@ -24,7 +24,6 @@
         "reports*/**"
     ],
     "words": [
-        "ECMAScript",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -285,6 +284,7 @@
         "dylib",
         "Eccleston",
         "ECEF",
+        "ECMAScript",
         "EIGEN",
         "eigensolver",
         "Eitan",
