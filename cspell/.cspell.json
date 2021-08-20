@@ -315,6 +315,7 @@
         "FLANN",
         "fliplr",
         "floralwhite",
+        "FMEA",
         "fmod",
         "fontawesome",
         "fontsize",
@@ -1108,7 +1109,6 @@
         "zmqpp",
         "zorder",
         "zstd",
-        "FMEA",
         "zsync"
     ]
 }
