@@ -24,6 +24,7 @@
         "reports*/**"
     ],
     "words": [
+        "ECMAScript",
         "aarch",
         "abspath",
         "abstractmethod",
