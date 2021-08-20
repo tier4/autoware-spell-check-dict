@@ -615,6 +615,7 @@
         "msse",
         "mssql",
         "multilib",
+        "multiline",
         "multipass",
         "multiplot",
         "multithread",
