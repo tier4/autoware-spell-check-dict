@@ -83,6 +83,7 @@
         "behaviortree",
         "behaviour",
         "behaviours",
+        "bibtex",
         "bijective",
         "binarize",
         "binarydeb",
@@ -379,6 +380,7 @@
         "HARA",
         "hashlib",
         "hatenablogcard",
+        "Hayato",
         "hconcat",
         "hdmap",
         "HDRS",
@@ -611,6 +613,7 @@
         "miterlimit",
         "Mitsudome",
         "Miyake",
+        "Mizushima",
         "mkdir",
         "mkdocs",
         "mobilenetv",
@@ -1030,6 +1033,7 @@
         "vcstool",
         "vcutils",
         "Velodyne",
+        "VeloView",
         "venv",
         "verticalalignment",
         "vindices",
@@ -1081,6 +1085,7 @@
         "XYZI",
         "XYZIRADT",
         "XYZRGB",
+        "XYZRPY",
         "XYZRT",
         "yamacir",
         "yamale",
@@ -1113,11 +1118,6 @@
         "zmqpp",
         "zorder",
         "zstd",
-        "zsync",
-        "Mizushima",
-        "Hayato",
-        "bibtex",
-        "XYZRPY",
-        "VeloView"
+        "zsync"
     ]
 }
