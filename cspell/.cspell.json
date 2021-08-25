@@ -32,6 +32,9 @@
         "**/public/**",
         "**/reports*/**"
     ],
+    "flagWords": [
+        "planing"
+    ],
     "words": [
         "aarch",
         "abspath",
