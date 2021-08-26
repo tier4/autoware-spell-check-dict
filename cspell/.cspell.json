@@ -815,6 +815,7 @@
         "qtbase",
         "Quaterniond",
         "Quaternionf",
+        "RADT",
         "Radu",
         "RAII",
         "randint",
