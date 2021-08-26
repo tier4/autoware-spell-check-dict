@@ -36,7 +36,6 @@
         "planing"
     ],
     "words": [
-        "symlink",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -970,6 +969,7 @@
         "substr",
         "summaryf",
         "superfences",
+        "symlink",
         "synchronised",
         "sysfs",
         "sysstat",
