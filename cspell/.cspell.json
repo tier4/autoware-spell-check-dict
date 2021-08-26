@@ -35,12 +35,6 @@
     "flagWords": [
         "planing"
     ],
-    "dictionaries": [
-        "autoware"
-    ],
-    "dictionaryDefinitions": [
-        {"name": "autoware", "path": "./dict/autoware.txt"}
-    ],
     "words": [
         "aarch",
         "abspath",
