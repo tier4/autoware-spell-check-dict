@@ -35,6 +35,12 @@
     "flagWords": [
         "planing"
     ],
+    "dictionaries": [
+        "autoware"
+    ],
+    "dictionaryDefinitions": [
+        {"name": "autoware", "path": "./dict/autoware.txt"}
+    ],
     "words": [
         "aarch",
         "abspath",
@@ -79,8 +85,6 @@
         "autorepeat",
         "autoscale",
         "autoupdate",
-        "autoware",
-        "autoware's",
         "AWAPI",
         "AWIV",
         "Axisd",
