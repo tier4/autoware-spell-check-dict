@@ -1138,6 +1138,8 @@
         "zmqpp",
         "zorder",
         "zstd",
-        "zsync"
+        "zsync",
+        "roboteq",
+        "MSCL"
     ]
 }
