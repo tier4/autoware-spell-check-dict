@@ -8,6 +8,18 @@
             "allowCompoundWords": false
         }
     ],
+    "overrides": [
+        {
+            "filename": "**/*.svg",
+            "ignoreRegExpList": [
+                "etag=&quot;[a-zA-Z0-9 +-/_]+&quot;",
+                "filter=\"[a-zA-Z0-9 +-/_#()]+\"",
+                "id=\"[a-zA-Z0-9 +-/_]+\"",
+                "id=&quot;[a-zA-Z0-9 +-/_]+&quot;",
+                "name=&quot;[a-zA-Z0-9 +-/_]+&quot;"
+            ]
+        }
+    ],
     "ignorePaths": [
         "**/*.caffemodel",
         "**/*.cu",
