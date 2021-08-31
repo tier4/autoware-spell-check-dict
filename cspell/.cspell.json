@@ -8,6 +8,12 @@
             "allowCompoundWords": false
         }
     ],
+    "overrides": [
+        {
+            "filename": "**/*.svg",
+            "ignoreRegExpList": ["content=\"(.*?)\""]
+        }
+    ],
     "ignorePaths": [
         "**/*.caffemodel",
         "**/*.cu",
