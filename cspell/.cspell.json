@@ -11,7 +11,9 @@
     "overrides": [
         {
             "filename": "**/*.svg",
-            "ignoreRegExpList": ["id=&quot;(.*?)&quot;"]
+            "ignoreRegExpList": [
+                "id=&quot;(.*?)&quot;"
+            ]
         }
     ],
     "ignorePaths": [
