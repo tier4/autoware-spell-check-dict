@@ -341,6 +341,7 @@
         "endforeach",
         "endfunction",
         "endl",
+        "endmacro",
         "enduml",
         "Englewood",
         "ENTRYPOINT",
