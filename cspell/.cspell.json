@@ -617,6 +617,7 @@
         "meshgrid",
         "metainfo",
         "MGRS",
+        "microstrain",
         "midnightblue",
         "Mihelich",
         "milee",
@@ -1140,7 +1141,6 @@
         "zmqpp",
         "zorder",
         "zstd",
-        "zsync",
-        "microstrain"
+        "zsync"
     ]
 }
