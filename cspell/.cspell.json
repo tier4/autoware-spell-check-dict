@@ -10,6 +10,28 @@
     ],
     "overrides": [
         {
+            "filename": "**/{*.hpp,*.cpp}",
+            "ignoreRegExpList": [
+                "TODO\\(.+\\)"
+            ]
+        },
+        {
+            "filename": "**/*.md",
+            "ignoreRegExpList": [
+                "\\(Contribution by .+?\\)",
+                "\\]\\(#.+?\\)",
+                "^\\| GPU  Name.+$",
+                "^gdown .+$"
+            ]
+        },
+        {
+            "filename": "**/*.rst",
+            "ignoreRegExpList": [
+                "^.*Merge branch.+$",
+                "^.*Contributors:.+$"
+            ]
+        },
+        {
             "filename": "**/*.svg",
             "ignoreRegExpList": [
                 "etag=&quot;[a-zA-Z0-9 +-/_]+&quot;",
