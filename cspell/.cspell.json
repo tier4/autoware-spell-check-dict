@@ -572,6 +572,7 @@
         "libnvinfer",
         "libnvonnxparsers",
         "libnvparsers",
+        "libomp",
         "libopencv",
         "libopenscenario",
         "libosqp",
