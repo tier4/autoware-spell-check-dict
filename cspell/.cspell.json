@@ -361,6 +361,7 @@
         "feedforward",
         "Fermik",
         "fetchall",
+        "FHTI",
         "figsize",
         "filtfilt",
         "FLANN",
@@ -380,6 +381,7 @@
         "freqs",
         "fromtimestamp",
         "ftest",
+        "FTTI",
         "Fujii",
         "fullscreen",
         "Fumihito",
@@ -1179,8 +1181,6 @@
         "zmqpp",
         "zorder",
         "zstd",
-        "FTTI",
-        "FHTI",
         "zsync"
     ]
 }
