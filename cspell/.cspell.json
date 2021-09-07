@@ -815,6 +815,7 @@
         "pointcloud",
         "pointclouds",
         "Polyline",
+        "polynomial",
         "POSIX",
         "poslvx",
         "postprocess",
