@@ -343,6 +343,7 @@
         "endfunction",
         "endl",
         "endmacro",
+        "EndofRoadCondition",
         "enduml",
         "Englewood",
         "ENTRYPOINT",
