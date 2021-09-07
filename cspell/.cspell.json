@@ -1006,6 +1006,7 @@
         "STREQ",
         "STREQUAL",
         "strlen",
+        "STRNE",
         "struct",
         "structs",
         "styfle",
