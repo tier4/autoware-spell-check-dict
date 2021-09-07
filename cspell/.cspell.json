@@ -878,6 +878,7 @@
         "rcutils",
         "readlink",
         "realloc",
+        "recieved",
         "reclass",
         "recvmsgs",
         "reindex",
