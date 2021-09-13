@@ -70,6 +70,10 @@
         "planing"
     ],
     "words": [
+        "SIGHUP",
+        "SIGINT",
+        "SIGQUIT",
+        "SIGTERM",
         "aarch",
         "abspath",
         "abstractmethod",
