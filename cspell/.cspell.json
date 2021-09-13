@@ -70,10 +70,6 @@
         "planing"
     ],
     "words": [
-        "SIGHUP",
-        "SIGINT",
-        "SIGQUIT",
-        "SIGTERM",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -975,8 +971,12 @@
         "shiojiri",
         "Shortcodes",
         "Shuhei",
+        "SIGHUP",
+        "SIGINT",
         "signoff",
+        "SIGQUIT",
         "sigsegv",
+        "SIGTERM",
         "SIMD",
         "SIOCETHTOOL",
         "SIVD",
