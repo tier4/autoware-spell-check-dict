@@ -411,6 +411,7 @@
         "georeferenced",
         "getctime",
         "getmtime",
+        "getopt",
         "getopts",
         "getroot",
         "getsize",
