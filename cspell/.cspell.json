@@ -70,7 +70,6 @@
         "planing"
     ],
     "words": [
-        "astype",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -102,6 +101,7 @@
         "ASIL",
         "astar",
         "astuff",
+        "astype",
         "attrdata",
         "autoclean",
         "Autocompute",
