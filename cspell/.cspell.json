@@ -70,7 +70,6 @@
         "planing"
     ],
     "words": [
-        "getopt",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -411,6 +410,7 @@
         "georeferenced",
         "getctime",
         "getmtime",
+        "getopt",
         "getopts",
         "getroot",
         "getsize",
