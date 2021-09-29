@@ -70,8 +70,6 @@
         "planing"
     ],
     "words": [
-        "Blackfly",
-        "FLIR",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -140,6 +138,7 @@
         "bijective",
         "binarize",
         "binarydeb",
+        "Blackfly",
         "blanchedalmond",
         "blindspot",
         "blindspots",
@@ -376,6 +375,7 @@
         "filtfilt",
         "FLANN",
         "fliplr",
+        "FLIR",
         "floralwhite",
         "FMEA",
         "fmod",
