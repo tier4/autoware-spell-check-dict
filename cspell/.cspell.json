@@ -70,7 +70,6 @@
         "planing"
     ],
     "words": [
-        "gpio",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -432,6 +431,7 @@
         "golfcart",
         "GOMP",
         "googletest",
+        "gpio",
         "Gpkg",
         "greenyellow",
         "gridmap",
