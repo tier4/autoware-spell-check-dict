@@ -70,6 +70,14 @@
         "planing"
     ],
     "words": [
+        "pykwalify",
+        "dateutil",
+        "idxmax",
+        "argcomplete",
+        "fullmatch",
+        "strtobool",
+        "relpath",
+        "DataFrame",
         "aarch",
         "abspath",
         "abstractmethod",
