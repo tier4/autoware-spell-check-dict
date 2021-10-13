@@ -70,9 +70,6 @@
         "planing"
     ],
     "words": [
-        "xaxis",
-        "yaxis",
-        "showlegend",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -1000,6 +997,7 @@
         "shinpei",
         "shiojiri",
         "Shortcodes",
+        "showlegend",
         "Shuhei",
         "SIGHUP",
         "SIGINT",
@@ -1182,6 +1180,7 @@
         "Wunused",
         "xacro",
         "xargs",
+        "xaxis",
         "xelement",
         "xfer",
         "xhost",
@@ -1211,6 +1210,7 @@
         "yapf",
         "YAWB",
         "yawbias",
+        "yaxis",
         "yellowgreen",
         "ylabel",
         "ylim",
