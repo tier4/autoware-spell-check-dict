@@ -1236,6 +1236,8 @@
         "zmqpp",
         "zorder",
         "zstd",
-        "zsync"
+        "zsync",
+        "OPTIND",
+        "printenv"
     ]
 }
