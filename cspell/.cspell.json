@@ -794,6 +794,7 @@
         "openscenario",
         "optarg",
         "optenv",
+        "OPTIND",
         "orangered",
         "orthometric",
         "osqp",
@@ -847,6 +848,7 @@
         "preprocess",
         "preprocessors",
         "pretrained",
+        "printenv",
         "printf",
         "PROCHOT",
         "proto",
@@ -1236,8 +1238,6 @@
         "zmqpp",
         "zorder",
         "zstd",
-        "zsync",
-        "OPTIND",
-        "printenv"
+        "zsync"
     ]
 }
