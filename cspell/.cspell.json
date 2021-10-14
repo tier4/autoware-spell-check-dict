@@ -10,8 +10,9 @@
     ],
     "overrides": [
         {
-            "filename": "**/{*.hpp,*.cpp}",
+            "filename": "**/{*.hpp,*.cpp,*.py,*.yaml,*.sh}",
             "ignoreRegExpList": [
+                "FIXME\\(.+\\)",
                 "TODO\\(.+\\)"
             ]
         },
