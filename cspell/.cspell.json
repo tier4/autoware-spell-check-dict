@@ -840,6 +840,7 @@
         "pmatrix",
         "pointcloud",
         "pointclouds",
+        "pointsize",
         "Polyline",
         "POSIX",
         "poslvx",
