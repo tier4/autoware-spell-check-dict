@@ -1245,6 +1245,7 @@
         "zmqpp",
         "zorder",
         "zstd",
-        "zsync"
+        "zsync",
+        "CSTO"
     ]
 }
