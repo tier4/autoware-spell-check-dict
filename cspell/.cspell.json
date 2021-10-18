@@ -245,6 +245,7 @@
         "cpunum",
         "cropbox",
         "cstdio",
+        "CSTO",
         "cublas",
         "CUDA",
         "CUDART",
@@ -1245,7 +1246,6 @@
         "zmqpp",
         "zorder",
         "zstd",
-        "zsync",
-        "CSTO"
+        "zsync"
     ]
 }
