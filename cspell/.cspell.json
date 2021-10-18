@@ -245,6 +245,7 @@
         "cpunum",
         "cropbox",
         "cstdio",
+        "CSTO",
         "cublas",
         "CUDA",
         "CUDART",
