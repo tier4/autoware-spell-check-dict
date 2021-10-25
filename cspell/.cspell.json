@@ -243,6 +243,8 @@
         "cpptools",
         "cpufreq",
         "cpunum",
+        "crbegin",
+        "crend",
         "cropbox",
         "cstdio",
         "CSTO",
