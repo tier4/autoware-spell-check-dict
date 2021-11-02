@@ -26,6 +26,12 @@
             ]
         },
         {
+            "filename": "**/*.txt",
+            "ignoreRegExpList": [
+                "download\\(.+\\)"
+            ]
+        },
+        {
             "filename": "**/*.rst",
             "ignoreRegExpList": [
                 "^.*Merge branch.+$",
