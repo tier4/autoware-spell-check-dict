@@ -69,6 +69,7 @@
         "**/.gitignore",
         "**/.idea/**",
         "**/.mypy_cache/**",
+        "**/CPPLINT.cfg",
         "**/__pycache__/**",
         "**/build/**",
         "**/external/**",
