@@ -49,6 +49,13 @@
                 "<text .*?>.*?\\.\\.\\.</text>",
                 "^.*?\\.\\.\\.(</text>)?$"
             ]
+        },
+        {
+            "filename": "**/package.xml",
+            "ignoreRegExpList": [
+                "<author.*?</author>",
+                "<maintainer.*?</maintainer>"
+            ]
         }
     ],
     "ignorePaths": [
