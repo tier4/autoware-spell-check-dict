@@ -568,6 +568,7 @@
         "keyserver",
         "KHTML",
         "Kinect",
+        "kinshicho",
         "kitti",
         "kmph",
         "Kosuke",
@@ -1221,7 +1222,6 @@
         "zmqpp",
         "zorder",
         "zstd",
-        "zsync",
-        "kinshicho"
+        "zsync"
     ]
 }
