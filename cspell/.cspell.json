@@ -211,6 +211,7 @@
         "bugtracker",
         "BUILDKIT",
         "buildtool",
+        "buildx",
         "burlywood",
         "butterworth",
         "buttord",
@@ -372,6 +373,7 @@
         "dockerenv",
         "dockerhub",
         "dockeri",
+        "dockerignore",
         "dodgerblue",
         "Dolan",
         "downsample",
@@ -1222,8 +1224,6 @@
         "zmqpp",
         "zorder",
         "zstd",
-        "zsync",
-        "dockerignore",
-        "buildx"
+        "zsync"
     ]
 }
