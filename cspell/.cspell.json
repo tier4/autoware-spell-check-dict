@@ -1222,6 +1222,8 @@
         "zmqpp",
         "zorder",
         "zstd",
-        "zsync"
+        "zsync",
+        "dockerignore",
+        "buildx"
     ]
 }
