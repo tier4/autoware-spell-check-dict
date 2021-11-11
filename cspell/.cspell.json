@@ -421,6 +421,7 @@
         "exitflag",
         "fabs",
         "FASTCRC",
+        "fastrtps",
         "favicon",
         "fclose",
         "feedforward",
