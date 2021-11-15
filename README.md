@@ -31,9 +31,20 @@ The words you inserted into the json will be **sorted automatically** by GitHub 
 
 ### Ubuntu 18.04 or later
 
+**Requirement**: Node.js >= v12
+
 ```shell
-# Install a spell checker (cspell) using npm
+# Install Node.js
+# See the latest instruction https://nodejs.org/en/download/package-manager/#debian-and-ubuntu-based-linux-distributions
+# The following command installs Node.js LTS
+$ curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 $ sudo apt install nodejs
+
+# Make sure that Node.js >= v12
+$ node -v
+v16.13.0
+
+# Install a spell checker (cspell) using npm
 $ sudo npm install -g cspell
 
 # Copy the dictionary into your environment
