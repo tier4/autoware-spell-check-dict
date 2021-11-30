@@ -122,6 +122,8 @@
         "planing"
     ],
     "words": [
+        "autofix",
+        "shfmt",
         "aarch",
         "abspath",
         "abstractmethod",
