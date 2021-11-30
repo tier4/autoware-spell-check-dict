@@ -122,8 +122,6 @@
         "planing"
     ],
     "words": [
-        "autofix",
-        "shfmt",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -165,6 +163,7 @@
         "attrdata",
         "autoclean",
         "Autocompute",
+        "autofix",
         "automan",
         "automerge",
         "AUTOMOC",
@@ -1022,6 +1021,7 @@
         "setuptools",
         "shellcheck",
         "Shepp",
+        "shfmt",
         "shinjuku",
         "shiojiri",
         "Shortcodes",
