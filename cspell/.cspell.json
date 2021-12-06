@@ -893,6 +893,7 @@
         "pugixml",
         "pushable",
         "pyaw",
+        "pybind",
         "pycache",
         "pycodestyle",
         "pydevproject",
