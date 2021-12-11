@@ -122,8 +122,6 @@
         "planing"
     ],
     "words": [
-        "elif",
-        "esac",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -412,6 +410,7 @@
         "EIGEN",
         "eigensolver",
         "Eitan",
+        "elif",
         "embree",
         "endfor",
         "endforeach",
@@ -422,6 +421,7 @@
         "Englewood",
         "ENTRYPOINT",
         "Eppstein",
+        "esac",
         "esli",
         "etag",
         "eulerangle",
