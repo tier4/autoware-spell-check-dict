@@ -99,6 +99,7 @@
     ],
     "ignorePaths": [
         "**/*.caffemodel",
+        "**/*.css",
         "**/*.cu",
         "**/*.html",
         "**/*.m4a",
@@ -115,6 +116,7 @@
         "**/.gitignore",
         "**/.idea/**",
         "**/.mypy_cache/**",
+        "**/.vscode/**",
         "**/CPPLINT.cfg",
         "**/__pycache__/**",
         "**/build/**",
