@@ -63,6 +63,13 @@
             ]
         },
         {
+            "filename": "**/*.toml",
+            "ignoreRegExpList": [
+                "authors = .*?$",
+                "maintainers = .*?$"
+            ]
+        },
+        {
             "filename": "**/*.txt",
             "ignoreRegExpList": [
                 "download\\(.+\\)"
@@ -92,6 +99,7 @@
     ],
     "ignorePaths": [
         "**/*.caffemodel",
+        "**/*.css",
         "**/*.cu",
         "**/*.html",
         "**/*.m4a",
@@ -108,6 +116,7 @@
         "**/.gitignore",
         "**/.idea/**",
         "**/.mypy_cache/**",
+        "**/.vscode/**",
         "**/CPPLINT.cfg",
         "**/__pycache__/**",
         "**/build/**",
@@ -155,12 +164,14 @@
         "Arya",
         "ASAM",
         "asciidoctor",
+        "asciidoctorj",
         "ASIL",
         "asio",
         "astar",
         "astuff",
         "astype",
         "attrdata",
+        "authcli",
         "autoclean",
         "Autocompute",
         "autofix",
@@ -208,6 +219,7 @@
         "Bonnifait",
         "booktitle",
         "borderaxespad",
+        "boto",
         "boundingbox",
         "Bovbel",
         "brakemap",
@@ -755,6 +767,8 @@
         "mypy",
         "MZVLB",
         "nanosec",
+        "natsort",
+        "natsorted",
         "navajowhite",
         "navpvt",
         "navsatfix",
@@ -830,6 +844,7 @@
         "overaccel",
         "overspeed",
         "overwriter",
+        "oyaml",
         "pacmod",
         "palegoldenrod",
         "palegreen",
@@ -853,6 +868,7 @@
         "Philipp",
         "pinv",
         "pipefail",
+        "pipx",
         "Pixmap",
         "pjreddie's",
         "pkgs",
@@ -909,6 +925,7 @@
         "pynput",
         "pyplot",
         "pyqt",
+        "pyquaternion",
         "pysqlite",
         "pytest",
         "pytorch",
@@ -953,6 +970,7 @@
         "relref",
         "relu",
         "remappings",
+        "renamer",
         "repos",
         "resample",
         "resampled",
@@ -1159,6 +1177,7 @@
         "unsqueeze",
         "URDF",
         "Uref",
+        "USECASE",
         "usermod",
         "UTMUPS",
         "valgrind",
