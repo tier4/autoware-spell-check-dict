@@ -63,6 +63,13 @@
             ]
         },
         {
+            "filename": "**/*.toml",
+            "ignoreRegExpList": [
+                "authors = .*?$",
+                "maintainers = .*?$"
+            ]
+        },
+        {
             "filename": "**/*.txt",
             "ignoreRegExpList": [
                 "download\\(.+\\)"
