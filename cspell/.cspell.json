@@ -131,7 +131,6 @@
         "planing"
     ],
     "words": [
-        "enarmor",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -426,6 +425,7 @@
         "Eitan",
         "elif",
         "embree",
+        "enarmor",
         "endfor",
         "endforeach",
         "endfunction",
