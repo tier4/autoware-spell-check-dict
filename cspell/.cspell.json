@@ -90,6 +90,12 @@
             ]
         },
         {
+            "filename": "**/galaxy.yml",
+            "ignoreRegExpList": [
+                "- .+<.+@.+>$"
+            ]
+        },
+        {
             "filename": "**/package.xml",
             "ignoreRegExpList": [
                 "<author.*?</author>",
