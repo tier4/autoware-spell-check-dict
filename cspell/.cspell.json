@@ -131,7 +131,6 @@
         "planing"
     ],
     "words": [
-        "rerunfailures",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -973,6 +972,7 @@
         "remappings",
         "renamer",
         "repos",
+        "rerunfailures",
         "resample",
         "resampled",
         "resamples",
