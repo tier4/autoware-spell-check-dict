@@ -131,8 +131,6 @@
         "planing"
     ],
     "words": [
-        "containerd",
-        "runc",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -288,6 +286,7 @@
         "Consolas",
         "constexpr",
         "constness",
+        "containerd",
         "contourf",
         "conv",
         "copyfile",
@@ -1024,6 +1023,7 @@
         "RTNL",
         "RTPS",
         "rtree",
+        "runc",
         "Runge",
         "Rusu",
         "rviz",
