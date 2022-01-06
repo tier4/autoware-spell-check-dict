@@ -131,6 +131,8 @@
         "planing"
     ],
     "words": [
+        "containerd",
+        "runc",
         "aarch",
         "abspath",
         "abstractmethod",
