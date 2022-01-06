@@ -975,6 +975,7 @@
         "remappings",
         "renamer",
         "repos",
+        "rerunfailures",
         "resample",
         "resampled",
         "resamples",
