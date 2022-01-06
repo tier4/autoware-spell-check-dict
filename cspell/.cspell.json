@@ -131,7 +131,6 @@
         "planing"
     ],
     "words": [
-        "dearmor",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -358,6 +357,7 @@
         "deadtime",
         "deadzone",
         "Deallocations",
+        "dearmor",
         "DEBCONF",
         "decel",
         "decltype",
