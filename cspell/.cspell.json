@@ -131,7 +131,6 @@
         "planing"
     ],
     "words": [
-        "socio",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -1071,6 +1070,7 @@
         "slategray",
         "slerp",
         "smatch",
+        "socio",
         "socketcan",
         "softmax",
         "solio",
