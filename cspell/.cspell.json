@@ -84,6 +84,7 @@
         {
             "filename": "**/*.yaml",
             "ignoreRegExpList": [
+                "uses: .+$",
                 "author: .+$",
                 "git_user: .+$",
                 "git_email: .+$"
