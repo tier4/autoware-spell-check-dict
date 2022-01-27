@@ -96,6 +96,14 @@
                 "<author.*?</author>",
                 "<maintainer.*?</maintainer>"
             ]
+        },
+        {
+            "filename": "**/sync-files.yaml",
+            "ignoreRegExpList": [
+                "repository: .*",
+                "source: .*",
+                "dest: .*"
+            ]
         }
     ],
     "ignorePaths": [
