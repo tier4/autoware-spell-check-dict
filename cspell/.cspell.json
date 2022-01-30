@@ -140,7 +140,6 @@
         "planing"
     ],
     "words": [
-        "topo",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -1172,6 +1171,7 @@
         "toolkits",
         "topk",
         "toplevel",
+        "topo",
         "Toprated",
         "tostring",
         "tqdm",
