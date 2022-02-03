@@ -140,8 +140,6 @@
         "planing"
     ],
     "words": [
-        "prestart",
-        "multiarch",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -773,6 +771,7 @@
         "MSCL",
         "msse",
         "mssql",
+        "multiarch",
         "multilib",
         "multiline",
         "multipass",
@@ -919,6 +918,7 @@
         "prepended",
         "preprocess",
         "preprocessors",
+        "prestart",
         "pretrained",
         "printenv",
         "printf",
