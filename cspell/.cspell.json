@@ -1297,6 +1297,7 @@
         "zmqpp",
         "zorder",
         "zstd",
-        "zsync"
+        "zsync",
+        "ctest"
     ]
 }
