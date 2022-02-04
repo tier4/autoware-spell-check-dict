@@ -328,6 +328,7 @@
         "cropbox",
         "cstdio",
         "CSTO",
+        "ctest",
         "cublas",
         "CUDA",
         "CUDART",
