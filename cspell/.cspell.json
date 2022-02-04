@@ -328,6 +328,7 @@
         "cropbox",
         "cstdio",
         "CSTO",
+        "ctest",
         "cublas",
         "CUDA",
         "CUDART",
@@ -1297,7 +1298,6 @@
         "zmqpp",
         "zorder",
         "zstd",
-        "zsync",
-        "ctest"
+        "zsync"
     ]
 }
