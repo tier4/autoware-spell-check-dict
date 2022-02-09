@@ -140,7 +140,6 @@
         "planing"
     ],
     "words": [
-        "ghcr",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -518,6 +517,7 @@
         "getsize",
         "GFILE",
         "gfortran",
+        "ghcr",
         "ghostwhite",
         "GICP",
         "GLIBCXX",
