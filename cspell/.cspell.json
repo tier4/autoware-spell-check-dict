@@ -140,7 +140,6 @@
         "planing"
     ],
     "words": [
-        "yamllint",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -1278,6 +1277,7 @@
         "XYZRT",
         "yamale",
         "Yamasaki",
+        "yamllint",
         "yapf",
         "YAWB",
         "yawbias",
