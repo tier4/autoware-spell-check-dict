@@ -8,7 +8,7 @@ if ! (command -v jq >/dev/null 2>&1); then
 fi
 
 # Set target file
-cspell_json="$SCRIPT_DIR/cspell/.cspell.json"
+cspell_json="$SCRIPT_DIR/.cspell.json"
 
 # Create new json
 sorted_json=$(

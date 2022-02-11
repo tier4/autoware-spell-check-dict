@@ -10,7 +10,7 @@ The words in the dictionary are sorted by the command `sort --ignore-case | uniq
 
 ## How to contribute
 
-Just edit `cspell/.cspell.json` as follows and send a pull-request to this repository. Thanks!
+Just edit `.cspell.json` as follows and send a pull-request to this repository. Thanks!
 
 The words you inserted into the json will be **sorted automatically** by GitHub Actions.
 
@@ -50,7 +50,7 @@ $ sudo npm install -g cspell
 
 # Copy the dictionary into your environment
 $ cd /your-project-dir
-$ wget https://raw.githubusercontent.com/tier4/autoware-spell-check-dict/main/cspell/.cspell.json
+$ wget https://raw.githubusercontent.com/tier4/autoware-spell-check-dict/main/.cspell.json
 
 # Check spelling
 $ cspell /path/to/src/*.cpp /path/to/include/*.hpp
