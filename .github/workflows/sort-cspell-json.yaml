@@ -7,6 +7,13 @@ jobs:
   sort-cspell-json:
     runs-on: ubuntu-latest
     steps:
+      - name: Generate token
+        id: generate-token
+        uses: tibdex/github-app-token@v1
+        with:
+          app_id: ${{ secrets.APP_ID }}
+          private_key: ${{ secrets.PRIVATE_KEY }}
+
       - name: Checkout repository
         uses: actions/checkout@v2
         with:
@@ -19,14 +26,17 @@ jobs:
 
       - name: Run sort_cspell_json.sh
         run: |
-          ${GITHUB_WORKSPACE}/sort_cspell_json.sh
+          ./sort_cspell_json.sh
+
+      - name: Set git config
+        uses: autowarefoundation/autoware-github-actions/set-git-config@tier4/proposal
+        with:
+          token: ${{ steps.generate-token.outputs.token }}
 
       - name: Commit and push
         run: |
           if ! git diff --exit-code --quiet; then
-            git config user.name github-actions
-            git config user.email github-actions@github.com
             git add -u .
-            git commit -m "Sort and uniq the words"
+            git commit -m "chore: sort and uniq the words"
             git push
           fi
