@@ -16,14 +16,15 @@ The words you inserted into the json will be **sorted automatically** by GitHub 
 
 ```json
 {
-    "words": [
-        "add-word1-here",
-        "add-word2-here",
-        "add-word3-here",
-        "aarch",
-        "abstractmethod",
-        "..."
-    ]
+  "words": [
+    "add-word1-here",
+    "add-word2-here",
+    "add-word3-here",
+    "aarch",
+    "abstractmethod",
+    "...",
+    "..."
+  ]
 }
 ```
 
