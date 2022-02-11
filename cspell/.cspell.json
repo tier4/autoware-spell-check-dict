@@ -106,6 +106,9 @@
             ]
         }
     ],
+    "ignoreRegExpList": [
+        "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?"
+    ],
     "ignorePaths": [
         "**/*.caffemodel",
         "**/*.css",
