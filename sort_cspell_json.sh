@@ -12,7 +12,7 @@ cspell_json="$SCRIPT_DIR/cspell/.cspell.json"
 
 # Create new json
 sorted_json=$(
-    jq --indent 4 \
+    jq --indent 2 \
         "{
         version: .version,
         language: .language,
