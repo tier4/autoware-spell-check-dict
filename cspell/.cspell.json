@@ -119,9 +119,6 @@
             ]
         }
     ],
-    "ignoreRegExpList": [
-        "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?"
-    ],
     "ignorePaths": [
         "**/*.caffemodel",
         "**/*.css",
@@ -145,11 +142,11 @@
         "**/CPPLINT.cfg",
         "**/__pycache__/**",
         "**/build/**",
+        "**/dist/**",
         "**/external/**",
         "**/install/**",
         "**/log/**",
         "**/package-lock.json",
-        "**/dist/**",
         "**/public/**",
         "**/reports*/**"
     ],
@@ -157,7 +154,6 @@
         "planing"
     ],
     "words": [
-        "vercel",
         "aarch",
         "abspath",
         "abstractmethod",
@@ -1239,6 +1235,7 @@
         "Velodyne",
         "VeloView",
         "venv",
+        "vercel",
         "verticalalignment",
         "vindices",
         "vios",
