@@ -133,6 +133,7 @@
         "**/install/**",
         "**/log/**",
         "**/package-lock.json",
+        "**/dist/**",
         "**/public/**",
         "**/reports*/**"
     ],
