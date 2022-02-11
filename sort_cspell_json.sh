@@ -19,6 +19,7 @@ sorted_json=$(jq --indent 4 \
         languageSettings: .languageSettings,
         overrides: .overrides,
         ignorePaths: .ignorePaths | sort_by(.),
+        ignoreRegExpList: .ignoreRegExpList,
         flagWords: .flagWords,
         words: .words | unique | sort_by(. | ascii_downcase),
     }" < "$cspell_json"

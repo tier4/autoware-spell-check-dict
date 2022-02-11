@@ -150,6 +150,9 @@
         "**/public/**",
         "**/reports*/**"
     ],
+    "ignoreRegExpList": [
+        "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?"
+    ],
     "flagWords": [
         "planing"
     ],
