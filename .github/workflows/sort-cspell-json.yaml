@@ -1,12 +1,11 @@
-name: Sort .cspell.json
+name: sort-cspell-json
 
 on:
   pull_request:
 
 jobs:
-  build:
+  sort-cspell-json:
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v2
