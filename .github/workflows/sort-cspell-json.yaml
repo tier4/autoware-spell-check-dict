@@ -28,6 +28,9 @@ jobs:
         run: |
           ./sort_cspell_json.sh
 
+          # For backward compatibility
+          cp .cspell.json cspell/.cspell.json
+
       - name: Set git config
         uses: autowarefoundation/autoware-github-actions/set-git-config@tier4/proposal
         with:
