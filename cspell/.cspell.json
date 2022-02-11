@@ -120,6 +120,7 @@
         }
     ],
     "ignorePaths": [
+        "**/*.cspell.json",
         "**/*.caffemodel",
         "**/*.css",
         "**/*.cu",
