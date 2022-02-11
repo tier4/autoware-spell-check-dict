@@ -104,6 +104,13 @@
                 "source: .*",
                 "dest: .*"
             ]
+        },
+        {
+            "filename": "**/{*.js,*.ts}",
+            "ignoreRegExpList": [
+                "owner: .*$",
+                "repo:: .*$"
+            ]
         }
     ],
     "ignoreRegExpList": [
