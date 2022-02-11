@@ -1,5 +1,5 @@
 {
-    "version": "0.1",
+    "version": "0.2",
     "language": "en",
     "allowCompoundWords": false,
     "languageSettings": [
@@ -98,11 +98,24 @@
             ]
         },
         {
+            "filename": "**/package.json",
+            "ignoreRegExpList": [
+                "\"author\": .*"
+            ]
+        },
+        {
             "filename": "**/sync-files.yaml",
             "ignoreRegExpList": [
                 "repository: .*",
                 "source: .*",
                 "dest: .*"
+            ]
+        },
+        {
+            "filename": "**/{*.js,*.ts}",
+            "ignoreRegExpList": [
+                "owner: .*$",
+                "repo:: .*$"
             ]
         }
     ],
@@ -129,6 +142,7 @@
         "**/CPPLINT.cfg",
         "**/__pycache__/**",
         "**/build/**",
+        "**/dist/**",
         "**/external/**",
         "**/install/**",
         "**/log/**",
@@ -1221,6 +1235,7 @@
         "Velodyne",
         "VeloView",
         "venv",
+        "vercel",
         "verticalalignment",
         "vindices",
         "vios",
