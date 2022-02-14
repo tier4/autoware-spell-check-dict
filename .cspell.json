@@ -121,6 +121,7 @@
   ],
   "ignorePaths": [
     "**/*.caffemodel",
+    "**/*.cpr",
     "**/*.cspell.json",
     "**/*.css",
     "**/*.cu",
@@ -232,6 +233,7 @@
     "baseclass",
     "basecoords",
     "baselink",
+    "baudrate",
     "behaviortree",
     "behaviour",
     "behaviours",
@@ -254,6 +256,7 @@
     "Bovbel",
     "brakemap",
     "Bresenham",
+    "brushless",
     "bson",
     "bugprone",
     "bugtracker",
