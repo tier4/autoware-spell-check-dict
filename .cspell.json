@@ -1274,6 +1274,7 @@
     "Woodall",
     "WORKDIR",
     "Wpedantic",
+    "wrapexcept",
     "wspace",
     "Wunused",
     "xacro",
