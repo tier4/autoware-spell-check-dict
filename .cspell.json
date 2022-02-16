@@ -159,7 +159,6 @@
     "planing"
   ],
   "words": [
-    "ccache",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -281,6 +280,7 @@
     "cassert",
     "catmull",
     "cbegin",
+    "ccache",
     "CCSC",
     "CCSCC",
     "cend",
