@@ -392,6 +392,7 @@
     "DCATKIN",
     "DCMAKE",
     "dcosyaw",
+    "dconf",
     "DCOVERAGE",
     "deadtime",
     "deadzone",
