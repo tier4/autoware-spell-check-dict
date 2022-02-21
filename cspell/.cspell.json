@@ -391,6 +391,7 @@
     "DBGVAL",
     "DCATKIN",
     "DCMAKE",
+    "dconf",
     "dcosyaw",
     "DCOVERAGE",
     "deadtime",
