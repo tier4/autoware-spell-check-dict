@@ -562,6 +562,7 @@
     "gridmap",
     "groot",
     "gsof",
+    "gsettings",
     "gtest",
     "hadolint",
     "HARA",
