@@ -160,7 +160,6 @@
     "planing"
   ],
   "words": [
-    "datadir",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -383,6 +382,7 @@
     "darkviolet",
     "DARPA",
     "dasharray",
+    "datadir",
     "dataend",
     "datafiles",
     "dataholder",
