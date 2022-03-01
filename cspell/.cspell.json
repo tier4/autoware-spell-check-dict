@@ -154,7 +154,8 @@
     "**/reports*/**"
   ],
   "ignoreRegExpList": [
-    "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?"
+    "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?",
+    "\\[.*/.*\\]\\(https://github.com"
   ],
   "flagWords": [
     "planing"
