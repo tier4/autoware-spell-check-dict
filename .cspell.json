@@ -160,8 +160,6 @@
     "planing"
   ],
   "words": [
-    "kmod",
-    "udev",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -653,6 +651,7 @@
     "Kinect",
     "kinshicho",
     "kitti",
+    "kmod",
     "kmph",
     "Kosuke",
     "Krähenbühl",
@@ -1230,6 +1229,7 @@
     "tzinfo",
     "Ublox",
     "uchar",
+    "udev",
     "unconfigure",
     "unconfigured",
     "unconstraint",
