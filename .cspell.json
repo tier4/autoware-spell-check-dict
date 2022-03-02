@@ -160,7 +160,6 @@
     "planing"
   ],
   "words": [
-    "gscam",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -565,6 +564,7 @@
     "greenyellow",
     "gridmap",
     "groot",
+    "gscam",
     "gsettings",
     "gsof",
     "gtest",
