@@ -162,7 +162,6 @@
     "planing"
   ],
   "words": [
-    "udpreplay",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1234,6 +1233,7 @@
     "Ublox",
     "uchar",
     "udev",
+    "udpreplay",
     "unconfigure",
     "unconfigured",
     "unconstraint",
