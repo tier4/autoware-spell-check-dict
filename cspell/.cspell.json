@@ -10,7 +10,7 @@
   ],
   "overrides": [
     {
-      "filename": "**/{*.cpp,*.hpp,*.py,*.sh,*.xml,*.yaml,CMakeLists.txt}",
+      "filename": "**/{*.cpp,*.hpp,*.py,*.sh,*.xml,*.yaml}",
       "ignoreRegExpList": [
         "Copyright (\\(c\\))?.+$",
         "FIXME( )?\\(.+?\\)",
