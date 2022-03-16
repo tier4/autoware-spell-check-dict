@@ -162,7 +162,6 @@
     "planing"
   ],
   "words": [
-    "wstring",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1298,6 +1297,7 @@
     "Wpedantic",
     "wrapexcept",
     "wspace",
+    "wstring",
     "Wunused",
     "xacro",
     "xargs",
