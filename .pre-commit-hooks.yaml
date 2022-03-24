@@ -1,6 +1,6 @@
 - id: sort-cspell-json
   name: sort cspell.json
   description: Sort cspell.json.
-  entry: sort_cspell_json.sh
-  language: script
-  files: ^.cspell.json$
+  entry: sort-cspell-json
+  language: python
+  files: .cspell.json$
