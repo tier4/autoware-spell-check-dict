@@ -162,9 +162,6 @@
     "planing"
   ],
   "words": [
-    "microautonomy",
-    "modularizes",
-    "runtimes",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -791,6 +788,7 @@
     "meshgrid",
     "metainfo",
     "MGRS",
+    "microautonomy",
     "microstrain",
     "midnightblue",
     "milee",
@@ -803,6 +801,7 @@
     "mobilenetv",
     "Mobileye",
     "modeset",
+    "modularizes",
     "Monrroy",
     "MOSFET",
     "mosquitto",
@@ -1097,6 +1096,7 @@
     "rtree",
     "runc",
     "Runge",
+    "runtimes",
     "Rusu",
     "rviz",
     "SACMODEL",
