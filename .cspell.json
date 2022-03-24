@@ -1213,6 +1213,7 @@
     "timezone",
     "tinyxml",
     "tnear",
+    "toco-toucan",
     "tolist",
     "toolkits",
     "topk",
@@ -1349,7 +1350,6 @@
     "zmqpp",
     "zorder",
     "zstd",
-    "zsync",
-    "toco-toucan"
+    "zsync"
   ]
 }
