@@ -1349,6 +1349,7 @@
     "zmqpp",
     "zorder",
     "zstd",
-    "zsync"
+    "zsync",
+    "toco-toucan"
   ]
 }
