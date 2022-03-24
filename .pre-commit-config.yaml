@@ -45,7 +45,7 @@ repos:
         args: [-w, -s, -i=4]
 
   - repo: https://github.com/KeisukeShima/autoware-spell-check-dict
-    rev: 3cd152d
+    rev: 5b74975
     hooks:
       - id: sort-cspell-json
 
