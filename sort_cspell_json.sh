@@ -1,14 +1,16 @@
 #!/usr/bin/env bash
 
-SCRIPT_DIR=$(readlink -e "$(dirname "${0}")")
+echo "Sorting cspell json files"
+echo "Target file is $1"
 
 # Install jq
 if ! (command -v jq >/dev/null 2>&1); then
+    echo "Installing jq"
     sudo apt-get install -y jq
 fi
 
 # Set target file
-cspell_json="$SCRIPT_DIR/.cspell.json"
+cspell_json="$1"
 
 # Create new json
 sorted_json=$(
@@ -28,6 +30,7 @@ sorted_json=$(
 
 # If jq succeed, replace file
 if [ "${PIPESTATUS[0]}" = "0" ]; then
+    echo "Sorting succeeded"
     echo "$sorted_json" >"$cspell_json"
 else
     echo "Failed to parse json."

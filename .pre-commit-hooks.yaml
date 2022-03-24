@@ -3,4 +3,4 @@
   description: Sort cspell.json.
   entry: sort_cspell_json.sh
   language: script
-  files: .cspell.json$
+  files: ^.cspell.json$
