@@ -44,4 +44,9 @@ repos:
       - id: shfmt
         args: [-w, -s, -i=4]
 
+  - repo: https://github.com/tier4/autoware-spell-check-dict
+    rev: v0.1.0
+    hooks:
+      - id: sort-cspell-json
+
 exclude: .svg
