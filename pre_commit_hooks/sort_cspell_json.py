@@ -1,4 +1,4 @@
-# Copyright 2022 Tier IV, Inc. All rights reserved.
+# Copyright 2022 TIER IV, Inc. All rights reserved.
 #
 # Licensed under the Apache License, Version 2.0 (the "License");
 # you may not use this file except in compliance with the License.
@@ -17,7 +17,7 @@ import json
 from pathlib import Path
 
 
-# The key contained in the json.
+# The keys contained in the JSON file.
 # The default setting is {unique: False, sort: False, key_order: None}
 KEYS = {
     "ignorePaths": {"unique": True, "sort": True, "key_order": None},
@@ -47,7 +47,6 @@ def parse(data):
 
 
 def main(argv=None):
-
     parser = argparse.ArgumentParser()
     parser.add_argument("filenames", nargs="*", help="Filenames to fix")
     args = parser.parse_args(argv)
