@@ -49,12 +49,11 @@ def format_cspell_json(cspell_json: Dict[str, List[str]]) -> Dict[str, List[str]
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
     parser = argparse.ArgumentParser()
-    parser.add_argument("filenames", nargs="*", help="Filenames to fix")
+    parser.add_argument("filenames", nargs="*", type=Path, help="Filenames to fix")
     args = parser.parse_args(argv)
 
     return_code = 0
-    for filename in args.filenames:
-        filepath = Path(filename)
+    for filepath in args.filenames:
         original_json = json.loads(filepath.read_text(encoding="utf-8"))
         original_json_str = json.dumps(original_json)
 
