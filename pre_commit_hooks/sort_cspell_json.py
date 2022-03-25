@@ -38,13 +38,13 @@ def sort_json(data: Dict[str, List[str]], key: str, key_order: str = None) -> Di
     return data
 
 
-def parse(data: Dict[str, List[str]]) -> Dict[str, List[str]]:
+def format_cspell_json(cspell_json: Dict[str, List[str]]) -> Dict[str, List[str]]:
     for key in KEYS:
         if KEYS[key]["unique"]:
-            data = unique_json(data, key)
+            cspell_json = unique_json(cspell_json, key)
         if KEYS[key]["sort"]:
-            data = sort_json(data, key, key_order=KEYS[key]["key_order"])
-    return data
+            cspell_json = sort_json(cspell_json, key, key_order=KEYS[key]["key_order"])
+    return cspell_json
 
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
@@ -58,7 +58,7 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
         original_json = json.loads(filepath.read_text(encoding="utf-8"))
         original_json_str = json.dumps(original_json)
 
-        sorted_json = parse(original_json)
+        sorted_json = format_cspell_json(original_json)
 
         if json.dumps(sorted_json) != original_json_str:
             print(f"Fixing {filepath}")
