@@ -1,7 +1,7 @@
 from pathlib import Path
 import shutil
 
-from pre_commit_hooks import sort_cspell_json
+from pre_commit_hooks import format_cspell_json
 
 
 def test(datadir: Path):
@@ -13,11 +13,11 @@ def test(datadir: Path):
     shutil.copy(input_file, target_file)
 
     # Format
-    return_code = sort_cspell_json.main([str(target_file)])
+    return_code = format_cspell_json.main([str(target_file)])
     assert return_code == 1
     assert target_file.read_text() == answer_file.read_text()
 
     # Re-format
-    return_code = sort_cspell_json.main([str(target_file)])
+    return_code = format_cspell_json.main([str(target_file)])
     assert return_code == 0
     assert target_file.read_text() == answer_file.read_text()
