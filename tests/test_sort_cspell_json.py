@@ -4,20 +4,20 @@ import shutil
 from pre_commit_hooks import sort_cspell_json
 
 
-def test(tmp_path: Path, datadir: Path):
+def test(datadir: Path):
     input_file = datadir / ".cspell.input.json"
     answer_file = datadir / ".cspell.answer.json"
 
     # Create a temporary file to prevent overwriting original files
-    tmp_file = tmp_path / ".cspell.input.json"
-    shutil.copy(input_file, tmp_file)
+    target_file = input_file.with_suffix(".target")
+    shutil.copy(input_file, target_file)
 
     # Format
-    return_code = sort_cspell_json.main([str(tmp_file)])
+    return_code = sort_cspell_json.main([str(target_file)])
     assert return_code == 1
-    assert tmp_file.read_text() == answer_file.read_text()
+    assert target_file.read_text() == answer_file.read_text()
 
     # Re-format
-    return_code = sort_cspell_json.main([str(tmp_file)])
+    return_code = sort_cspell_json.main([str(target_file)])
     assert return_code == 0
-    assert tmp_file.read_text() == answer_file.read_text()
+    assert target_file.read_text() == answer_file.read_text()
