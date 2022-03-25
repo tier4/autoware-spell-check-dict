@@ -28,10 +28,10 @@ KEYS = {
 
 
 def unique_json(data: Dict[str, List[str]], key: str) -> Dict[str, List[str]]:
-    uniqued_data = copy.deepcopy(data)
+    unique_data = copy.deepcopy(data)
     if key in data:
-        uniqued_data[key] = list(set(data[key]))
-    return uniqued_data
+        unique_data[key] = list(set(data[key]))
+    return unique_data
 
 
 def sort_json(data: Dict[str, List[str]], key: str, key_order: str = None) -> Dict[str, List[str]]:
@@ -42,13 +42,13 @@ def sort_json(data: Dict[str, List[str]], key: str, key_order: str = None) -> Di
 
 
 def format_cspell_json(cspell_json: Dict[str, List[str]]) -> Dict[str, List[str]]:
-    formated_json = copy.deepcopy(cspell_json)
+    formatted_json = copy.deepcopy(cspell_json)
     for key in KEYS:
         if KEYS[key]["unique"]:
-            formated_json = unique_json(formated_json, key)
+            formatted_json = unique_json(formatted_json, key)
         if KEYS[key]["sort"]:
-            formated_json = sort_json(formated_json, key, key_order=KEYS[key]["key_order"])
-    return formated_json
+            formatted_json = sort_json(formatted_json, key, key_order=KEYS[key]["key_order"])
+    return formatted_json
 
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
