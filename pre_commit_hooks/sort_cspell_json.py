@@ -13,6 +13,7 @@
 # limitations under the License.
 
 import argparse
+import copy
 import json
 from pathlib import Path
 from typing import Dict, List, Optional, Sequence
@@ -27,24 +28,27 @@ KEYS = {
 
 
 def unique_json(data: Dict[str, List[str]], key: str) -> Dict[str, List[str]]:
+    uniqued_data = copy.deepcopy(data)
     if key in data:
-        data[key] = list(set(data[key]))
-    return data
+        uniqued_data[key] = list(set(data[key]))
+    return uniqued_data
 
 
 def sort_json(data: Dict[str, List[str]], key: str, key_order: str = None) -> Dict[str, List[str]]:
+    sorted_data = copy.deepcopy(data)
     if key in data:
-        data[key] = sorted(data[key], key=key_order)
-    return data
+        sorted_data[key] = sorted(data[key], key=key_order)
+    return sorted_data
 
 
 def format_cspell_json(cspell_json: Dict[str, List[str]]) -> Dict[str, List[str]]:
+    formated_json = copy.deepcopy(cspell_json)
     for key in KEYS:
         if KEYS[key]["unique"]:
-            cspell_json = unique_json(cspell_json, key)
+            formated_json = unique_json(formated_json, key)
         if KEYS[key]["sort"]:
-            cspell_json = sort_json(cspell_json, key, key_order=KEYS[key]["key_order"])
-    return cspell_json
+            formated_json = sort_json(formated_json, key, key_order=KEYS[key]["key_order"])
+    return formated_json
 
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
@@ -55,11 +59,9 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     return_code = 0
     for filepath in args.filenames:
         original_json = json.loads(filepath.read_text(encoding="utf-8"))
-        original_json_str = json.dumps(original_json)
-
         sorted_json = format_cspell_json(original_json)
 
-        if json.dumps(sorted_json) != original_json_str:
+        if json.dumps(sorted_json) != json.dumps(original_json):
             print(f"Fixing {filepath}")
             filepath.write_text(
                 json.dumps(sorted_json, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
