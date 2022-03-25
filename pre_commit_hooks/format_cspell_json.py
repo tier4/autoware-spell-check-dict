@@ -16,38 +16,39 @@ import argparse
 import copy
 import json
 from pathlib import Path
-from typing import Dict, List, Optional, Sequence
+from typing import Dict, Optional, Sequence
 
 
-# The keys contained in the JSON file.
-# The default setting is {unique: False, sort: False, key_order: None}
-KEYS = {
-    "ignorePaths": {"unique": True, "sort": True, "key_order": None},
-    "words": {"unique": True, "sort": True, "key_order": str.lower},
-}
+def format_json_recursive(j: Dict) -> Dict:
+    if isinstance(j, dict):
+        j = {k: format_json_recursive(v) for k, v in j.items()}
+    elif isinstance(j, list):
+        if any([not isinstance(v, str) for v in j]):
+            j = [format_json_recursive(v) for v in j]
+        else:
+            j = list(set(j))
+            j = sorted(j, key=str.lower)
+    return j
 
 
-def unique_json(data: Dict[str, List[str]], key: str) -> Dict[str, List[str]]:
-    unique_data = copy.deepcopy(data)
-    if key in data:
-        unique_data[key] = list(set(data[key]))
-    return unique_data
+def format_cspell_json(cspell_json: Dict) -> Dict:
+    # Sort inside each key
+    formatted_json = format_json_recursive(cspell_json)
 
+    # Sort top-level keys
+    formatted_json = {
+        "version": formatted_json["version"],
+        "language": formatted_json["language"],
+        "allowCompoundWords": formatted_json["allowCompoundWords"],
+        "ignorePaths": formatted_json["ignorePaths"],
+        "ignoreRegExpList": formatted_json["ignoreRegExpList"],
+        "overrides": formatted_json["overrides"],
+        "words": formatted_json["words"],
+    }
 
-def sort_json(data: Dict[str, List[str]], key: str, key_order: str = None) -> Dict[str, List[str]]:
-    sorted_data = copy.deepcopy(data)
-    if key in data:
-        sorted_data[key] = sorted(data[key], key=key_order)
-    return sorted_data
+    # Sort inside "overrides"
+    formatted_json["overrides"] = sorted(formatted_json["overrides"], key=lambda x: x["filename"])
 
-
-def format_cspell_json(cspell_json: Dict[str, List[str]]) -> Dict[str, List[str]]:
-    formatted_json = copy.deepcopy(cspell_json)
-    for key in KEYS:
-        if KEYS[key]["unique"]:
-            formatted_json = unique_json(formatted_json, key)
-        if KEYS[key]["sort"]:
-            formatted_json = sort_json(formatted_json, key, key_order=KEYS[key]["key_order"])
     return formatted_json
 
 
@@ -59,12 +60,13 @@ def main(argv: Optional[Sequence[str]] = None) -> int:
     return_code = 0
     for filepath in args.filenames:
         original_json = json.loads(filepath.read_text(encoding="utf-8"))
-        sorted_json = format_cspell_json(original_json)
+        sorted_json = format_cspell_json(copy.deepcopy(original_json))
 
         if json.dumps(sorted_json) != json.dumps(original_json):
             print(f"Fixing {filepath}")
             filepath.write_text(
-                json.dumps(sorted_json, indent=2, ensure_ascii=False) + "\n", encoding="utf-8")
+                json.dumps(sorted_json, indent=2, ensure_ascii=False) + "\n", encoding="utf-8"
+            )
             return_code = 1
 
     return return_code
