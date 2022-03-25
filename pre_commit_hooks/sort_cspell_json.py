@@ -15,6 +15,7 @@
 import argparse
 import json
 from pathlib import Path
+from typing import Dict, List, Optional, Sequence
 
 
 # The keys contained in the JSON file.
@@ -25,19 +26,19 @@ KEYS = {
 }
 
 
-def unique_json(data, key):
+def unique_json(data: Dict[str, List[str]], key: str) -> Dict[str, List[str]]:
     if key in data:
         data[key] = list(set(data[key]))
     return data
 
 
-def sort_json(data, key, key_order=None):
+def sort_json(data: Dict[str, List[str]], key: str, key_order: str = None) -> Dict[str, List[str]]:
     if key in data:
         data[key] = sorted(data[key], key=key_order)
     return data
 
 
-def parse(data):
+def parse(data: Dict[str, List[str]]) -> Dict[str, List[str]]:
     for key in KEYS:
         if KEYS[key]["unique"]:
             data = unique_json(data, key)
@@ -46,7 +47,7 @@ def parse(data):
     return data
 
 
-def main(argv=None):
+def main(argv: Optional[Sequence[str]] = None) -> int:
     parser = argparse.ArgumentParser()
     parser.add_argument("filenames", nargs="*", help="Filenames to fix")
     args = parser.parse_args(argv)
