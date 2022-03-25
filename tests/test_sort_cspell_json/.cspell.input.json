@@ -158,9 +158,6 @@
     "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?",
     "\\[.*/.*\\]\\(https://github.com"
   ],
-  "flagWords": [
-    "planing"
-  ],
   "words": [
     "aarch",
     "abspath",
