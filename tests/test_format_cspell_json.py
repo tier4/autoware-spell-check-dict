@@ -1,6 +1,6 @@
 from pathlib import Path
 
-from pre_commit_hooks import format_cspell_json
+from format_cspell_json import format_cspell_json
 
 
 def test(datadir: Path):
