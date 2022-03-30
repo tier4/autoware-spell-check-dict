@@ -35,7 +35,7 @@
         "name=&quot;[^>]+",
         "<text .*?>.*?\\.\\.\\.</text>",
         "^.*?\\.\\.\\.(</text>)?$",
-        "data:image/png,.*;"        
+        "data:image/png,.*;"
       ]
     },
     {
