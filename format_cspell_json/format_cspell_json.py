@@ -33,24 +33,28 @@ def format_json_recursive(j: Dict) -> Dict:
 
 def format_cspell_json(cspell_json: Dict) -> Dict:
     # Sort inside each key
-    formatted_json = format_json_recursive(cspell_json)
+    formatted = format_json_recursive(cspell_json)
 
     # Sort top-level keys
-    formatted_json = {
-        "version": formatted_json["version"],
-        "language": formatted_json["language"],
-        "allowCompoundWords": formatted_json["allowCompoundWords"],
-        "ignorePaths": formatted_json["ignorePaths"],
-        "ignoreRegExpList": formatted_json["ignoreRegExpList"],
-        "overrides": formatted_json["overrides"],
-        "flagWords": formatted_json["flagWords"],
-        "words": formatted_json["words"],
-    }
+    new_keys = [
+        "version",
+        "language",
+        "allowCompoundWords",
+        "ignorePaths",
+        "ignoreRegExpList",
+        "overrides",
+        "flagWords",
+        "words",
+    ]
+    reorganized = {}
+    for key in new_keys:
+        if formatted.get(key) is not None:
+            reorganized[key] = formatted[key]
 
     # Sort inside "overrides"
-    formatted_json["overrides"] = sorted(formatted_json["overrides"], key=lambda x: x["filename"])
+    reorganized["overrides"] = sorted(reorganized["overrides"], key=lambda x: x["filename"])
 
-    return formatted_json
+    return reorganized
 
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
