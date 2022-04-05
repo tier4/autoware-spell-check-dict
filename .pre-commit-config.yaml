@@ -44,9 +44,13 @@ repos:
       - id: shfmt
         args: [-w, -s, -i=4]
 
-  - repo: https://github.com/tier4/autoware-spell-check-dict
-    rev: v0.1.0
+  - repo: local
     hooks:
-      - id: sort-cspell-json
+      - id: format-cspell-json
+        name: format cspell.json
+        description: Format cspell.json.
+        entry: python format_cspell_json/format_cspell_json.py
+        language: python
+        files: .cspell.json$
 
 exclude: .svg
