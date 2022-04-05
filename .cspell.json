@@ -34,7 +34,8 @@
         "id=&quot;[a-zA-Z0-9 +-/_]+&quot;",
         "name=&quot;[^>]+",
         "<text .*?>.*?\\.\\.\\.</text>",
-        "^.*?\\.\\.\\.(</text>)?$"
+        "^.*?\\.\\.\\.(</text>)?$",
+        "data:image/png,.*;"
       ]
     },
     {
@@ -230,6 +231,7 @@
     "Axisd",
     "Axisf",
     "backport",
+    "backports",
     "bagfile",
     "bagkeeper",
     "bagpacker",
@@ -756,6 +758,7 @@
     "LLVM",
     "Logiee",
     "logsim",
+    "longsleep",
     "lowpass",
     "LPFED",
     "lsim",
