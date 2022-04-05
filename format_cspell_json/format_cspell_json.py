@@ -43,6 +43,7 @@ def format_cspell_json(cspell_json: Dict) -> Dict:
         "ignorePaths": formatted_json["ignorePaths"],
         "ignoreRegExpList": formatted_json["ignoreRegExpList"],
         "overrides": formatted_json["overrides"],
+        "flagWords": formatted_json["flagWords"],
         "words": formatted_json["words"],
     }
 
