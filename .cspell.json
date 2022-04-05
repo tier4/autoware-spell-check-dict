@@ -157,8 +157,6 @@
     "planing"
   ],
   "words": [
-    "WCET",
-    "WCETs",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1284,6 +1282,8 @@
     "wasim",
     "wayarea",
     "wayareas",
+    "WCET",
+    "WCETs",
     "webauto",
     "webcard",
     "webviz",
