@@ -1,0 +1,18 @@
+name: check-deprecated-file-change
+
+on:
+  pull_request:
+
+jobs:
+  check-deprecated-file-change:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Check deprecated file change
+        run: |
+          if ! git diff --exit-code --quiet "origin/${{ github.base_ref }}...HEAD" -- cspell/.cspell.json; then
+            echo "Don't edit 'cspell/.cspell.json', edit '.cspell.json' instead."
+            exit 1
+          fi
