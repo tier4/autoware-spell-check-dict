@@ -137,7 +137,6 @@
       "ignoreRegExpList": [
         "<text .*?>.*?\\.\\.\\.</text>",
         "^.*?\\.\\.\\.(</text>)?$",
-        "data:image/png,.*;",
         "etag=&quot;[a-zA-Z0-9 +-/_]+&quot;",
         "filter=\"[a-zA-Z0-9 +-/_#()]+\"",
         "id=\"[a-zA-Z0-9 +-/_]+\"",
@@ -153,17 +152,7 @@
       ]
     }
   ],
-  "flagWords": [
-    "planing"
-  ],
   "words": [
-    "XSOCK",
-    "MITSHM",
-    "XAUTHORITY",
-    "nmerge",
-    "nlist",
-    "xauth",
-    "XAUTH",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -232,7 +221,6 @@
     "Axisd",
     "Axisf",
     "backport",
-    "backports",
     "bagfile",
     "bagkeeper",
     "bagpacker",
@@ -759,7 +747,6 @@
     "LLVM",
     "Logiee",
     "logsim",
-    "longsleep",
     "lowpass",
     "LPFED",
     "lsim",
@@ -792,7 +779,6 @@
     "meshgrid",
     "metainfo",
     "MGRS",
-    "microautonomy",
     "microstrain",
     "midnightblue",
     "milee",
@@ -805,7 +791,6 @@
     "mobilenetv",
     "Mobileye",
     "modeset",
-    "modularizes",
     "Monrroy",
     "MOSFET",
     "mosquitto",
@@ -1100,7 +1085,6 @@
     "rtree",
     "runc",
     "Runge",
-    "runtimes",
     "Rusu",
     "rviz",
     "SACMODEL",

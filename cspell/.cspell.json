@@ -2,49 +2,53 @@
   "version": "0.2",
   "language": "en",
   "allowCompoundWords": false,
-  "languageSettings": [
-    {
-      "languageId": "bash,cpp,html,python",
-      "allowCompoundWords": false
-    }
+  "ignorePaths": [
+    "**/*.caffemodel",
+    "**/*.cpr",
+    "**/*.cspell.json",
+    "**/*.css",
+    "**/*.cu",
+    "**/*.dae",
+    "**/*.html",
+    "**/*.m4a",
+    "**/*.mp3",
+    "**/*.onnx",
+    "**/*.osm",
+    "**/*.pcd",
+    "**/*.pt",
+    "**/*.stl",
+    "**/*.wav",
+    "**/*.zip",
+    "**/*.zst",
+    "**/.git/**",
+    "**/.gitignore",
+    "**/.idea/**",
+    "**/.mypy_cache/**",
+    "**/.vscode/**",
+    "**/__pycache__/**",
+    "**/build/**",
+    "**/CPPLINT.cfg",
+    "**/dist/**",
+    "**/external/**",
+    "**/install/**",
+    "**/log/**",
+    "**/package-lock.json",
+    "**/public/**",
+    "**/reports*/**"
+  ],
+  "ignoreRegExpList": [
+    "\\[.*/.*\\]\\(https://github.com",
+    "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?"
   ],
   "overrides": [
     {
-      "filename": "**/{*.cpp,*.hpp,*.py,*.sh,*.xml,*.yaml,CMakeLists.txt}",
-      "ignoreRegExpList": [
-        "Copyright (\\(c\\))?.+$",
-        "FIXME( )?\\(.+?\\)",
-        "TODO( )?\\(.+?\\)"
-      ]
-    },
-    {
-      "filename": "**/{*.cpp,*.hpp}",
-      "ignoreRegExpList": [
-        "@author .*$",
-        "\\author .*$",
-        "Author(s)?( )?: .*$"
-      ]
-    },
-    {
-      "filename": "**/{*.drawio,*.svg}",
-      "ignoreRegExpList": [
-        "etag=&quot;[a-zA-Z0-9 +-/_]+&quot;",
-        "filter=\"[a-zA-Z0-9 +-/_#()]+\"",
-        "id=\"[a-zA-Z0-9 +-/_]+\"",
-        "id=&quot;[a-zA-Z0-9 +-/_]+&quot;",
-        "name=&quot;[^>]+",
-        "<text .*?>.*?\\.\\.\\.</text>",
-        "^.*?\\.\\.\\.(</text>)?$"
-      ]
-    },
-    {
       "filename": "**/*.md",
       "ignoreRegExpList": [
-        "uses: .+/.+@.+",
         "\\(Contribution by .+?\\)",
         "\\]\\(#.+?\\)",
         "^\\| GPU  Name.+$",
-        "^gdown .+$"
+        "^gdown .+$",
+        "uses: .+/.+@.+"
       ]
     },
     {
@@ -85,10 +89,16 @@
     {
       "filename": "**/*.yaml",
       "ignoreRegExpList": [
-        "uses: .+$",
         "author: .+$",
+        "git_email: .+$",
         "git_user: .+$",
-        "git_email: .+$"
+        "uses: .+$"
+      ]
+    },
+    {
+      "filename": "**/package.json",
+      "ignoreRegExpList": [
+        "\"author\": .*"
       ]
     },
     {
@@ -99,17 +109,40 @@
       ]
     },
     {
-      "filename": "**/package.json",
+      "filename": "**/sync-files.yaml",
       "ignoreRegExpList": [
-        "\"author\": .*"
+        "dest: .*",
+        "repository: .*",
+        "source: .*"
       ]
     },
     {
-      "filename": "**/sync-files.yaml",
+      "filename": "**/{*.cpp,*.hpp,*.py,*.sh,*.xml,*.yaml,CMakeLists.txt}",
       "ignoreRegExpList": [
-        "repository: .*",
-        "source: .*",
-        "dest: .*"
+        "Copyright (\\(c\\))?.+$",
+        "FIXME( )?\\(.+?\\)",
+        "TODO( )?\\(.+?\\)"
+      ]
+    },
+    {
+      "filename": "**/{*.cpp,*.hpp}",
+      "ignoreRegExpList": [
+        "@author .*$",
+        "\\author .*$",
+        "Author(s)?( )?: .*$"
+      ]
+    },
+    {
+      "filename": "**/{*.drawio,*.svg}",
+      "ignoreRegExpList": [
+        "<text .*?>.*?\\.\\.\\.</text>",
+        "^.*?\\.\\.\\.(</text>)?$",
+        "data:image/png,.*;",
+        "etag=&quot;[a-zA-Z0-9 +-/_]+&quot;",
+        "filter=\"[a-zA-Z0-9 +-/_#()]+\"",
+        "id=\"[a-zA-Z0-9 +-/_]+\"",
+        "id=&quot;[a-zA-Z0-9 +-/_]+&quot;",
+        "name=&quot;[^>]+"
       ]
     },
     {
@@ -119,44 +152,6 @@
         "repo:: .*$"
       ]
     }
-  ],
-  "ignorePaths": [
-    "**/*.caffemodel",
-    "**/*.cpr",
-    "**/*.cspell.json",
-    "**/*.css",
-    "**/*.cu",
-    "**/*.dae",
-    "**/*.html",
-    "**/*.m4a",
-    "**/*.mp3",
-    "**/*.onnx",
-    "**/*.osm",
-    "**/*.pcd",
-    "**/*.pt",
-    "**/*.stl",
-    "**/*.wav",
-    "**/*.zip",
-    "**/*.zst",
-    "**/.git/**",
-    "**/.gitignore",
-    "**/.idea/**",
-    "**/.mypy_cache/**",
-    "**/.vscode/**",
-    "**/CPPLINT.cfg",
-    "**/__pycache__/**",
-    "**/build/**",
-    "**/dist/**",
-    "**/external/**",
-    "**/install/**",
-    "**/log/**",
-    "**/package-lock.json",
-    "**/public/**",
-    "**/reports*/**"
-  ],
-  "ignoreRegExpList": [
-    "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?",
-    "\\[.*/.*\\]\\(https://github.com"
   ],
   "flagWords": [
     "planing"
@@ -230,6 +225,7 @@
     "Axisd",
     "Axisf",
     "backport",
+    "backports",
     "bagfile",
     "bagkeeper",
     "bagpacker",
@@ -756,6 +752,7 @@
     "LLVM",
     "Logiee",
     "logsim",
+    "longsleep",
     "lowpass",
     "LPFED",
     "lsim",
@@ -788,6 +785,7 @@
     "meshgrid",
     "metainfo",
     "MGRS",
+    "microautonomy",
     "microstrain",
     "midnightblue",
     "milee",
@@ -800,6 +798,7 @@
     "mobilenetv",
     "Mobileye",
     "modeset",
+    "modularizes",
     "Monrroy",
     "MOSFET",
     "mosquitto",
@@ -1094,6 +1093,7 @@
     "rtree",
     "runc",
     "Runge",
+    "runtimes",
     "Rusu",
     "rviz",
     "SACMODEL",
