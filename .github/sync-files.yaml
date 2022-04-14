@@ -3,10 +3,7 @@
     - source: .github/dependabot.yaml
     - source: .github/workflows/semantic-pull-request.yaml
     - source: .github/workflows/spell-check-differential.yaml
+    - source: .github/workflows/sync-files.yaml
     - source: .markdownlint.yaml
     - source: .prettierrc.yaml
     - source: .yamllint.yaml
-
-- repository: autowarefoundation/autoware_common
-  files:
-    - source: .github/workflows/sync-files.yaml
