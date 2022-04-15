@@ -275,6 +275,7 @@
     "calloc",
     "callstr",
     "canlib",
+    "capwords",
     "carcolor",
     "carryforward",
     "cassert",
@@ -881,6 +882,7 @@
     "nvml",
     "nvonnxparser",
     "nvparsers",
+    "NVTL",
     "oarchive",
     "Obinata",
     "objectness",
@@ -1358,8 +1360,6 @@
     "zmqpp",
     "zorder",
     "zstd",
-    "zsync",
-    "NVTL",
-    "capwords"
+    "zsync"
   ]
 }
