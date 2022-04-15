@@ -1358,6 +1358,8 @@
     "zmqpp",
     "zorder",
     "zstd",
-    "zsync"
+    "zsync",
+    "NVTL",
+    "capwords"
   ]
 }
