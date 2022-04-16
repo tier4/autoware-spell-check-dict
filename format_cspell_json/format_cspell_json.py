@@ -16,7 +16,9 @@ import argparse
 import copy
 import json
 from pathlib import Path
-from typing import Dict, Optional, Sequence
+from typing import Dict
+from typing import Optional
+from typing import Sequence
 
 
 def format_json_recursive(j: Dict) -> Dict:
