@@ -40,6 +40,20 @@
     "\\[.*/.*\\]\\(https://github.com",
     "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?"
   ],
+  "languageSettings": [
+    {
+      "languageId": "bash,cpp,html,python"
+    },
+    {
+      "languageId": "markdown",
+      "dictionaries": [
+        "latex"
+      ],
+      "ignoreRegExpList": [
+        "/^```(?:.|\\s)+?^```/mig"
+      ]
+    }
+  ],
   "overrides": [
     {
       "filename": "**/*.md",
