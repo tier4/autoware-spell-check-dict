@@ -4,8 +4,15 @@
   "allowCompoundWords": false,
   "languageSettings": [
     {
-      "languageId": "bash,cpp,html,python",
-      "allowCompoundWords": false
+      "languageId": "markdown",
+      "ignoreRegExpList": ["/^```(?:.|\\s)+?^```/mig"],
+      "dictionaries": [
+        "latex"
+      ]
+    },
+    {
+      "allowCompoundWords": false,
+      "languageId": "bash,cpp,html,python"
     }
   ],
   "overrides": [
