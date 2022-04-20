@@ -168,7 +168,6 @@
     "planing"
   ],
   "words": [
-    "jsonify",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -651,6 +650,7 @@
     "Jiangnan",
     "joinpath",
     "JPNTAXI",
+    "jsonify",
     "kalman",
     "Kammel",
     "Kashiwa",
