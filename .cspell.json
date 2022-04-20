@@ -244,6 +244,7 @@
     "basecoords",
     "baselink",
     "baudrate",
+    "beautifulsoup",
     "behaviortree",
     "behaviour",
     "behaviours",
