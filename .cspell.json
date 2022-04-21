@@ -168,7 +168,6 @@
     "planing"
   ],
   "words": [
-    "orocos",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -918,6 +917,7 @@
     "optenv",
     "OPTIND",
     "orangered",
+    "orocos",
     "orthometric",
     "osqp",
     "osqpsolver",
