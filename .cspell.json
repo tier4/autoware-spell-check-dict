@@ -168,7 +168,6 @@
     "planing"
   ],
   "words": [
-    "DROS",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -463,6 +462,7 @@
     "drawio",
     "Driveable",
     "driveworks",
+    "DROS",
     "dsinyaw",
     "dsteer",
     "dtheta",
