@@ -53,12 +53,6 @@
   ],
   "overrides": [
     {
-      "filename": "**/galaxy.yml",
-      "ignoreRegExpList": [
-        "- .+ <.+@.+>"
-      ]
-    },
-    {
       "filename": "**/*.md",
       "ignoreRegExpList": [
         "\\(Contribution by .+?\\)",
@@ -110,6 +104,12 @@
         "git_email: .+$",
         "git_user: .+$",
         "uses: .+$"
+      ]
+    },
+    {
+      "filename": "**/galaxy.yml",
+      "ignoreRegExpList": [
+        "- .+ <.+@.+>"
       ]
     },
     {
