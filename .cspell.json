@@ -53,6 +53,12 @@
   ],
   "overrides": [
     {
+      "filename": "**/galaxy.yml",
+      "ignoreRegExpList": [
+        "- .+ <.+@.+>"
+      ]
+    },
+    {
       "filename": "**/*.md",
       "ignoreRegExpList": [
         "\\(Contribution by .+?\\)",
