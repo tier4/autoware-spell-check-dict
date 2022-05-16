@@ -107,6 +107,12 @@
       ]
     },
     {
+      "filename": "**/galaxy.yml",
+      "ignoreRegExpList": [
+        "- .+ <.+@.+>"
+      ]
+    },
+    {
       "filename": "**/package.json",
       "ignoreRegExpList": [
         "\"author\": .*"
