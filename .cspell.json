@@ -1385,6 +1385,21 @@
     "zmqpp",
     "zorder",
     "zstd",
-    "zsync"
+    "zsync",
+    "CRTP",
+    "datatypes",
+    "minx",
+    "miny",
+    "minz",
+    "maxx",
+    "maxy",
+    "maxz",
+    "Redmon",
+    "Farhadi",
+    "Bochkovskiy",
+    "Jocher",
+    "ultralytics",
+    "Roboflow",
+    "Zenodo"
   ]
 }
