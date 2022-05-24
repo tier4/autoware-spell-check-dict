@@ -139,7 +139,7 @@
         "Copyright (\\(c\\))?.+$",
         "FIXME( )?\\(.+?\\)",
         "TODO( )?\\(.+?\\)",
-        "(max|min)(xyz)",
+        "(max|min)(xyz)"
       ]
     },
     {
