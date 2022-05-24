@@ -136,10 +136,10 @@
     {
       "filename": "**/{*.cpp,*.hpp,*.py,*.sh,*.xml,*.yaml,CMakeLists.txt}",
       "ignoreRegExpList": [
+        "(max|min)(xyz)",
         "Copyright (\\(c\\))?.+$",
         "FIXME( )?\\(.+?\\)",
-        "TODO( )?\\(.+?\\)",
-        "(max|min)(xyz)"
+        "TODO( )?\\(.+?\\)"
       ]
     },
     {
