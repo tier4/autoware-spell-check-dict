@@ -174,7 +174,6 @@
     "planing"
   ],
   "words": [
-    "cprint",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -365,6 +364,7 @@
     "cpplint",
     "cpprest",
     "cpptools",
+    "cprint",
     "cpufreq",
     "cpunum",
     "crbegin",
