@@ -364,6 +364,7 @@
     "cpplint",
     "cpprest",
     "cpptools",
+    "cprint",
     "cpufreq",
     "cpunum",
     "crbegin",
