@@ -828,6 +828,7 @@
     "MITSHM",
     "mkdir",
     "mkdocs",
+    "mkdocstrings",
     "mobilenetv",
     "Mobileye",
     "modeset",
