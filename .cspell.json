@@ -174,9 +174,6 @@
     "planing"
   ],
   "words": [
-    "numpify",
-    "msgify",
-    "ndarray",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -854,6 +851,7 @@
     "mptopic",
     "MQTT",
     "MSCL",
+    "msgify",
     "msse",
     "mssql",
     "multiarch",
@@ -879,6 +877,7 @@
     "navajowhite",
     "navpvt",
     "navsatfix",
+    "ndarray",
     "neighbours",
     "netlink",
     "netplan",
@@ -918,6 +917,7 @@
     "nullopt",
     "nullptr",
     "NUMD",
+    "numpify",
     "numpy",
     "NURBS",
     "nvcaffe",
