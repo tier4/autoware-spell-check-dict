@@ -3,6 +3,7 @@
   "language": "en",
   "allowCompoundWords": false,
   "ignorePaths": [
+    "**.*.dxf",
     "**/*.caffemodel",
     "**/*.cpr",
     "**/*.cspell.json",
@@ -17,6 +18,7 @@
     "**/*.pcd",
     "**/*.pt",
     "**/*.stl",
+    "**/*.svg",
     "**/*.wav",
     "**/*.zip",
     "**/*.zst",
