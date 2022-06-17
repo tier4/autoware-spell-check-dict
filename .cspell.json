@@ -1172,6 +1172,7 @@
     "septentrio",
     "setcap",
     "setfacl",
+    "setsockopt",
     "setuptools",
     "shellcheck",
     "Shepp",
