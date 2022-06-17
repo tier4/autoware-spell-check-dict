@@ -3,7 +3,7 @@
   "language": "en",
   "allowCompoundWords": false,
   "ignorePaths": [
-    "**.*.dxf",
+    "**/*.dxf",
     "**/*.caffemodel",
     "**/*.cpr",
     "**/*.cspell.json",
