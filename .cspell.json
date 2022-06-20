@@ -80,6 +80,24 @@
       ]
     },
     {
+      "filename": "**/*.svg",
+      "ignoreRegExpList": [
+        "bbox",
+        "bordercolor",
+        "borderopacity",
+        "inkscape",
+        "inkscape:.*=",
+        "namedview",
+        "nodetypes=\".*\"",
+        "pagecolor",
+        "pageshadow",
+        "showgrid",
+        "sodipodi",
+        "tspan",
+        "xlink:href=\"data:image/png;base64,.*\""
+      ]
+    },
+    {
       "filename": "**/*.toml",
       "ignoreRegExpList": [
         "authors = .*?$",
