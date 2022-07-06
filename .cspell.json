@@ -55,6 +55,15 @@
   ],
   "overrides": [
     {
+      "filename": "**/*.conf",
+      "ignoreRegExpList": [
+        "net.core.rmem_default=.*\n",
+        "net.core.rmem_max=.*\n",
+        "net.ipv4.ipfrag_high_thresh=.*\n",
+        "net.ipv4.ipfrag_time=.*\n"
+      ]
+    },
+    {
       "filename": "**/*.md",
       "ignoreRegExpList": [
         "\\(Contribution by .+?\\)",
@@ -177,10 +186,10 @@
         "data:image/png,.*;",
         "etag=&quot;[a-zA-Z0-9 +-/_]+&quot;",
         "filter=\"[a-zA-Z0-9 +-/_#()]+\"",
+        "font-family:[^]+\n",
         "id=\"[a-zA-Z0-9 +-/_]+\"",
         "id=&quot;[a-zA-Z0-9 +-/_]+&quot;",
-        "name=&quot;[^>]+",
-        "font-family:[^]+\n"
+        "name=&quot;[^>]+"
       ]
     },
     {
@@ -188,15 +197,6 @@
       "ignoreRegExpList": [
         "owner: .*$",
         "repo:: .*$"
-      ]
-    },
-    {
-      "filename": "**/*.conf",
-      "ignoreRegExpList": [
-        "net.ipv4.ipfrag_time=.*\n",
-        "net.ipv4.ipfrag_high_thresh=.*\n",
-        "net.core.rmem_max=.*\n",
-        "net.core.rmem_default=.*\n"
       ]
     }
   ],
