@@ -13,6 +13,7 @@
     "**/*.html",
     "**/*.m4a",
     "**/*.mp3",
+    "**/*.mp4",
     "**/*.onnx",
     "**/*.osm",
     "**/*.pcd",
@@ -178,7 +179,8 @@
         "filter=\"[a-zA-Z0-9 +-/_#()]+\"",
         "id=\"[a-zA-Z0-9 +-/_]+\"",
         "id=&quot;[a-zA-Z0-9 +-/_]+&quot;",
-        "name=&quot;[^>]+"
+        "name=&quot;[^>]+",
+        "font-family:[^]+\n"
       ]
     },
     {
@@ -186,6 +188,15 @@
       "ignoreRegExpList": [
         "owner: .*$",
         "repo:: .*$"
+      ]
+    },
+    {
+      "filename": "**/*.conf",
+      "ignoreRegExpList": [
+        "net.ipv4.ipfrag_time=.*\n",
+        "net.ipv4.ipfrag_high_thresh=.*\n",
+        "net.core.rmem_max=.*\n",
+        "net.core.rmem_default=.*\n"
       ]
     }
   ],
