@@ -55,15 +55,6 @@
   ],
   "overrides": [
     {
-      "filename": "**/*.conf",
-      "ignoreRegExpList": [
-        "net.core.rmem_default=.*\n",
-        "net.core.rmem_max=.*\n",
-        "net.ipv4.ipfrag_high_thresh=.*\n",
-        "net.ipv4.ipfrag_time=.*\n"
-      ]
-    },
-    {
       "filename": "**/*.md",
       "ignoreRegExpList": [
         "\\(Contribution by .+?\\)",
@@ -682,6 +673,7 @@
     "inpaints",
     "inplace",
     "intrinsics",
+    "ipfrag",
     "ipstream",
     "IREAD",
     "isabs",
@@ -1134,6 +1126,7 @@
     "respawn",
     "RGBA",
     "rinfo",
+    "rmem",
     "RMSE",
     "roadmap",
     "Robobus",
