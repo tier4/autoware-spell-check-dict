@@ -193,8 +193,6 @@
     "planing"
   ],
   "words": [
-    "lidartag",
-    "apriltag",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -220,6 +218,7 @@
     "antiquewhite",
     "ANYbotics",
     "appinfo",
+    "apriltag",
     "arange",
     "arclength",
     "arcname",
@@ -782,6 +781,7 @@
     "libxft",
     "libzmqpp",
     "lidars",
+    "lidartag",
     "light",
     "lightcoral",
     "lightcyan",
