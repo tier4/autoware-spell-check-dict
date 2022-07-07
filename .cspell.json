@@ -62,7 +62,7 @@
         "^\\| GPU  Name.+$",
         "^gdown .+$",
         "inet6 .*",
-        "scenario[a-zA-Z0-9 -_]+.yml",
+        "scenario[a-zA-Z0-9-_]+.yml",
         "uses: .+/.+@.+"
       ]
     },
