@@ -197,8 +197,6 @@
     "planing"
   ],
   "words": [
-    "vulkan",
-    "glvnd",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -617,6 +615,7 @@
     "GICP",
     "GLIBCXX",
     "glog",
+    "glvnd",
     "gmock",
     "GMRS",
     "GNSS",
@@ -1405,6 +1404,7 @@
     "voxels",
     "vscan",
     "vscodeintellicode",
+    "vulkan",
     "wasim",
     "wayarea",
     "wayareas",
