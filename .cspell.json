@@ -197,6 +197,12 @@
     "planing"
   ],
   "words": [
+    "xgrid",
+    "ygrid",
+    "xpan",
+    "ypan",
+    "xwheel",
+    "ywheel",
     "aarch",
     "abspath",
     "abstractmethod",
