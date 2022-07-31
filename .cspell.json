@@ -3,8 +3,8 @@
   "language": "en",
   "allowCompoundWords": false,
   "ignorePaths": [
-    "**/*.clang-tidy",
     "**/*.caffemodel",
+    "**/*.clang-tidy",
     "**/*.cpr",
     "**/*.cspell.json",
     "**/*.css",
