@@ -4,6 +4,7 @@
   "allowCompoundWords": false,
   "ignorePaths": [
     "**/*.caffemodel",
+    "**/*.clang-tidy",
     "**/*.cpr",
     "**/*.cspell.json",
     "**/*.css",
