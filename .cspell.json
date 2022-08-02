@@ -198,7 +198,6 @@
     "planing"
   ],
   "words": [
-    "NOLINTNEXTLINE",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -954,6 +953,7 @@
     "nodiscard",
     "noexcept",
     "NOLINT",
+    "NOLINTNEXTLINE",
     "nondecreasing",
     "noninteractive",
     "nonportable",
