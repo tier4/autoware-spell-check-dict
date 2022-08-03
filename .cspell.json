@@ -953,6 +953,7 @@
     "nodiscard",
     "noexcept",
     "NOLINT",
+    "NOLINTNEXTLINE",
     "nondecreasing",
     "noninteractive",
     "nonportable",
