@@ -198,7 +198,6 @@
     "planing"
   ],
   "words": [
-    "CODEOWNERS",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -361,6 +360,7 @@
     "codecov",
     "codehilite",
     "codeinclude",
+    "CODEOWNERS",
     "coderay",
     "coef",
     "coeff",
