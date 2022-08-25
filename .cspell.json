@@ -1116,6 +1116,7 @@
     "pyplot",
     "pyqt",
     "pyquaternion",
+    "pyright",
     "pysqlite",
     "pytest",
     "pytorch",
