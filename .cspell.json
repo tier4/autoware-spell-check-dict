@@ -198,7 +198,6 @@
     "planing"
   ],
   "words": [
-    "pyright",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1117,6 +1116,7 @@
     "pyplot",
     "pyqt",
     "pyquaternion",
+    "pyright",
     "pysqlite",
     "pytest",
     "pytorch",
