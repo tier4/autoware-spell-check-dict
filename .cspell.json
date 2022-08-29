@@ -787,6 +787,7 @@
     "libgoogle",
     "libground",
     "libimage",
+    "liblttng",
     "libmagick",
     "libmosquitto",
     "libmysqlclient",
