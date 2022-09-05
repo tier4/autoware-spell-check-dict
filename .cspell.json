@@ -1110,7 +1110,7 @@
     "pycache",
     "pycodestyle",
     "pydevproject",
-    "pyflake",
+    "pyflakes",
     "pygame",
     "pykwalify",
     "pylance",
