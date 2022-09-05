@@ -199,7 +199,6 @@
     "planing"
   ],
   "words": [
-    "pyflakes",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1112,6 +1111,7 @@
     "pycodestyle",
     "pydevproject",
     "pyflake",
+    "pyflakes",
     "pygame",
     "pykwalify",
     "pylance",
