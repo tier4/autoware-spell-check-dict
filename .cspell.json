@@ -199,9 +199,6 @@
     "planing"
   ],
   "words": [
-    "fourcc",
-    "QObject",
-    "QImage",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -584,6 +581,7 @@
     "fontsize",
     "fopen",
     "forestgreen",
+    "fourcc",
     "fPIC",
     "fprofile",
     "fq_codel",
@@ -1131,7 +1129,9 @@
     "pyyaml",
     "qdisc",
     "qframe",
+    "QImage",
     "qlen",
+    "QObject",
     "qpoases",
     "qpsolver",
     "qtbase",
