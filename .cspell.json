@@ -199,6 +199,9 @@
     "planing"
   ],
   "words": [
+    "fourcc",
+    "qobject",
+    "QImage",
     "aarch",
     "abspath",
     "abstractmethod",
