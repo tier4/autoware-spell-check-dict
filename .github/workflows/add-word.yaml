@@ -22,9 +22,17 @@ jobs:
       - name: Check out repository
         uses: actions/checkout@v3
 
+      - name: Set up sd
+        uses: kenji-miyake/setup-sd@v1
+
       - name: Update .cspell.json
         run: |
-          jq -i '.words += ["${{ inputs.word }}"]' .cspell.json
+          sd -s \
+            '"words": [' \
+            '"words": [
+              "${{ inputs.word }}",
+            ' \
+          .cspell.json
 
       - name: Create PR
         id: create-pr
