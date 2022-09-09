@@ -27,7 +27,7 @@ jobs:
 
       - name: Update .cspell.json
         run: |
-          sd \
+          sd -s \
             '"words": [' \
             '"words": [
               "${{ inputs.word }}",
