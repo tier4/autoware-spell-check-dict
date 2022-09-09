@@ -199,8 +199,6 @@
     "planing"
   ],
   "words": [
-    "trtexec",
-  
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1387,6 +1385,7 @@
     "traj",
     "trajs",
     "tridiagonal",
+    "trtexec",
     "turtlebot",
     "twinx",
     "twiny",
