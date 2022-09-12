@@ -707,6 +707,7 @@
     "ipfrag",
     "ipstream",
     "iputils",
+    "ipywidgets",
     "IREAD",
     "isabs",
     "isclose",
