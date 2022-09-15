@@ -199,8 +199,6 @@
     "planing"
   ],
   "words": [
-    "maph",
-    "aphs",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -228,6 +226,7 @@
     "antialiasing",
     "antiquewhite",
     "ANYbotics",
+    "aphs",
     "appinfo",
     "apriltag",
     "arange",
@@ -872,6 +871,7 @@
     "mainpage",
     "Makefiles",
     "malloc",
+    "maph",
     "markdownlint",
     "markersize",
     "mathbb",
