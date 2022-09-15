@@ -1178,6 +1178,7 @@
     "relu",
     "remappings",
     "renamer",
+    "replayer",
     "repos",
     "rerunfailures",
     "resample",
