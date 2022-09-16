@@ -40,6 +40,9 @@
     "\\[.*/.*\\]\\(https://github.com",
     "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?"
   ],
+  "import": [
+    "@tier4/cspell-dicts/cmake/cspell-ext.json"
+  ],
   "languageSettings": [
     {
       "languageId": "bash,cpp,html,python"

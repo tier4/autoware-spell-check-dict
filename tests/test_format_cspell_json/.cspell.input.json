@@ -2,6 +2,7 @@
   "version": "0.2",
   "language": "en",
   "allowCompoundWords": false,
+  "import": ["@tier4/cspell-dicts/cmake/cspell-ext.json"],
   "languageSettings": [
     {
       "languageId": "markdown",
