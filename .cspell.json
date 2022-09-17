@@ -928,6 +928,7 @@
     "multiarch",
     "multilib",
     "multiline",
+    "multimethod",
     "multipass",
     "multiplot",
     "multithread",
