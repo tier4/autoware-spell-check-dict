@@ -331,6 +331,7 @@
     "calloc",
     "callstr",
     "canlib",
+    "caplog",
     "capwords",
     "carcolor",
     "carryforward",
