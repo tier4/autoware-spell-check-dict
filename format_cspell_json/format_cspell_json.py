@@ -55,6 +55,7 @@ def format_cspell_json(cspell_json: Dict) -> Dict:
             "allowCompoundWords",
             "ignorePaths",
             "ignoreRegExpList",
+            "import",
             "languageSettings",
             "overrides",
             "flagWords",
