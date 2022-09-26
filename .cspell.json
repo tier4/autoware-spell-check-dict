@@ -568,6 +568,7 @@
     "extractall",
     "fabs",
     "farocan",
+    "farocand",
     "FASTCRC",
     "fastrtps",
     "favicon",
