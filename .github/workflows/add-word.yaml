@@ -30,8 +30,7 @@ jobs:
           sd -s \
             '"words": [' \
             '"words": [
-              "${{ inputs.word }}",
-            ' \
+              "${{ inputs.word }}",' \
           .cspell.json
 
       - name: Create PR
