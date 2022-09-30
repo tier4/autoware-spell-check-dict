@@ -211,6 +211,7 @@
     "Ackermann",
     "adapi",
     "addf",
+    "addopts",
     "addstr",
     "adduser",
     "adehome",
