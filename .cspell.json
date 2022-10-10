@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "iwlwifi",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -733,6 +732,7 @@
     "iterrows",
     "itertools",
     "itertuples",
+    "iwlwifi",
     "IWRITE",
     "jetpack",
     "Jetson",
