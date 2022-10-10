@@ -830,6 +830,7 @@
     "libtraffic",
     "liburcu",
     "libutils",
+    "libvulkan",
     "libxft",
     "libzmqpp",
     "lidars",
