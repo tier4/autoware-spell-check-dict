@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "libvulkan",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -830,6 +829,7 @@
     "libtraffic",
     "liburcu",
     "libutils",
+    "libvulkan",
     "libxft",
     "libzmqpp",
     "lidars",
