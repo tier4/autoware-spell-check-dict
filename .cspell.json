@@ -732,6 +732,7 @@
     "iterrows",
     "itertools",
     "itertuples",
+    "iwlwifi",
     "IWRITE",
     "jetpack",
     "Jetson",
