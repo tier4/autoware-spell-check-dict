@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "rsyslog",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1253,6 +1252,7 @@
     "routesections",
     "royalblue",
     "rsplit",
+    "rsyslog",
     "RTNL",
     "RTPS",
     "rtree",
