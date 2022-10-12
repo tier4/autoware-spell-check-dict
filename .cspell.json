@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "Cityscapes",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -359,6 +358,7 @@
     "chrony",
     "chronyc",
     "chrpath",
+    "Cityscapes",
     "classmethod",
     "clim",
     "clothoid",
