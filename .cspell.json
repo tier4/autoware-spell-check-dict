@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "ptpd",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1124,6 +1123,7 @@
     "pseudomuto",
     "psim",
     "pthread",
+    "ptpd",
     "ptree",
     "ptrs",
     "pugi",
