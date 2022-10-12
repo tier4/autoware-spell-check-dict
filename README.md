@@ -48,9 +48,13 @@ v16.13.0
 # Install a spell checker (cspell) using npm
 $ sudo npm install -g cspell
 
+# Install additional dictionaries
+$ npm install -g yarn
+$ yarn global add https://github.com/tier4/cspell-dicts
+
 # Copy the dictionary into your environment
 $ cd /your-project-dir
-$ wget https://raw.githubusercontent.com/tier4/autoware-spell-check-dict/main/.cspell.json
+$ wget -O .cspell.json https://raw.githubusercontent.com/tier4/autoware-spell-check-dict/main/.cspell.json
 
 # Check spelling
 $ cspell /path/to/src/*.cpp /path/to/include/*.hpp
