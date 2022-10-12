@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "PYTHONPATH",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1148,6 +1147,7 @@
     "pyright",
     "pysqlite",
     "pytest",
+    "PYTHONPATH",
     "pytorch",
     "pyyaml",
     "qdisc",
