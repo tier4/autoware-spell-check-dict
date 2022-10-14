@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "coredump",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -402,6 +401,7 @@
     "copysign",
     "copystat",
     "copytree",
+    "coredump",
     "coretemp",
     "cornflowerblue",
     "cornsilk",
