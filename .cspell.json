@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "insertafter",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -715,6 +714,7 @@
     "inpainting",
     "inpaints",
     "inplace",
+    "insertafter",
     "intrinsics",
     "ipfrag",
     "ipstream",
