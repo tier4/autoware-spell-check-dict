@@ -1199,6 +1199,7 @@
     "relpath",
     "relref",
     "relu",
+    "remapper",
     "remappings",
     "renamer",
     "replayer",
