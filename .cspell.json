@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "stroke-dashoffset",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1344,6 +1343,7 @@
     "STREQUAL",
     "strlen",
     "STRNE",
+    "stroke-dashoffset",
     "strtobool",
     "struct",
     "structs",
