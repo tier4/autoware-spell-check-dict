@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "mmdet",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -924,6 +923,7 @@
     "mkdir",
     "mkdocs",
     "mkdocstrings",
+    "mmdet",
     "mobilenetv",
     "Mobileye",
     "modalias",
