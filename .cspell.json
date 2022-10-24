@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "convolutional",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -396,6 +395,7 @@
     "containerd",
     "contourf",
     "conv",
+    "convolutional",
     "copyfile",
     "copyfileobj",
     "copymode",
