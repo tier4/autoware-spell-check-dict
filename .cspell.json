@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "CMOS",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -369,6 +368,7 @@
     "cmatch",
     "cmath",
     "cmdline",
+    "CMOS",
     "CodeChecker",
     "codecov",
     "codehilite",
