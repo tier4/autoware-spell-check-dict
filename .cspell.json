@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "ETHTOOL_GSET",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -565,6 +564,7 @@
     "esli",
     "etag",
     "ethernets",
+    "ETHTOOL_GSET",
     "eulerangle",
     "eval",
     "evaluable",
