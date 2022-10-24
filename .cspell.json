@@ -572,6 +572,7 @@
     "evaluable",
     "evenodd",
     "EWAOL",
+    "execve",
     "exitflag",
     "extractall",
     "fabs",
