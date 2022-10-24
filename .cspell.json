@@ -395,6 +395,7 @@
     "containerd",
     "contourf",
     "conv",
+    "convolutional",
     "copyfile",
     "copyfileobj",
     "copymode",
