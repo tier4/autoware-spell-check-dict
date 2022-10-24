@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "iowait",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -725,6 +724,7 @@
     "inplace",
     "insertafter",
     "intrinsics",
+    "iowait",
     "ipfrag",
     "ipstream",
     "iputils",
