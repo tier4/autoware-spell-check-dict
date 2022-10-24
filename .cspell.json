@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "procs",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1123,6 +1122,7 @@
     "printenv",
     "printf",
     "PROCHOT",
+    "procs",
     "proto",
     "protobuf",
     "protoc",
