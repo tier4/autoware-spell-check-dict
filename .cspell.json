@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "nethogs",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -971,6 +970,7 @@
     "navsatfix",
     "ndarray",
     "neighbours",
+    "nethogs",
     "netlink",
     "netplan",
     "Neur",
