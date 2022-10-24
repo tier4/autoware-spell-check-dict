@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "pointpainting",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1099,6 +1098,7 @@
     "pmatrix",
     "pointcloud",
     "pointclouds",
+    "pointpainting",
     "pointsize",
     "polyfit",
     "Polyline",
