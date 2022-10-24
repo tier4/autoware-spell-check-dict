@@ -202,7 +202,6 @@
     "planing"
   ],
   "words": [
-    "execve",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -573,6 +572,7 @@
     "evaluable",
     "evenodd",
     "EWAOL",
+    "execve",
     "exitflag",
     "extractall",
     "fabs",
