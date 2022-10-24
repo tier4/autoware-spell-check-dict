@@ -565,6 +565,7 @@
     "etag",
     "ethernets",
     "ETHTOOL_GSET",
+    "ETHTOOL_SSET",
     "eulerangle",
     "eval",
     "evaluable",
