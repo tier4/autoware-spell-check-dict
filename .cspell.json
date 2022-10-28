@@ -185,8 +185,7 @@
         "etag=&quot;[a-zA-Z0-9 +-/_]+&quot;",
         "filter=\"[a-zA-Z0-9 +-/_#()]+\"",
         "font-family: .*;",
-        "id=\"[a-zA-Z0-9 +-/_]+\"",
-        "id=&quot;[a-zA-Z0-9 +-/_]+&quot;",
+        "id=[^\\s]+",
         "name=&quot;[^>]+"
       ]
     },
