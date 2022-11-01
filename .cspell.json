@@ -201,7 +201,6 @@
     "planing"
   ],
   "words": [
-    "sshpass",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1340,6 +1339,7 @@
     "SRCS",
     "sregex",
     "srvs",
+    "sshpass",
     "startuml",
     "staticmethod",
     "stddev",
