@@ -1315,6 +1315,7 @@
     "SIGQUIT",
     "sigsegv",
     "SIGTERM",
+    "silversearcher",
     "SIMD",
     "SIOCETHTOOL",
     "SIVD",
