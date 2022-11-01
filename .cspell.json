@@ -1339,6 +1339,7 @@
     "SRCS",
     "sregex",
     "srvs",
+    "sshpass",
     "startuml",
     "staticmethod",
     "stddev",
