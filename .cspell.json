@@ -201,7 +201,6 @@
     "planing"
   ],
   "words": [
-    "swapoff",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1376,6 +1375,7 @@
     "superfences",
     "surfel",
     "swapfile",
+    "swapoff",
     "symlink",
     "synchronised",
     "sysfs",
