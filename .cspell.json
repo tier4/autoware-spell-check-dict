@@ -201,7 +201,6 @@
     "planing"
   ],
   "words": [
-    "silversearcher",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -1316,6 +1315,7 @@
     "SIGQUIT",
     "sigsegv",
     "SIGTERM",
+    "silversearcher",
     "SIMD",
     "SIOCETHTOOL",
     "SIVD",
