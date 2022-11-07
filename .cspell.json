@@ -492,6 +492,7 @@
     "deleteall",
     "demangle",
     "demangled",
+    "demangling",
     "DENABLE",
     "denoise",
     "densification",
