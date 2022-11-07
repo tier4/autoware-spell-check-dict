@@ -838,6 +838,7 @@
     "libnvonnxparsers",
     "libnvparsers",
     "libomp",
+    "libopenblas",
     "libopencv",
     "libopenscenario",
     "libosqp",
