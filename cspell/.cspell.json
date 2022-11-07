@@ -621,6 +621,7 @@
     "intrinsics",
     "ipstream",
     "IREAD",
+    "IROS",
     "isabs",
     "isclose",
     "isdir",
