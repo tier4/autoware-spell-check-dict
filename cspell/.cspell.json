@@ -1357,8 +1357,5 @@
     "zorder",
     "zstd",
     "zsync"
-  ],
-  "enableFiletypes": [
-    "markdown"
   ]
 }
