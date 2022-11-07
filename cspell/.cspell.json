@@ -1284,6 +1284,7 @@
     "wasim",
     "wayarea",
     "wayareas",
+    "waymo",
     "webauto",
     "webcard",
     "webviz",
@@ -1352,5 +1353,8 @@
     "zorder",
     "zstd",
     "zsync"
+  ],
+  "enableFiletypes": [
+    "markdown"
   ]
 }
