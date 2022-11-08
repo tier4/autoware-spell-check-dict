@@ -48,7 +48,6 @@
         "\\]\\(#.+?\\)",
         "^\\| GPU  Name.+$",
         "^gdown .+$",
-        "```bibtex[\\s\\S]*```",
         "uses: .+/.+@.+"
       ]
     },
@@ -129,7 +128,6 @@
       "filename": "**/{*.cpp,*.hpp}",
       "ignoreRegExpList": [
         "@author .*$",
-        "[Ref,ref]\\s*:.*$",
         "\\author .*$",
         "Author(s)?( )?: .*$"
       ]
