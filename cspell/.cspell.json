@@ -130,7 +130,8 @@
       "ignoreRegExpList": [
         "@author .*$",
         "\\author .*$",
-        "Author(s)?( )?: .*$"
+        "Author(s)?( )?: .*$",
+        "[Ref,ref]\\s*:.*$"
       ]
     },
     {
