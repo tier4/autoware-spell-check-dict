@@ -129,9 +129,9 @@
       "filename": "**/{*.cpp,*.hpp}",
       "ignoreRegExpList": [
         "@author .*$",
+        "[Ref,ref]\\s*:.*$",
         "\\author .*$",
-        "Author(s)?( )?: .*$",
-        "[Ref,ref]\\s*:.*$"
+        "Author(s)?( )?: .*$"
       ]
     },
     {
