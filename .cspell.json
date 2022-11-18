@@ -41,7 +41,8 @@
   ],
   "ignoreRegExpList": [
     "\\[.*/.*\\]\\(https://github.com",
-    "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?"
+    "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?",
+    "ppa:.+/[^\\s]+"
   ],
   "import": [
     "@tier4/cspell-dicts/cmake/cspell-ext.json"
