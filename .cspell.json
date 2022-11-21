@@ -40,6 +40,7 @@
     "**/reports*/**"
   ],
   "ignoreRegExpList": [
+    "PointXYZ[A-Z]+",
     "\\[.*/.*\\]\\(https://github.com",
     "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?",
     "ppa:.+/[^\\s]+"
@@ -1571,13 +1572,6 @@
     "XSOCK",
     "xunit",
     "xwheel",
-    "XYZI",
-    "XYZIRADRT",
-    "XYZIRADT",
-    "XYZIRCT",
-    "XYZRGB",
-    "XYZRPY",
-    "XYZRT",
     "yamale",
     "Yamasaki",
     "yamllint",
