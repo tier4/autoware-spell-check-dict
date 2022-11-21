@@ -40,9 +40,9 @@
     "**/reports*/**"
   ],
   "ignoreRegExpList": [
-    "PointXYZ[A-Z]+",
     "\\[.*/.*\\]\\(https://github.com",
     "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?",
+    "PointXYZ[A-Z]+",
     "ppa:.+/[^\\s]+"
   ],
   "import": [
