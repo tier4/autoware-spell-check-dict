@@ -42,7 +42,7 @@
   "ignoreRegExpList": [
     "\\[.*/.*\\]\\(https://github.com",
     "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?",
-    "PointXYZ[A-Z]+",
+    "XYZ[A-Z]+",
     "ppa:.+/[^\\s]+"
   ],
   "import": [
