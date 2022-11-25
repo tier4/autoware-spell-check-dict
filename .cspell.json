@@ -837,6 +837,7 @@
     "libnginx",
     "libnl",
     "libnpp",
+    "libnvidia",
     "libnvinfer",
     "libnvonnxparsers",
     "libnvparsers",
