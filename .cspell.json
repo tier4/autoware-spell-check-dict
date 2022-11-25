@@ -203,7 +203,6 @@
     "planing"
   ],
   "words": [
-    "libnvidia",
     "aabb",
     "aarch",
     "abspath",
@@ -838,6 +837,7 @@
     "libnginx",
     "libnl",
     "libnpp",
+    "libnvidia",
     "libnvinfer",
     "libnvonnxparsers",
     "libnvparsers",
