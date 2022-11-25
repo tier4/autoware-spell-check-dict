@@ -203,7 +203,6 @@
     "planing"
   ],
   "words": [
-    "opencl",
     "aabb",
     "aarch",
     "abspath",
@@ -1066,6 +1065,7 @@
     "oneshot",
     "ONNX",
     "openadkit",
+    "opencl",
     "opencv",
     "openlist",
     "openmp",
