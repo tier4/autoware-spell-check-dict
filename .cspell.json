@@ -203,7 +203,6 @@
     "planing"
   ],
   "words": [
-    "libstdc",
     "aabb",
     "aarch",
     "abspath",
@@ -854,6 +853,7 @@
     "libqt",
     "librosbag",
     "libsdl",
+    "libstdc",
     "libtorch",
     "libtraffic",
     "liburcu",
