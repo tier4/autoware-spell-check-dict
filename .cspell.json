@@ -91,6 +91,7 @@
     {
       "filename": "**/*.svg",
       "ignoreRegExpList": [
+        "%[2-7][0-9A-F]",
         "bbox",
         "bordercolor",
         "borderopacity",
