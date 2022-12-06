@@ -1449,6 +1449,7 @@
     "timespec",
     "timezone",
     "tinyxml",
+    "tmpfs",
     "tnear",
     "toggleable",
     "tolist",
