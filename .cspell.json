@@ -205,7 +205,6 @@
     "planing"
   ],
   "words": [
-    "tmpfs",
     "aabb",
     "aarch",
     "abspath",
@@ -1450,6 +1449,7 @@
     "timespec",
     "timezone",
     "tinyxml",
+    "tmpfs",
     "tnear",
     "toggleable",
     "tolist",
