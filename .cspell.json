@@ -205,7 +205,6 @@
     "planing"
   ],
   "words": [
-    "dialout",
     "aabb",
     "aarch",
     "abspath",
@@ -512,6 +511,7 @@
     "devcontainer",
     "devel",
     "devfreq",
+    "dialout",
     "diffstat",
     "dimgray",
     "discretization",
