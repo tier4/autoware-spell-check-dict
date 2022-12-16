@@ -109,7 +109,15 @@
         "mathml",
         "msub",
         "mrow",
-        "mstyle"
+        "mstyle",
+        "tabindex",
+        "dropshadow",
+        "displaystyle",
+        "asciimath",
+        "focusable",
+        "progid",
+        "MSIE",
+        "neue"
       ]
     },
     {
