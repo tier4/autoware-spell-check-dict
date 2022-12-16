@@ -212,6 +212,12 @@
         "owner: .*$",
         "repo:: .*$"
       ]
+    },
+    {
+      "filename": "**/{*.cmake,CMakeLists.txt}",
+      "ignoreRegExpList": [
+        "externalproject"
+      ]
     }
   ],
   "flagWords": [
