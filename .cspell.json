@@ -105,7 +105,11 @@
         "showgrid",
         "sodipodi",
         "tspan",
-        "xlink:href=\"data:image/png;base64,.*\""
+        "xlink:href=\"data:image/png;base64,.*\"",
+        "mathml",
+        "msub",
+        "mrow",
+        "mstyle"
       ]
     },
     {
