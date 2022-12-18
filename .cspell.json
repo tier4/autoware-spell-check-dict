@@ -93,17 +93,29 @@
       "filename": "**/*.svg",
       "ignoreRegExpList": [
         "%[2-7][0-9A-F]",
+        "asciimath",
         "bbox",
         "bordercolor",
         "borderopacity",
+        "displaystyle",
+        "dropshadow",
+        "focusable",
         "inkscape",
         "inkscape:.*=",
+        "mathml",
+        "mrow",
+        "MSIE",
+        "mstyle",
+        "msub",
         "namedview",
+        "neue",
         "nodetypes=\".*\"",
         "pagecolor",
         "pageshadow",
+        "progid",
         "showgrid",
         "sodipodi",
+        "tabindex",
         "tspan",
         "xlink:href=\"data:image/png;base64,.*\""
       ]
@@ -177,7 +189,8 @@
       "ignoreRegExpList": [
         "@author .*$",
         "\\author .*$",
-        "Author(s)?( )?: .*$"
+        "Author(s)?( )?: .*$",
+        "trapam"
       ]
     },
     {
@@ -943,10 +956,12 @@
     "milee",
     "mintcream",
     "mipmap",
+    "mipmaps",
     "MISH",
     "MISRA",
     "mistyrose",
     "miterlimit",
+    "Mitigations",
     "MITSHM",
     "mkdir",
     "mkdocs",
