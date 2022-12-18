@@ -177,12 +177,6 @@
       ]
     },
     {
-      "filename": "**/{*.cmake,CMakeLists.txt}",
-      "ignoreRegExpList": [
-        "externalproject"
-      ]
-    },
-    {
       "filename": "**/{*.cpp,*.hpp,*.py,*.sh,*.xml,*.yaml,CMakeLists.txt}",
       "ignoreRegExpList": [
         "Copyright (\\(c\\))?.+$",
