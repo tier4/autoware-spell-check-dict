@@ -218,7 +218,6 @@
     "planing"
   ],
   "words": [
-    "gstreamer",
     "aabb",
     "aarch",
     "abspath",
@@ -692,6 +691,7 @@
     "gscam",
     "gsettings",
     "gsof",
+    "gstreamer",
     "gtest",
     "hadolint",
     "HARA",
