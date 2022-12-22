@@ -870,6 +870,7 @@
     "librosbag",
     "libsdl",
     "libstdc",
+    "libtheora",
     "libtorch",
     "libtraffic",
     "liburcu",
