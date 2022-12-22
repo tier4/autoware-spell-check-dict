@@ -218,7 +218,6 @@
     "planing"
   ],
   "words": [
-    "libgstreamer",
     "aabb",
     "aarch",
     "abspath",
@@ -845,6 +844,7 @@
     "libgomp",
     "libgoogle",
     "libground",
+    "libgstreamer",
     "libimage",
     "liblttng",
     "libmagick",
