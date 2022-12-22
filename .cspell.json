@@ -881,6 +881,7 @@
     "libtraffic",
     "liburcu",
     "libutils",
+    "libvorbis",
     "libvulkan",
     "libxft",
     "libzmqpp",
