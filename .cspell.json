@@ -218,7 +218,6 @@
     "planing"
   ],
   "words": [
-    "libvorbis",
     "aabb",
     "aarch",
     "abspath",
@@ -875,6 +874,7 @@
     "libtraffic",
     "liburcu",
     "libutils",
+    "libvorbis",
     "libvulkan",
     "libxft",
     "libzmqpp",
