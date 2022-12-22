@@ -218,7 +218,6 @@
     "planing"
   ],
   "words": [
-    "libogg",
     "aabb",
     "aarch",
     "abspath",
@@ -858,6 +857,7 @@
     "libnvinfer",
     "libnvonnxparsers",
     "libnvparsers",
+    "libogg",
     "libomp",
     "libopenblas",
     "libopencv",
