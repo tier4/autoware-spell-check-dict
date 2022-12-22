@@ -218,7 +218,6 @@
     "planing"
   ],
   "words": [
-    "GMSL",
     "aabb",
     "aarch",
     "abspath",
@@ -676,6 +675,7 @@
     "glvnd",
     "gmock",
     "GMRS",
+    "GMSL",
     "GNSS",
     "GNUCXX",
     "GnuPG",
