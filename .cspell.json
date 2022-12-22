@@ -218,7 +218,6 @@
     "planing"
   ],
   "words": [
-    "mcap",
     "aabb",
     "aarch",
     "abspath",
@@ -936,6 +935,7 @@
     "matplotlib",
     "mavx",
     "Mbps",
+    "mcap",
     "mediumaquamarine",
     "mediumblue",
     "mediumorchid",
