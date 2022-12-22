@@ -675,6 +675,7 @@
     "glvnd",
     "gmock",
     "GMRS",
+    "GMSL",
     "GNSS",
     "GNUCXX",
     "GnuPG",
