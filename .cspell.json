@@ -847,6 +847,7 @@
     "libgomp",
     "libgoogle",
     "libground",
+    "libgstreamer",
     "libimage",
     "liblttng",
     "libmagick",
