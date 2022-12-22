@@ -857,6 +857,7 @@
     "libnvinfer",
     "libnvonnxparsers",
     "libnvparsers",
+    "libogg",
     "libomp",
     "libopenblas",
     "libopencv",
