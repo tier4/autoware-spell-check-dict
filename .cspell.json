@@ -1130,6 +1130,7 @@
     "parkinglot",
     "pathlib",
     "paththrough",
+    "PCAN",
     "pcap",
     "pcdmap",
     "pclint",
