@@ -218,7 +218,6 @@
     "planing"
   ],
   "words": [
-    "PCAN",
     "aabb",
     "aarch",
     "abspath",
@@ -1131,6 +1130,7 @@
     "parkinglot",
     "pathlib",
     "paththrough",
+    "PCAN",
     "pcap",
     "pcdmap",
     "pclint",
