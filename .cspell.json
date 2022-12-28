@@ -502,6 +502,7 @@
     "DEBCONF",
     "debhelper",
     "debianutils",
+    "debmake",
     "decel",
     "decltype",
     "declval",
