@@ -218,7 +218,6 @@
     "planing"
   ],
   "words": [
-    "ruamel",
     "aabb",
     "aarch",
     "abspath",
@@ -1335,6 +1334,7 @@
     "RTPS",
     "rtree",
     "rtype",
+    "ruamel",
     "runc",
     "Runge",
     "runtimes",
