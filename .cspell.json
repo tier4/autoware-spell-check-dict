@@ -500,6 +500,7 @@
     "Deallocations",
     "dearmor",
     "DEBCONF",
+    "debhelper",
     "debianutils",
     "decel",
     "decltype",
