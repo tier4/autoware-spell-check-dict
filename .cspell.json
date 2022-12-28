@@ -149,6 +149,12 @@
       ]
     },
     {
+      "filename": "**/cyclonedds.xml(.jinja2)?",
+      "ignoreRegExpList": [
+        "DontRoute"
+      ]
+    },
+    {
       "filename": "**/galaxy.yml",
       "ignoreRegExpList": [
         "- .+ <.+@.+>"
