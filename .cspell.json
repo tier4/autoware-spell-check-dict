@@ -51,6 +51,12 @@
   ],
   "languageSettings": [
     {
+      "languageId": "dockerfile",
+      "ignoreRegExpList": [
+        "^FROM .*?\\s"
+      ]
+    },
+    {
       "languageId": "markdown",
       "dictionaries": [
         "latex"
