@@ -218,7 +218,6 @@
     "planing"
   ],
   "words": [
-    "debhelper",
     "aabb",
     "aarch",
     "abspath",
@@ -501,6 +500,7 @@
     "Deallocations",
     "dearmor",
     "DEBCONF",
+    "debhelper",
     "debianutils",
     "decel",
     "decltype",
