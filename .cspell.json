@@ -218,7 +218,6 @@
     "planing"
   ],
   "words": [
-    "devscripts",
     "aabb",
     "aarch",
     "abspath",
@@ -526,6 +525,7 @@
     "devcontainer",
     "devel",
     "devfreq",
+    "devscripts",
     "dialout",
     "diffstat",
     "dimgray",
