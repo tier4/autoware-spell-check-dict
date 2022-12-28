@@ -218,7 +218,6 @@
     "planing"
   ],
   "words": [
-    "debmake",
     "aabb",
     "aarch",
     "abspath",
@@ -503,6 +502,7 @@
     "DEBCONF",
     "debhelper",
     "debianutils",
+    "debmake",
     "decel",
     "decltype",
     "declval",
