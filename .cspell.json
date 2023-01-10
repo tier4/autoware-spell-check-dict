@@ -230,7 +230,6 @@
     "planing"
   ],
   "words": [
-    "bindgen",
     "aabb",
     "aarch",
     "abspath",
@@ -333,6 +332,7 @@
     "binarize",
     "binarized",
     "binarydeb",
+    "bindgen",
     "Blackfly",
     "blanchedalmond",
     "blindspot",
