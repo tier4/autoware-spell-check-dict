@@ -230,7 +230,6 @@
     "planing"
   ],
   "words": [
-    "libavcodec",
     "aabb",
     "aarch",
     "abspath",
@@ -847,6 +846,7 @@
     "libas",
     "libautoware",
     "libav",
+    "libavcodec",
     "libboost",
     "libclang",
     "libcpprest",
