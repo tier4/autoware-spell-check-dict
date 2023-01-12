@@ -857,6 +857,7 @@
     "libfontconfig",
     "libfreetype",
     "libgazebo",
+    "libgeographic",
     "libgl",
     "libglvnd",
     "libglx",
