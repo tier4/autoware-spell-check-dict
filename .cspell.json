@@ -889,6 +889,7 @@
     "libpointcloud",
     "libpolar",
     "libqt",
+    "librange",
     "librosbag",
     "libsdl",
     "libstdc",
