@@ -230,7 +230,6 @@
     "planing"
   ],
   "words": [
-    "librange",
     "aabb",
     "aarch",
     "abspath",
@@ -890,6 +889,7 @@
     "libpointcloud",
     "libpolar",
     "libqt",
+    "librange",
     "librosbag",
     "libsdl",
     "libstdc",
