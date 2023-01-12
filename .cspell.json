@@ -230,7 +230,6 @@
     "planing"
   ],
   "words": [
-    "libswscale",
     "aabb",
     "aarch",
     "abspath",
@@ -898,6 +897,7 @@
     "librosbag",
     "libsdl",
     "libstdc",
+    "libswscale",
     "libtheora",
     "libtorch",
     "libtraffic",
