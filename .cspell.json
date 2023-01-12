@@ -230,7 +230,6 @@
     "planing"
   ],
   "words": [
-    "libpugixml",
     "aabb",
     "aarch",
     "abspath",
@@ -889,6 +888,7 @@
     "libpcl",
     "libpointcloud",
     "libpolar",
+    "libpugixml",
     "libqt",
     "librange",
     "librosbag",
