@@ -897,6 +897,7 @@
     "librosbag",
     "libsdl",
     "libstdc",
+    "libswscale",
     "libtheora",
     "libtorch",
     "libtraffic",
