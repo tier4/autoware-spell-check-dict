@@ -230,7 +230,6 @@
     "planing"
   ],
   "words": [
-    "isource",
     "aabb",
     "aarch",
     "abspath",
@@ -788,6 +787,7 @@
     "ismount",
     "isna",
     "isort",
+    "isource",
     "iterdir",
     "iterrows",
     "itertools",
