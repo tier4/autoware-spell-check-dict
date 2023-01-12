@@ -846,6 +846,7 @@
     "libas",
     "libautoware",
     "libav",
+    "libavcodec",
     "libboost",
     "libclang",
     "libcpprest",
