@@ -213,7 +213,7 @@
         "@author .*$",
         "\\author .*$",
         "Author(s)?( )?: .*$",
-        "trapam"
+        "tparam"
       ]
     },
     {
