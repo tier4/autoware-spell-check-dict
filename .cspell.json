@@ -211,9 +211,9 @@
       "filename": "**/{*.cpp,*.hpp}",
       "ignoreRegExpList": [
         "@author .*$",
+        "[\\@]tparam",
         "\\author .*$",
-        "Author(s)?( )?: .*$",
-        "[\\@]tparam"
+        "Author(s)?( )?: .*$"
       ]
     },
     {
