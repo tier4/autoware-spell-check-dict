@@ -103,6 +103,7 @@
         "bbox",
         "bordercolor",
         "borderopacity",
+        "darkreader",
         "displaystyle",
         "dropshadow",
         "focusable",
