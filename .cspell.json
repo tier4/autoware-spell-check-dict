@@ -111,6 +111,8 @@
         "inkscape:.*=",
         "Josefin",
         "mathml",
+        "merror",
+        "mfrac",
         "mlabeledtr",
         "mrow",
         "MSIE",
