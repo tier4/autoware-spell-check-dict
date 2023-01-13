@@ -116,6 +116,7 @@
         "mstyle",
         "msub",
         "mtext",
+        "munder",
         "namedview",
         "neue",
         "nodetypes=\".*\"",
