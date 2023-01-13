@@ -114,6 +114,7 @@
         "merror",
         "mfrac",
         "mlabeledtr",
+        "mphantom",
         "mrow",
         "MSIE",
         "mstyle",
