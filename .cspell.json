@@ -781,6 +781,7 @@
     "inpaints",
     "inplace",
     "insertafter",
+    "interpolable",
     "intrinsics",
     "iowait",
     "ipfrag",
