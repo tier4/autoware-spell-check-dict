@@ -301,6 +301,7 @@
     "autoclean",
     "Autocompute",
     "autocore",
+    "autoescape",
     "autofix",
     "automan",
     "automerge",
