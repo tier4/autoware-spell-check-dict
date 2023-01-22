@@ -241,7 +241,6 @@
     "planing"
   ],
   "words": [
-    "tera",
     "aabb",
     "aarch",
     "abspath",
@@ -1490,6 +1489,7 @@
     "Teknoloji",
     "tempfile",
     "TensorRT",
+    "tera",
     "termcolor",
     "testcase",
     "testsuite",
