@@ -241,7 +241,6 @@
     "planing"
   ],
   "words": [
-    "autoescape",
     "aabb",
     "aarch",
     "abspath",
@@ -302,6 +301,7 @@
     "autoclean",
     "Autocompute",
     "autocore",
+    "autoescape",
     "autofix",
     "automan",
     "automerge",
