@@ -1539,6 +1539,8 @@
     "twiny",
     "typesupport",
     "tzinfo",
+    "UART",
+    "USART",
     "Ublox",
     "uchar",
     "udev",
