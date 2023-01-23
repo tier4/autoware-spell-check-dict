@@ -862,6 +862,7 @@
     "libautoware",
     "libav",
     "libavcodec",
+    "libbluetooth",
     "libboost",
     "libclang",
     "libcpprest",
