@@ -227,7 +227,8 @@
         "font-family: .*;",
         "freesans",
         "id=[^\\s]+",
-        "name=&quot;[^>]+"
+        "name=&quot;[^>]+",
+        "segoe"
       ]
     },
     {
