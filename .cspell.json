@@ -83,6 +83,7 @@
       "filename": "**/*.py",
       "ignoreRegExpList": [
         "author(_email)?=.*$",
+        "linewidth",
         "maintainer(_email)?=.*$"
       ]
     },
