@@ -83,6 +83,7 @@
       "filename": "**/*.py",
       "ignoreRegExpList": [
         "author(_email)?=.*$",
+        "linewidth",
         "maintainer(_email)?=.*$"
       ]
     },
@@ -225,8 +226,10 @@
         "etag=&quot;[a-zA-Z0-9 +-/_]+&quot;",
         "filter=\"[a-zA-Z0-9 +-/_#()]+\"",
         "font-family: .*;",
+        "freesans",
         "id=[^\\s]+",
-        "name=&quot;[^>]+"
+        "name=&quot;[^>]+",
+        "segoe"
       ]
     },
     {
@@ -862,6 +865,7 @@
     "libautoware",
     "libav",
     "libavcodec",
+    "libbluetooth",
     "libboost",
     "libclang",
     "libcpprest",
@@ -1539,6 +1543,7 @@
     "twiny",
     "typesupport",
     "tzinfo",
+    "UART",
     "Ublox",
     "uchar",
     "udev",
@@ -1564,6 +1569,7 @@
     "unsqueeze",
     "URDF",
     "Uref",
+    "USART",
     "USECASE",
     "usermod",
     "UTMUPS",
