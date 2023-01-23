@@ -225,6 +225,7 @@
         "etag=&quot;[a-zA-Z0-9 +-/_]+&quot;",
         "filter=\"[a-zA-Z0-9 +-/_#()]+\"",
         "font-family: .*;",
+        "freesans",
         "id=[^\\s]+",
         "name=&quot;[^>]+"
       ]
