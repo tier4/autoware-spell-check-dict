@@ -45,7 +45,7 @@ jobs:
           body: "TODO: Update this comment and add some reference links."
           labels: |
             bot
-            dependencies
+            words
           signoff: true
           delete-branch: true
 
