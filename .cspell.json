@@ -48,6 +48,8 @@
   ],
   "import": [
     "@tier4/cspell-dicts/cmake/cspell-ext.json"
+    "@tier4/cspell-dicts/city-names/cspell-ext.json"
+    "@tier4/cspell-dicts/people-names/cspell-ext.json"
   ],
   "languageSettings": [
     {
