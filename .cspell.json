@@ -246,7 +246,6 @@
     "planing"
   ],
   "words": [
-    "multicasts",
     "aabb",
     "aarch",
     "abspath",
@@ -1041,6 +1040,7 @@
     "msse",
     "mssql",
     "multiarch",
+    "multicasts",
     "multilib",
     "multiline",
     "multimethod",
