@@ -1040,6 +1040,7 @@
     "msse",
     "mssql",
     "multiarch",
+    "multicasts",
     "multilib",
     "multiline",
     "multimethod",
