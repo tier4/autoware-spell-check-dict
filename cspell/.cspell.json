@@ -157,6 +157,15 @@
     "planing"
   ],
   "words": [
+    "reprojection",
+    "undistortion",
+    "arccos",
+    "homography",
+    "Rodrigues",
+    "apriltag",
+    "apriltags",
+    "pyside",
+    "ruamel",
     "aarch",
     "abspath",
     "abstractmethod",
@@ -678,6 +687,7 @@
     "lerp",
     "lerped",
     "LGSVL",
+    "libc",
     "libas",
     "libautoware",
     "libboost",
