@@ -1218,6 +1218,7 @@
     "PPAGE",
     "pprev",
     "pprint",
+    "precomputed",
     "preconfigure",
     "preconfigured",
     "prepend",
