@@ -873,6 +873,7 @@
     "libavcodec",
     "libbluetooth",
     "libboost",
+    "libc",
     "libclang",
     "libcpprest",
     "libcublas",
