@@ -246,7 +246,6 @@
     "planing"
   ],
   "words": [
-    "Wshadow",
     "aabb",
     "aarch",
     "abspath",
@@ -1635,6 +1634,7 @@
     "WORKDIR",
     "Wpedantic",
     "wrapexcept",
+    "Wshadow",
     "wspace",
     "wstring",
     "Wunused",
