@@ -1634,6 +1634,7 @@
     "WORKDIR",
     "Wpedantic",
     "wrapexcept",
+    "Wshadow",
     "wspace",
     "wstring",
     "Wunused",
