@@ -246,7 +246,6 @@
     "planing"
   ],
   "words": [
-    "reprojection",
     "aabb",
     "aarch",
     "abspath",
@@ -1314,6 +1313,7 @@
     "renamer",
     "replayer",
     "repos",
+    "reprojection",
     "rerunfailures",
     "resample",
     "resampled",
