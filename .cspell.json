@@ -42,6 +42,7 @@
   ],
   "ignoreRegExpList": [
     "\\[.*/.*\\]\\(https://github.com",
+    "Copyright .*[0-9]{4}.+",
     "github.com[/:][\\w._\\-]+(/[\\w._\\-]+)?",
     "ppa:.+/[^\\s]+",
     "XYZ[A-Z]+"
