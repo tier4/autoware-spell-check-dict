@@ -246,7 +246,6 @@
     "planing"
   ],
   "words": [
-    "precomputed",
     "aabb",
     "aarch",
     "abspath",
@@ -1219,6 +1218,7 @@
     "PPAGE",
     "pprev",
     "pprint",
+    "precomputed",
     "preconfigure",
     "preconfigured",
     "prepend",
