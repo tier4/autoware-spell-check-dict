@@ -246,7 +246,6 @@
     "planing"
   ],
   "words": [
-    "xticks",
     "aabb",
     "aarch",
     "abspath",
@@ -1661,6 +1660,7 @@
     "xosc",
     "xpan",
     "XSOCK",
+    "xticks",
     "xunit",
     "xwheel",
     "yamale",
