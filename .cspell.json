@@ -246,7 +246,6 @@
     "planing"
   ],
   "words": [
-    "subsamples",
     "aabb",
     "aarch",
     "abspath",
@@ -1476,6 +1475,7 @@
     "submodule",
     "submodules",
     "subparsers",
+    "subsamples",
     "Subsampling",
     "substr",
     "subsubcommand",
