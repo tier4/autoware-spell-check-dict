@@ -246,7 +246,6 @@
     "planing"
   ],
   "words": [
-    "libc",
     "aabb",
     "aarch",
     "abspath",
@@ -874,6 +873,7 @@
     "libavcodec",
     "libbluetooth",
     "libboost",
+    "libc",
     "libclang",
     "libcpprest",
     "libcublas",
