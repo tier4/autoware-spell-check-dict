@@ -246,7 +246,6 @@
     "planing"
   ],
   "words": [
-    "edgecolor",
     "aabb",
     "aarch",
     "abspath",
@@ -608,6 +607,7 @@
     "Eccleston",
     "ECEF",
     "ECMAScript",
+    "edgecolor",
     "EIGEN",
     "eigensolver",
     "Eitan",
