@@ -1262,6 +1262,7 @@
     "pyqt",
     "pyquaternion",
     "pyright",
+    "pyside",
     "pysqlite",
     "pytest",
     "PYTHONPATH",
