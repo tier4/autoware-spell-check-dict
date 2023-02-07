@@ -246,7 +246,6 @@
     "planing"
   ],
   "words": [
-    "homography",
     "aabb",
     "aarch",
     "abspath",
@@ -753,6 +752,7 @@
     "histo",
     "hline",
     "Hmat",
+    "homography",
     "Hooi",
     "horizontalalignment",
     "Horng",
