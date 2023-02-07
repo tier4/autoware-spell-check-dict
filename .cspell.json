@@ -246,7 +246,6 @@
     "planing"
   ],
   "words": [
-    "heatmaps",
     "aabb",
     "aarch",
     "abspath",
@@ -741,6 +740,7 @@
     "hdmap",
     "HDRS",
     "Headerless",
+    "heatmaps",
     "Heisenbug",
     "Heisenbugs",
     "hesai",
