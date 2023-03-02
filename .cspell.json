@@ -1537,6 +1537,7 @@
     "tibdex",
     "tierivcolor",
     "timedelta",
+    "timeseries",
     "timespec",
     "timezone",
     "tinyxml",
