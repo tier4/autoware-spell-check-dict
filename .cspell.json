@@ -247,7 +247,6 @@
     "planing"
   ],
   "words": [
-    "timeseries",
     "aabb",
     "aarch",
     "abspath",
@@ -1536,6 +1535,7 @@
     "tibdex",
     "tierivcolor",
     "timedelta",
+    "timeseries",
     "timespec",
     "timezone",
     "tinyxml",
