@@ -744,6 +744,7 @@
     "hdmap",
     "HDRS",
     "Headerless",
+    "heaphook",
     "heatmaps",
     "Heisenbug",
     "Heisenbugs",
