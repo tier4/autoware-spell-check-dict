@@ -247,7 +247,6 @@
     "planing"
   ],
   "words": [
-    "pyrocan",
     "aabb",
     "aarch",
     "abspath",
@@ -1270,6 +1269,7 @@
     "pyqt",
     "pyquaternion",
     "pyright",
+    "pyrocan",
     "pyside",
     "pysqlite",
     "pytest",
