@@ -247,7 +247,6 @@
     "planing"
   ],
   "words": [
-    "indice",
     "aabb",
     "aarch",
     "abspath",
@@ -786,6 +785,7 @@
     "imshow",
     "imwrite",
     "indianred",
+    "indice",
     "inet",
     "initializable",
     "initialpose",
