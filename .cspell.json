@@ -247,7 +247,6 @@
     "planing"
   ],
   "words": [
-    "gtkterm",
     "aabb",
     "aarch",
     "abspath",
@@ -735,6 +734,7 @@
     "gsof",
     "gstreamer",
     "gtest",
+    "gtkterm",
     "hadolint",
     "HARA",
     "hashlib",
