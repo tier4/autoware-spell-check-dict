@@ -734,6 +734,7 @@
     "gsof",
     "gstreamer",
     "gtest",
+    "gtkterm",
     "hadolint",
     "HARA",
     "hashlib",
