@@ -247,7 +247,6 @@
     "planing"
   ],
   "words": [
-    "libglapi",
     "aabb",
     "aarch",
     "abspath",
@@ -894,6 +893,7 @@
     "libgazebo",
     "libgeographic",
     "libgl",
+    "libglapi",
     "libglvnd",
     "libglx",
     "libgmock",
