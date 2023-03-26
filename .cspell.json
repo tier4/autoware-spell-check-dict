@@ -247,7 +247,6 @@
     "planing"
   ],
   "words": [
-    "softirq",
     "aabb",
     "aarch",
     "abspath",
@@ -1455,6 +1454,7 @@
     "socat",
     "socio",
     "socketcan",
+    "softirq",
     "softmax",
     "solio",
     "SOTIF",
