@@ -247,7 +247,6 @@
     "planing"
   ],
   "words": [
-    "libgbm",
     "aabb",
     "aarch",
     "abspath",
@@ -892,6 +891,7 @@
     "libfontconfig",
     "libfreetype",
     "libgazebo",
+    "libgbm",
     "libgeographic",
     "libgl",
     "libglvnd",
