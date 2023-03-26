@@ -247,7 +247,6 @@
     "planing"
   ],
   "words": [
-    "pstate",
     "aabb",
     "aarch",
     "abspath",
@@ -1250,6 +1249,7 @@
     "prototxt",
     "pseudomuto",
     "psim",
+    "pstate",
     "pthread",
     "ptpd",
     "ptree",
