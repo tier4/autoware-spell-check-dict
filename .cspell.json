@@ -247,7 +247,6 @@
     "planing"
   ],
   "words": [
-    "pseudocode",
     "aabb",
     "aarch",
     "abspath",
@@ -1248,6 +1247,7 @@
     "protobuf",
     "protoc",
     "prototxt",
+    "pseudocode",
     "pseudomuto",
     "psim",
     "pthread",
