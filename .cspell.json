@@ -247,7 +247,6 @@
     "planing"
   ],
   "words": [
-    "urandom",
     "aabb",
     "aarch",
     "abspath",
@@ -1596,6 +1595,7 @@
     "unrectify",
     "unshifted",
     "unsqueeze",
+    "urandom",
     "URDF",
     "Uref",
     "USART",
