@@ -893,6 +893,7 @@
     "libgazebo",
     "libgeographic",
     "libgl",
+    "libglapi",
     "libglvnd",
     "libglx",
     "libgmock",
