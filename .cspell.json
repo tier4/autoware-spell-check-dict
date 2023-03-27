@@ -1247,6 +1247,7 @@
     "protobuf",
     "protoc",
     "prototxt",
+    "pseudocode",
     "pseudomuto",
     "psim",
     "pthread",
