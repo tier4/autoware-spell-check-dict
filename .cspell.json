@@ -1456,6 +1456,7 @@
     "socat",
     "socio",
     "socketcan",
+    "softirq",
     "softmax",
     "solio",
     "SOTIF",
