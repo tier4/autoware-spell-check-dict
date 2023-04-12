@@ -34,8 +34,7 @@
     "**/log/**",
     "**/package-lock.json",
     "**/public/**",
-    "**/reports*/**",
-    "perception/bytetrack/lib/*"
+    "**/reports*/**"
   ],
   "ignoreRegExpList": [
     "\\[.*/.*\\]\\(https://github.com",
@@ -234,8 +233,6 @@
     "basecoords",
     "baselink",
     "baudrate",
-    "bbox",
-    "bboxes",
     "behaviortree",
     "behaviour",
     "behaviours",
@@ -270,7 +267,6 @@
     "burlywood",
     "butterworth",
     "buttord",
-    "bytetrack",
     "cadetblue",
     "Caffe",
     "caffemodel",
@@ -464,7 +460,6 @@
     "dyaw",
     "dylib",
     "Eccleston",
-    "ECCV",
     "ECEF",
     "ECMAScript",
     "EIGEN",
@@ -1227,7 +1222,6 @@
     "tostring",
     "tpdo",
     "tqdm",
-    "tracklet",
     "trafficlight",
     "trafficlights",
     "traj",
