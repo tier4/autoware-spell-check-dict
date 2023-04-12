@@ -34,7 +34,8 @@
     "**/log/**",
     "**/package-lock.json",
     "**/public/**",
-    "**/reports*/**"
+    "**/reports*/**",
+    "perception/bytetrack/lib/*"
   ],
   "ignoreRegExpList": [
     "\\[.*/.*\\]\\(https://github.com",
