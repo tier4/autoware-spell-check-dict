@@ -26,7 +26,7 @@ def format_json_recursive(j: Dict) -> Dict:
     if isinstance(j, dict):
         j = {k: format_json_recursive(v) for k, v in j.items()}
     elif isinstance(j, list):
-        if any([not isinstance(v, str) for v in j]):
+        if any(not isinstance(v, str) for v in j):
             j = [format_json_recursive(v) for v in j]
         else:
             j = list(set(j))
