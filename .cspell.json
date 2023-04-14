@@ -249,8 +249,8 @@
     "planing",
     "ROS2",
     "Tier4",
-    "TIERIV",
     "TierIV",
+    "TIERIV",
     "VSCode"
   ],
   "words": [
@@ -1043,6 +1043,7 @@
     "mkdir",
     "mkdocs",
     "mkdocstrings",
+    "MMCV",
     "mmdet",
     "mobilenetv",
     "Mobileye",
