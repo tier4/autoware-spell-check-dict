@@ -249,12 +249,11 @@
     "planing",
     "ROS2",
     "Tier4",
-    "TierIV",
     "TIERIV",
+    "TierIV",
     "VSCode"
   ],
   "words": [
-    "mmclassification",
     "aabb",
     "aarch",
     "abspath",
@@ -1044,6 +1043,7 @@
     "mkdir",
     "mkdocs",
     "mkdocstrings",
+    "mmclassification",
     "MMCV",
     "mmdet",
     "mobilenetv",
