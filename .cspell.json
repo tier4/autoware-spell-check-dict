@@ -1579,6 +1579,7 @@
     "tostring",
     "tpdo",
     "tqdm",
+    "tracklet",
     "trafficlight",
     "trafficlights",
     "traj",
