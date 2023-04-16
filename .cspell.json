@@ -249,12 +249,11 @@
     "planing",
     "ROS2",
     "Tier4",
-    "TIERIV",
     "TierIV",
+    "TIERIV",
     "VSCode"
   ],
   "words": [
-    "ECCV",
     "aabb",
     "aarch",
     "abspath",
@@ -619,6 +618,7 @@
     "dylib",
     "Eagleye",
     "Eccleston",
+    "ECCV",
     "ECEF",
     "ECMAScript",
     "edgecolor",
