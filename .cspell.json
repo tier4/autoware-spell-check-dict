@@ -352,6 +352,7 @@
     "baselink",
     "baudrate",
     "bbox",
+    "bboxes",
     "beautifulsoup",
     "behaviortree",
     "behaviour",
