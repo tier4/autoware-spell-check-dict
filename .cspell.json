@@ -351,6 +351,7 @@
     "basecoords",
     "baselink",
     "baudrate",
+    "bboxes",
     "beautifulsoup",
     "behaviortree",
     "behaviour",
