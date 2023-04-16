@@ -30,7 +30,7 @@ def format_json_recursive(j: Dict) -> Dict:
             j = [format_json_recursive(v) for v in j]
         else:
             j = list(set(j))
-            j = sorted(j, key=str.lower)
+            j = sorted(j, key=lambda s: (str.casefold(s), s))
     return j
 
 
