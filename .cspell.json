@@ -254,7 +254,6 @@
     "VSCode"
   ],
   "words": [
-    "pointpillars",
     "aabb",
     "aarch",
     "abspath",
@@ -1234,6 +1233,7 @@
     "pointcloud",
     "pointclouds",
     "pointpainting",
+    "pointpillars",
     "pointsize",
     "polyfit",
     "Polyline",
