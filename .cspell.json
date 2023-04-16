@@ -254,7 +254,6 @@
     "VSCode"
   ],
   "words": [
-    "bboxes",
     "aabb",
     "aarch",
     "abspath",
@@ -352,6 +351,7 @@
     "basecoords",
     "baselink",
     "baudrate",
+    "bboxes",
     "beautifulsoup",
     "behaviortree",
     "behaviour",
