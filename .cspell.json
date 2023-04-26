@@ -1051,6 +1051,7 @@
     "MMCV",
     "mmdet",
     "mmlab",
+    "mmdetection",
     "mobilenetv",
     "Mobileye",
     "modalias",
