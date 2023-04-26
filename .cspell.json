@@ -1050,6 +1050,7 @@
     "mmclassification",
     "MMCV",
     "mmdet",
+    "mmdetection",
     "mobilenetv",
     "Mobileye",
     "modalias",
