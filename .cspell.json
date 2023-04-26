@@ -254,7 +254,6 @@
     "VSCode"
   ],
   "words": [
-    "mmlab",
     "aabb",
     "aarch",
     "abspath",
@@ -1051,6 +1050,7 @@
     "mmclassification",
     "MMCV",
     "mmdet",
+    "mmlab",
     "mobilenetv",
     "Mobileye",
     "modalias",
