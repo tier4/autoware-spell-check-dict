@@ -255,7 +255,6 @@
     "VSCode"
   ],
   "words": [
-    "proxsuite",
     "aabb",
     "aarch",
     "abspath",
@@ -1269,6 +1268,7 @@
     "protobuf",
     "protoc",
     "prototxt",
+    "proxsuite",
     "pseudocode",
     "pseudomuto",
     "psim",
