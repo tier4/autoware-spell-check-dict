@@ -110,6 +110,7 @@
         "darkreader",
         "displaystyle",
         "dropshadow",
+        "fill=\".*\"",
         "focusable",
         "inkscape",
         "inkscape:.*=",
