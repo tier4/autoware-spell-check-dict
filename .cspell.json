@@ -256,7 +256,6 @@
     "VSCode"
   ],
   "words": [
-    "gedit",
     "aabb",
     "aarch",
     "abspath",
@@ -702,6 +701,7 @@
     "gdoc",
     "gdown",
     "gdrive",
+    "gedit",
     "geekdoc",
     "gencfg",
     "gencolors",
