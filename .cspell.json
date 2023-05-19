@@ -1599,6 +1599,7 @@
     "trajs",
     "tridiagonal",
     "trtexec",
+    "tsort",
     "turtlebot",
     "twemoji",
     "twinx",
