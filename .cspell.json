@@ -256,7 +256,6 @@
     "VSCode"
   ],
   "words": [
-    "circumcenter",
     "aabb",
     "aarch",
     "abspath",
@@ -429,6 +428,7 @@
     "chrony",
     "chronyc",
     "chrpath",
+    "circumcenter",
     "Cityscapes",
     "clangd",
     "classmethod",
