@@ -256,7 +256,6 @@
     "VSCode"
   ],
   "words": [
-    "tsort",
     "aabb",
     "aarch",
     "abspath",
@@ -1600,6 +1599,7 @@
     "trajs",
     "tridiagonal",
     "trtexec",
+    "tsort",
     "turtlebot",
     "twemoji",
     "twinx",
