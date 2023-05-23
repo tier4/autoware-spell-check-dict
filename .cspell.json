@@ -256,7 +256,6 @@
     "VSCode"
   ],
   "words": [
-    "edac,DIMM",
     "aabb",
     "aarch",
     "abspath",
@@ -628,6 +627,7 @@
     "ECCV",
     "ECEF",
     "ECMAScript",
+    "edac,DIMM",
     "edgecolor",
     "EIGEN",
     "eigensolver",
