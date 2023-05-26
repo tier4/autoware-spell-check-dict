@@ -256,7 +256,6 @@
     "VSCode"
   ],
   "words": [
-    "mathjax",
     "aabb",
     "aarch",
     "abspath",
@@ -1017,6 +1016,7 @@
     "markersize",
     "materialx",
     "mathbb",
+    "mathjax",
     "mathrm",
     "mathutils",
     "matplotlib",
