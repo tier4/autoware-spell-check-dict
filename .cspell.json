@@ -256,7 +256,6 @@
     "VSCode"
   ],
   "words": [
-    "hnote",
     "aabb",
     "aarch",
     "abspath",
@@ -780,6 +779,7 @@
     "histo",
     "hline",
     "Hmat",
+    "hnote",
     "homography",
     "Hooi",
     "horizontalalignment",
