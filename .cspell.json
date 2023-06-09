@@ -1518,6 +1518,7 @@
     "streetsidesoftware",
     "STREQ",
     "STREQUAL",
+    "strictuml",
     "strlen",
     "STRNE",
     "stroke-dashoffset",
