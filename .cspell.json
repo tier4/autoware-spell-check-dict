@@ -256,7 +256,6 @@
     "VSCode"
   ],
   "words": [
-    "GFLOPs",
     "aabb",
     "aarch",
     "abspath",
@@ -727,6 +726,7 @@
     "getroot",
     "getsize",
     "GFILE",
+    "GFLOPs",
     "gfortran",
     "ghcr",
     "ghostwhite",
