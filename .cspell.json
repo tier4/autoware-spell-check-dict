@@ -256,7 +256,6 @@
     "VSCode"
   ],
   "words": [
-    "googlenet",
     "aabb",
     "aarch",
     "abspath",
@@ -745,6 +744,7 @@
     "GnuPG",
     "golfcart",
     "GOMP",
+    "googlenet",
     "googletest",
     "gparted",
     "gpio",
