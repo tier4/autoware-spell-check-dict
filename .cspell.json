@@ -726,6 +726,7 @@
     "getroot",
     "getsize",
     "GFILE",
+    "GFLOPs",
     "gfortran",
     "ghcr",
     "ghostwhite",
