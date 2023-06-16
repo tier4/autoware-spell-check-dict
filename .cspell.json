@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "metaschema",
     "aabb",
     "aarch",
     "abspath",
@@ -1036,6 +1035,7 @@
     "memset",
     "meshgrid",
     "metainfo",
+    "metaschema",
     "MGRS",
     "microautonomy",
     "microservices",
