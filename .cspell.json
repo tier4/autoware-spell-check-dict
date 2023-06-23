@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "wholename",
     "aabb",
     "aarch",
     "abspath",
@@ -1677,6 +1676,7 @@
     "Werror",
     "Wextra",
     "whitesmoke",
+    "wholename",
     "wifi",
     "Wnonportable",
     "Woodall",
