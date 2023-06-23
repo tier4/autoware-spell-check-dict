@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "jsonschema",
     "aabb",
     "aarch",
     "abspath",
@@ -851,6 +850,7 @@
     "joinpath",
     "JPNTAXI",
     "jsonify",
+    "jsonschema",
     "kalman",
     "Kammel",
     "Kashiwa",
