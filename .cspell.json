@@ -850,6 +850,7 @@
     "joinpath",
     "JPNTAXI",
     "jsonify",
+    "jsonschema",
     "kalman",
     "Kammel",
     "Kashiwa",
