@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "MSVC",
     "aabb",
     "aarch",
     "abspath",
@@ -1079,6 +1078,7 @@
     "msgify",
     "msse",
     "mssql",
+    "MSVC",
     "multiarch",
     "multicasts",
     "multilib",
