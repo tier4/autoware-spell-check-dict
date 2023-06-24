@@ -1078,6 +1078,7 @@
     "msgify",
     "msse",
     "mssql",
+    "MSVC",
     "multiarch",
     "multicasts",
     "multilib",
