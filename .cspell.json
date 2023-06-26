@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "quantile",
     "aabb",
     "aarch",
     "abspath",
@@ -1323,6 +1322,7 @@
     "qtmultimedia",
     "qtquick",
     "qttools",
+    "quantile",
     "Quaterniond",
     "Quaternionf",
     "Quickstart",
