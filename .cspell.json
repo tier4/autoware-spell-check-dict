@@ -257,6 +257,7 @@
     "VSCode"
   ],
   "words": [
+    "nvcc",
     "aabb",
     "aarch",
     "abspath",
