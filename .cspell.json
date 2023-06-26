@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "unpadded",
     "aabb",
     "aarch",
     "abspath",
@@ -1631,6 +1630,7 @@
     "unittests",
     "unixodbc",
     "unmark",
+    "unpadded",
     "unrectify",
     "unshifted",
     "unsqueeze",
