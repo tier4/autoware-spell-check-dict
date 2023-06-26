@@ -1157,6 +1157,7 @@
     "NURBS",
     "nvcaffe",
     "nvcaffeparser",
+    "nvcc",
     "nvinfer",
     "nvme",
     "nvml",
