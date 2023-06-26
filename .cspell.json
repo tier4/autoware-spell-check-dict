@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "nhwc",
     "aabb",
     "aarch",
     "abspath",
@@ -1114,6 +1113,7 @@
     "Neur",
     "newrank",
     "nftables",
+    "nhwc",
     "nishishinjuku",
     "nlattr",
     "nlgenl",
