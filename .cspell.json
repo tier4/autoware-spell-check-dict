@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "nvcc",
     "aabb",
     "aarch",
     "abspath",
@@ -1158,6 +1157,7 @@
     "NURBS",
     "nvcaffe",
     "nvcaffeparser",
+    "nvcc",
     "nvinfer",
     "nvme",
     "nvml",
