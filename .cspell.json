@@ -1055,6 +1055,7 @@
     "mkdir",
     "mkdocs",
     "mkdocstrings",
+    "mlmodels",
     "mmclassification",
     "MMCV",
     "mmdet",
