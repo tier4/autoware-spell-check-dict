@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "mlmodel",
     "aabb",
     "aarch",
     "abspath",
@@ -1056,6 +1055,7 @@
     "mkdir",
     "mkdocs",
     "mkdocstrings",
+    "mlmodel",
     "mlmodels",
     "mmclassification",
     "MMCV",
