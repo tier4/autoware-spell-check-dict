@@ -573,6 +573,7 @@
     "devel",
     "devfreq",
     "devscripts",
+    "DEVTYPE",
     "dialout",
     "diffstat",
     "dimgray",
