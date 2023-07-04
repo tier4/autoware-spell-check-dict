@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "DEVTYPE",
     "aabb",
     "aarch",
     "abspath",
@@ -574,6 +573,7 @@
     "devel",
     "devfreq",
     "devscripts",
+    "DEVTYPE",
     "dialout",
     "diffstat",
     "dimgray",
