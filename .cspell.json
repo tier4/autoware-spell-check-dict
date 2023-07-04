@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "poscovgeodetic",
     "aabb",
     "aarch",
     "abspath",
@@ -1252,6 +1251,7 @@
     "polyfit",
     "Polyline",
     "popleft",
+    "poscovgeodetic",
     "POSIX",
     "poslvx",
     "postprocess",
