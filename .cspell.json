@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "lanefollowing",
     "aabb",
     "aarch",
     "abspath",
@@ -879,6 +878,7 @@
     "labelspacing",
     "lanechange",
     "lanedriving",
+    "lanefollowing",
     "laneid",
     "laneids",
     "lanelet",
