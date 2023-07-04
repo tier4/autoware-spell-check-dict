@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "DEVPATH",
     "aabb",
     "aarch",
     "abspath",
@@ -573,6 +572,7 @@
     "devcontainer",
     "devel",
     "devfreq",
+    "DEVPATH",
     "devscripts",
     "dialout",
     "diffstat",
