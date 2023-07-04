@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "pvtgeodetic",
     "aabb",
     "aarch",
     "abspath",
@@ -1291,6 +1290,7 @@
     "pugi",
     "pugixml",
     "pushable",
+    "pvtgeodetic",
     "pyaw",
     "pybind",
     "pycache",
