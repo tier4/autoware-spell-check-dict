@@ -1652,6 +1652,7 @@
     "unrectify",
     "unshifted",
     "unsqueeze",
+    "upsample",
     "urandom",
     "URDF",
     "Uref",
