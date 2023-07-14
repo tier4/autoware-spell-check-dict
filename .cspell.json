@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "prob",
     "aabb",
     "aarch",
     "abspath",
@@ -1284,6 +1283,7 @@
     "pretrained",
     "printenv",
     "printf",
+    "prob",
     "PROCHOT",
     "procs",
     "proto",
