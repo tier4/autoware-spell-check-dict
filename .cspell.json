@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "undistortion",
     "aabb",
     "aarch",
     "abspath",
@@ -1634,6 +1633,7 @@
     "undeclare",
     "undelegated",
     "undistort",
+    "undistortion",
     "unfixable",
     "unhold",
     "unimoji",
