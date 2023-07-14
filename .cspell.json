@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "ddot",
     "aabb",
     "aarch",
     "abspath",
@@ -543,6 +542,7 @@
     "dconf",
     "dcosyaw",
     "DCOVERAGE",
+    "ddot",
     "deadtime",
     "deadzone",
     "Deallocations",
