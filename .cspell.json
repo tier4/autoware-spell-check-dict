@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "divup",
     "aabb",
     "aarch",
     "abspath",
@@ -589,6 +588,7 @@
     "distros",
     "distutils",
     "divb",
+    "divup",
     "dkms",
     "dlat",
     "dockerenv",
