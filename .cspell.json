@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "letterbox",
     "aabb",
     "aarch",
     "abspath",
@@ -903,6 +902,7 @@
     "lemonchiffon",
     "lerp",
     "lerped",
+    "letterbox",
     "levelname",
     "levelno",
     "LGSVL",
