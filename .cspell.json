@@ -763,6 +763,7 @@
     "gstreamer",
     "gtest",
     "gtkterm",
+    "GTSAM",
     "hadolint",
     "HARA",
     "hashlib",
