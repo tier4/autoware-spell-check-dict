@@ -80,7 +80,8 @@
         "^gdown .+$",
         "inet6 [a-z0-9:]*/64",
         "scenario[a-zA-Z0-9-_]+.ya?ml",
-        "uses: .+/.+@.+"
+        "uses: .+/.+@.+",
+        "[a-zA-Z0-9-_]+.png"
       ]
     },
     {
