@@ -934,6 +934,7 @@
     "libgoogle",
     "libground",
     "libgstreamer",
+    "libgtsam",
     "libimage",
     "liblttng",
     "libmagick",
