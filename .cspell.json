@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "libgtsam",
     "aabb",
     "aarch",
     "abspath",
@@ -935,6 +934,7 @@
     "libgoogle",
     "libground",
     "libgstreamer",
+    "libgtsam",
     "libimage",
     "liblttng",
     "libmagick",
