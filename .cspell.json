@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "fopenmp",
     "aabb",
     "aarch",
     "abspath",
@@ -685,6 +684,7 @@
     "fontawesome",
     "fontsize",
     "fopen",
+    "fopenmp",
     "forestgreen",
     "fourcc",
     "fPIC",
