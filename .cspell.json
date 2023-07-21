@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "aruco",
     "aabb",
     "aarch",
     "abspath",
@@ -303,6 +302,7 @@
     "arithmatex",
     "arrowhead",
     "arrowtail",
+    "aruco",
     "Arya",
     "asciidoctor",
     "asciidoctorj",
