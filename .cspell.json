@@ -1640,6 +1640,7 @@
     "typesupport",
     "tzinfo",
     "UART",
+    "ublox",
     "uchar",
     "udev",
     "udpreplay",
