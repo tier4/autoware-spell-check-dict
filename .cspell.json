@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "makestep",
     "aabb",
     "aarch",
     "abspath",
@@ -1026,6 +1025,7 @@
     "Magnusson",
     "mainpage",
     "Makefiles",
+    "makestep",
     "malloc",
     "maph",
     "markdownlint",
