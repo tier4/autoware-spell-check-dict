@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "ublox",
     "aabb",
     "aarch",
     "abspath",
@@ -1641,6 +1640,7 @@
     "typesupport",
     "tzinfo",
     "UART",
+    "ublox",
     "uchar",
     "udev",
     "udpreplay",
