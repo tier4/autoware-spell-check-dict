@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "upsampled",
     "aabb",
     "aarch",
     "abspath",
@@ -1671,6 +1670,7 @@
     "unshifted",
     "unsqueeze",
     "upsample",
+    "upsampled",
     "urandom",
     "URDF",
     "Uref",
