@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "AHRS",
     "aabb",
     "aarch",
     "abspath",
@@ -276,6 +275,7 @@
     "ADMM",
     "adoc",
     "AHCI",
+    "AHRS",
     "Akima",
     "aliceblue",
     "allclose",
