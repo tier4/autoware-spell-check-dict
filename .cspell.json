@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "openai",
     "aabb",
     "aarch",
     "abspath",
@@ -1205,6 +1204,7 @@
     "oneshot",
     "ONNX",
     "openadkit",
+    "openai",
     "opencl",
     "opencv",
     "openlist",
