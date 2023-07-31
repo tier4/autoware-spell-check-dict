@@ -1678,6 +1678,7 @@
     "unrectify",
     "unshifted",
     "unsqueeze",
+    "unzstd",
     "upsample",
     "upsampled",
     "urandom",
