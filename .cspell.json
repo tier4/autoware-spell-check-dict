@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "discretizing",
     "aabb",
     "aarch",
     "abspath",
@@ -589,6 +588,7 @@
     "discretization",
     "discretize",
     "discretized",
+    "discretizing",
     "distro",
     "distros",
     "distutils",
