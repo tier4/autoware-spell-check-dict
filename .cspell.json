@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "bmatrix",
     "aabb",
     "aarch",
     "abspath",
@@ -378,6 +377,7 @@
     "bluetoothctl",
     "blueviolet",
     "bluez",
+    "bmatrix",
     "bokeh",
     "boldsymbol",
     "Bonnifait",
