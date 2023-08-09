@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "multipolygon",
     "aabb",
     "aarch",
     "abspath",
@@ -1113,6 +1112,7 @@
     "multimethod",
     "multipass",
     "multiplot",
+    "multipolygon",
     "multithread",
     "multithreaded",
     "MUSSP",
