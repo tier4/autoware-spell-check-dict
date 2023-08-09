@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "lightnet",
     "aabb",
     "aarch",
     "abspath",
@@ -992,6 +991,7 @@
     "lightgoldenrodyellow",
     "lightgray",
     "lightgreen",
+    "lightnet",
     "lightpink",
     "lightsalmon",
     "lightseagreen",
