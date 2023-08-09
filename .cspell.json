@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "multilinestring",
     "aabb",
     "aarch",
     "abspath",
@@ -1110,6 +1109,7 @@
     "multicasts",
     "multilib",
     "multiline",
+    "multilinestring",
     "multimethod",
     "multipass",
     "multiplot",
