@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "epochtime",
     "aabb",
     "aarch",
     "abspath",
@@ -655,6 +654,7 @@
     "Englewood",
     "ensurepath",
     "ENTRYPOINT",
+    "epochtime",
     "Eppstein",
     "esac",
     "esli",
