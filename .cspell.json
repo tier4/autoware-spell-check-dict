@@ -257,7 +257,6 @@
     "VSCode"
   ],
   "words": [
-    "pagecache",
     "aabb",
     "aarch",
     "abspath",
@@ -1232,6 +1231,7 @@
     "overwriter",
     "oyaml",
     "pacmod",
+    "pagecache",
     "palegoldenrod",
     "palegreen",
     "paleturquoise",
