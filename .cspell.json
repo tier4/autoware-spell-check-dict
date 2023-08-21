@@ -258,7 +258,6 @@
     "VSCode"
   ],
   "words": [
-    "psutil",
     "aabb",
     "aarch",
     "abspath",
@@ -1316,6 +1315,7 @@
     "pseudomuto",
     "psim",
     "pstate",
+    "psutil",
     "pthread",
     "ptpd",
     "ptree",
