@@ -1315,6 +1315,7 @@
     "pseudomuto",
     "psim",
     "pstate",
+    "psutil",
     "pthread",
     "ptpd",
     "ptree",
