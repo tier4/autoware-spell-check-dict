@@ -258,7 +258,6 @@
     "VSCode"
   ],
   "words": [
-    "pidof",
     "aabb",
     "aarch",
     "abspath",
@@ -1260,6 +1259,7 @@
     "pgrep",
     "Philipp",
     "Phison",
+    "pidof",
     "pilotauto",
     "pinv",
     "pipefail",
