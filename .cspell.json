@@ -228,11 +228,11 @@
         "<text .*?>.*?\\.\\.\\.</text>",
         "^.*?\\.\\.\\.(</text>)?$",
         "data:image/png,.*;",
-        "host=&quot;[a-zA-Z0-9 +-/_]+&quot;",
         "etag=&quot;[a-zA-Z0-9 +-/_]+&quot;",
         "filter=\"[a-zA-Z0-9 +-/_#()]+\"",
         "font-family: .*;",
         "freesans",
+        "host=&quot;[a-zA-Z0-9 +-/_]+&quot;",
         "id=[^\\s]+",
         "name=&quot;[^>]+",
         "segoe"
