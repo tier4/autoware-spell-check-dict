@@ -232,6 +232,7 @@
         "filter=\"[a-zA-Z0-9 +-/_#()]+\"",
         "font-family: .*;",
         "freesans",
+        "host=&quot;[a-zA-Z0-9 +-/_]+&quot;",
         "id=[^\\s]+",
         "name=&quot;[^>]+",
         "segoe"
