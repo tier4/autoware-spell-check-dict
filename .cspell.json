@@ -236,7 +236,8 @@
         "id=[^\\s]+",
         "name=&quot;[^>]+",
         "segoe",
-        "truetype"
+        "truetype",
+        "mathvariant"
       ]
     },
     {
