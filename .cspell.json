@@ -234,10 +234,10 @@
         "freesans",
         "host=&quot;[a-zA-Z0-9 +-/_]+&quot;",
         "id=[^\\s]+",
+        "mathvariant",
         "name=&quot;[^>]+",
         "segoe",
-        "truetype",
-        "mathvariant"
+        "truetype"
       ]
     },
     {
