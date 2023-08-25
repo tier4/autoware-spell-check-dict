@@ -670,6 +670,7 @@
     "evaluable",
     "evenodd",
     "EWAOL",
+    "execdir",
     "execve",
     "exitflag",
     "extractall",
