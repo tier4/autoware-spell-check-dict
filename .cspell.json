@@ -260,7 +260,6 @@
     "VSCode"
   ],
   "words": [
-    "execdir",
     "aabb",
     "aarch",
     "abspath",
@@ -671,6 +670,7 @@
     "evaluable",
     "evenodd",
     "EWAOL",
+    "execdir",
     "execve",
     "exitflag",
     "extractall",
