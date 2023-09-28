@@ -260,7 +260,6 @@
     "VSCode"
   ],
   "words": [
-    "parzen",
     "aabb",
     "aarch",
     "abspath",
@@ -1249,6 +1248,7 @@
     "parallelization",
     "paramtype",
     "parkinglot",
+    "parzen",
     "pathlib",
     "paththrough",
     "PCAN",
