@@ -260,7 +260,6 @@
     "VSCode"
   ],
   "words": [
-    "toolset",
     "aabb",
     "aarch",
     "abspath",
@@ -1645,6 +1644,7 @@
     "toggleable",
     "tolist",
     "toolkits",
+    "toolset",
     "topk",
     "toplevel",
     "topo",
