@@ -260,7 +260,6 @@
     "VSCode"
   ],
   "words": [
-    "mobilenet",
     "aabb",
     "aarch",
     "abspath",
@@ -1094,6 +1093,7 @@
     "mmdet",
     "mmdetection",
     "mmlab",
+    "mobilenet",
     "mobilenetv",
     "modalias",
     "MODELZOO",
