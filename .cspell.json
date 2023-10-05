@@ -260,7 +260,6 @@
     "VSCode"
   ],
   "words": [
-    "optuna",
     "aabb",
     "aarch",
     "abspath",
@@ -1231,6 +1230,7 @@
     "optarg",
     "optenv",
     "OPTIND",
+    "optuna",
     "orangered",
     "orocos",
     "orthometric",
