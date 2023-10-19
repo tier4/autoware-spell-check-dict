@@ -111,6 +111,8 @@
         "bordercolor",
         "borderopacity",
         "darkreader",
+        "tvmgen",
+        "dltype",
         "displaystyle",
         "dropshadow",
         "fill=\".*\"",
