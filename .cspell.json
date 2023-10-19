@@ -111,9 +111,8 @@
         "bordercolor",
         "borderopacity",
         "darkreader",
-        "tvmgen",
-        "dltype",
         "displaystyle",
+        "dltype",
         "dropshadow",
         "fill=\".*\"",
         "focusable",
@@ -144,6 +143,7 @@
         "sodipodi",
         "tabindex",
         "tspan",
+        "tvmgen",
         "xlink:href=\"data:image/png;base64,.*\""
       ]
     },
