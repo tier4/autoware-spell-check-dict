@@ -261,7 +261,6 @@
     "VSCode"
   ],
   "words": [
-    "normalise",
     "aabb",
     "aarch",
     "abspath",
@@ -1183,6 +1182,7 @@
     "noqueue",
     "noreply",
     "noreport",
+    "normalise",
     "Noto",
     "NOWARNINGS",
     "nowrap",
