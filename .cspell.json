@@ -261,7 +261,6 @@
     "VSCode"
   ],
   "words": [
-    "mobileye",
     "aabb",
     "aarch",
     "abspath",
@@ -1101,6 +1100,7 @@
     "mmpretrain",
     "mobilenet",
     "mobilenetv",
+    "mobileye",
     "modalias",
     "MODELZOO",
     "modeset",
