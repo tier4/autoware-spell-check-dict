@@ -261,7 +261,6 @@
     "VSCode"
   ],
   "words": [
-    "overridable",
     "aabb",
     "aarch",
     "abspath",
@@ -1244,6 +1243,7 @@
     "osqpsolver",
     "osrf",
     "overaccel",
+    "overridable",
     "overspeed",
     "overwriter",
     "oyaml",
