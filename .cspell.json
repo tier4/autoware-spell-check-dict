@@ -261,7 +261,6 @@
     "VSCode"
   ],
   "words": [
-    "ROS2",
     "aabb",
     "aarch",
     "abspath",
@@ -1447,6 +1446,7 @@
     "Rodrigues",
     "rois",
     "rootfs",
+    "ROS2",
     "rosapi",
     "rosauth",
     "rosbag",
