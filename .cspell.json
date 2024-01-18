@@ -35,6 +35,7 @@
     "**/CHANGELOG.rst",
     "**/CPPLINT.cfg",
     "**/dist/**",
+    "**/Doxyfile",
     "**/external/**",
     "**/install/**",
     "**/log/**",
