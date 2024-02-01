@@ -262,7 +262,6 @@
     "VSCode"
   ],
   "words": [
-    "qbegin",
     "aabb",
     "aarch",
     "abspath",
@@ -1369,6 +1368,7 @@
     "PYTHONPATH",
     "pytorch",
     "pyyaml",
+    "qbegin",
     "qdisc",
     "qframe",
     "qlen",
