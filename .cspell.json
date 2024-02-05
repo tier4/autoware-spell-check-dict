@@ -262,7 +262,6 @@
     "VSCode"
   ],
   "words": [
-    "powerprofilesctl",
     "aabb",
     "aarch",
     "abspath",
@@ -1309,6 +1308,7 @@
     "postprocessor",
     "powderblue",
     "poweroff",
+    "powerprofilesctl",
     "PPAGE",
     "pprev",
     "pprint",
