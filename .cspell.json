@@ -245,16 +245,15 @@
     {
       "filename": "**/{*.js,*.ts}",
       "ignoreRegExpList": [
-        "imageio",
-        "mimsave"
+        "owner: .*$",
+        "repo:: .*$"
       ]
     },
     {
       "filename": "**/{*.py}",
       "ignoreRegExpList": [
-        "Copyright (\\(c\\))?.+$",
-        "FIXME( )?\\(.+?\\)",
-        "TODO( )?\\(.+?\\)"
+        "imageio",
+        "mimsave"
       ]
     }
   ],
