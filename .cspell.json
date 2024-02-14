@@ -91,7 +91,9 @@
       "ignoreRegExpList": [
         "author(_email)?=.*$",
         "linewidth",
-        "maintainer(_email)?=.*$"
+        "maintainer(_email)?=.*$",
+        "imageio",
+        "mimsave"
       ]
     },
     {
@@ -247,13 +249,6 @@
       "ignoreRegExpList": [
         "owner: .*$",
         "repo:: .*$"
-      ]
-    },
-    {
-      "filename": "**/{*.py}",
-      "ignoreRegExpList": [
-        "imageio",
-        "mimsave"
       ]
     }
   ],
