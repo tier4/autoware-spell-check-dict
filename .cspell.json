@@ -90,8 +90,10 @@
       "filename": "**/*.py",
       "ignoreRegExpList": [
         "author(_email)?=.*$",
+        "imageio",
         "linewidth",
-        "maintainer(_email)?=.*$"
+        "maintainer(_email)?=.*$",
+        "mimsave"
       ]
     },
     {
