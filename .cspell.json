@@ -90,8 +90,10 @@
       "filename": "**/*.py",
       "ignoreRegExpList": [
         "author(_email)?=.*$",
+        "imageio",
         "linewidth",
-        "maintainer(_email)?=.*$"
+        "maintainer(_email)?=.*$",
+        "mimsave"
       ]
     },
     {
@@ -1278,6 +1280,7 @@
     "Philipp",
     "Phison",
     "pidof",
+    "pignistic",
     "pilotauto",
     "pinv",
     "pipefail",
@@ -1383,6 +1386,7 @@
     "qtquick",
     "qttools",
     "quantile",
+    "quantizer",
     "Quaterniond",
     "Quaternionf",
     "Quickstart",
@@ -1484,6 +1488,7 @@
     "rosviz",
     "roswww",
     "rosybrown",
+    "routable",
     "routesections",
     "royalblue",
     "rrt",
