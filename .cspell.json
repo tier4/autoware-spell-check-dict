@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "combobox",
     "aabb",
     "aarch",
     "abspath",
@@ -469,6 +468,7 @@
     "collinearity",
     "colorbar",
     "colorcet",
+    "combobox",
     "comhpc",
     "commonpath",
     "commonprefix",
