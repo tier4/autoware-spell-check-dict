@@ -478,6 +478,7 @@
     "concatenator",
     "COND",
     "ConOps",
+    "consecutives",
     "Consolas",
     "constexpr",
     "constness",
