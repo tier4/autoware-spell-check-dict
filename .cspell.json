@@ -1727,6 +1727,7 @@
     "URDF",
     "Uref",
     "USART",
+    "usbutils",
     "USECASE",
     "usermod",
     "userspace",
