@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "consecutives",
     "aabb",
     "aarch",
     "abspath",
@@ -478,6 +477,7 @@
     "concatenator",
     "COND",
     "ConOps",
+    "consecutives",
     "Consolas",
     "constexpr",
     "constness",
