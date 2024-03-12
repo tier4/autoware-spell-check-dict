@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "usbutils",
     "aabb",
     "aarch",
     "abspath",
@@ -1728,6 +1727,7 @@
     "URDF",
     "Uref",
     "USART",
+    "usbutils",
     "USECASE",
     "usermod",
     "userspace",
