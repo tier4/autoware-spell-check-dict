@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "NAPT",
     "aabb",
     "aarch",
     "abspath",
@@ -1147,6 +1146,7 @@
     "mypy",
     "MZVLB",
     "nanosec",
+    "NAPT",
     "natsort",
     "natsorted",
     "navajowhite",
