@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "argparse",
     "aabb",
     "aarch",
     "abspath",
@@ -308,6 +307,7 @@
     "argmax",
     "argmin",
     "Argoverse",
+    "argparse",
     "argsort",
     "arithmatex",
     "arrowhead",
