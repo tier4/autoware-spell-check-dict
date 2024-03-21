@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "loadtxt",
     "aabb",
     "aarch",
     "abspath",
@@ -1034,6 +1033,7 @@
     "linuxcan",
     "LIVOX",
     "LLVM",
+    "loadtxt",
     "Logiee",
     "logit",
     "logsim",
