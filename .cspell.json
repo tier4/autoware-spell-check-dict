@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "MPPI",
     "aabb",
     "aarch",
     "abspath",
@@ -1120,6 +1119,7 @@
     "mountpoint",
     "mozc",
     "mplot",
+    "MPPI",
     "mpstat",
     "mptopic",
     "MQTT",
