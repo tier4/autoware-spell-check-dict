@@ -1370,6 +1370,7 @@
     "pylint",
     "pymdown",
     "pymdownx",
+    "pympc",
     "pynput",
     "pyplot",
     "pyqt",
