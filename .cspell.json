@@ -1862,6 +1862,21 @@
     "zmqpp",
     "zorder",
     "zstd",
-    "zsync"
+    "zsync",
+    "numba",
+    "njit",
+    "simplejson",
+    "fastmath",
+    "interp",
+    "suptitle",
+    "basefmt",
+    "markerfmt",
+    "PREC",
+    "optim",
+    "colwise",
+    "ndimage",
+    "usecols",
+    "savez",
+    "lengthscale"
   ]
 }
