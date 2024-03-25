@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "ilqr",
     "aabb",
     "aarch",
     "abspath",
@@ -831,6 +830,7 @@
     "ifndef",
     "iframe",
     "iloc",
+    "ilqr",
     "imagemagick",
     "imdecode",
     "imencode",
