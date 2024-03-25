@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "pympc",
     "aabb",
     "aarch",
     "abspath",
@@ -1369,6 +1368,7 @@
     "pylint",
     "pymdown",
     "pymdownx",
+    "pympc",
     "pynput",
     "pyplot",
     "pyqt",
