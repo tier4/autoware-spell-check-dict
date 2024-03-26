@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "mitsudome",
     "aabb",
     "aarch",
     "abspath",
@@ -1097,6 +1096,7 @@
     "miterlimit",
     "Mitigations",
     "MITSHM",
+    "mitsudome",
     "mkdir",
     "mkdocs",
     "mkdocstrings",
