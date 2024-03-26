@@ -397,6 +397,7 @@
     "boto",
     "boundingbox",
     "Bovbel",
+    "Bpearl",
     "brakemap",
     "Bresenham",
     "brushless",
@@ -443,6 +444,7 @@
     "chrony",
     "chronyc",
     "chrpath",
+    "circlenms",
     "circumcenter",
     "Cityscapes",
     "clangd",
@@ -1088,6 +1090,7 @@
     "microstrain",
     "midnightblue",
     "milee",
+    "Miniconda",
     "mintcream",
     "mipmap",
     "mipmaps",
@@ -1536,6 +1539,7 @@
     "scipy",
     "scrollok",
     "seagreen",
+    "secfpn",
     "semidefinite",
     "septentrio",
     "setcap",
@@ -1862,10 +1866,6 @@
     "zmqpp",
     "zorder",
     "zstd",
-    "zsync",
-    "Miniconda",
-    "secfpn",
-    "circlenms",
-    "Bpearl"
+    "zsync"
   ]
 }
