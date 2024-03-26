@@ -1862,6 +1862,10 @@
     "zmqpp",
     "zorder",
     "zstd",
-    "zsync"
+    "zsync",
+    "Miniconda",
+    "secfpn",
+    "circlenms",
+    "Bpearl"
   ]
 }
