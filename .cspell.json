@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "dhcpd",
     "aabb",
     "aarch",
     "abspath",
@@ -598,6 +597,7 @@
     "DEVPATH",
     "devscripts",
     "DEVTYPE",
+    "dhcpd",
     "dialout",
     "diffstat",
     "dimgray",
