@@ -1742,6 +1742,7 @@
     "URDF",
     "Uref",
     "USART",
+    "usbguard",
     "usbutils",
     "USECASE",
     "usermod",
