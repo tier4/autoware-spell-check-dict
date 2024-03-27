@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "usbguard",
     "aabb",
     "aarch",
     "abspath",
@@ -1738,6 +1737,7 @@
     "URDF",
     "Uref",
     "USART",
+    "usbguard",
     "usbutils",
     "USECASE",
     "usermod",
