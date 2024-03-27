@@ -1096,6 +1096,7 @@
     "miterlimit",
     "Mitigations",
     "MITSHM",
+    "mitsudome",
     "mkdir",
     "mkdocs",
     "mkdocstrings",
