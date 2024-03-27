@@ -597,6 +597,7 @@
     "DEVPATH",
     "devscripts",
     "DEVTYPE",
+    "dhcpd",
     "dialout",
     "diffstat",
     "dimgray",
