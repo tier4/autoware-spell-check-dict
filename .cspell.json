@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "openadk",
     "aabb",
     "aarch",
     "abspath",
@@ -1242,6 +1241,7 @@
     "ondemand",
     "oneshot",
     "ONNX",
+    "openadk",
     "openadkit",
     "openai",
     "opencl",
