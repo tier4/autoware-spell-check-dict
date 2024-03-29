@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "mktemp",
     "aabb",
     "aarch",
     "abspath",
@@ -1105,6 +1104,7 @@
     "mkdir",
     "mkdocs",
     "mkdocstrings",
+    "mktemp",
     "mlmodel",
     "mlmodels",
     "mmclassification",
