@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "DBUILD",
     "aabb",
     "aarch",
     "abspath",
@@ -557,6 +556,7 @@
     "datetime",
     "dateutil",
     "DBGVAL",
+    "DBUILD",
     "DCATKIN",
     "DCMAKE",
     "dconf",
