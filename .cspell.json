@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "logpacker",
     "aabb",
     "aarch",
     "abspath",
@@ -1041,6 +1040,7 @@
     "loadtxt",
     "Logiee",
     "logit",
+    "logpacker",
     "logsim",
     "longsleep",
     "lowpass",
