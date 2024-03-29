@@ -1040,6 +1040,7 @@
     "loadtxt",
     "Logiee",
     "logit",
+    "logpacker",
     "logsim",
     "longsleep",
     "lowpass",
