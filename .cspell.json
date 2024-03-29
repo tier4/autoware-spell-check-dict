@@ -1106,6 +1106,7 @@
     "mkdir",
     "mkdocs",
     "mkdocstrings",
+    "mktemp",
     "mlmodel",
     "mlmodels",
     "mmclassification",
