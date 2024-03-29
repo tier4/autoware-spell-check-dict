@@ -556,6 +556,7 @@
     "datetime",
     "dateutil",
     "DBGVAL",
+    "DBUILD",
     "DCATKIN",
     "DCMAKE",
     "dconf",
