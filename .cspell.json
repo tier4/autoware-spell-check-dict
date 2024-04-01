@@ -1877,6 +1877,7 @@
     "zmqpp",
     "zorder",
     "zstd",
-    "zsync"
+    "zsync",
+    "lidarmarker"
   ]
 }
