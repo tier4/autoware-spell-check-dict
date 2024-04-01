@@ -1005,6 +1005,7 @@
     "libvulkan",
     "libxft",
     "libzmqpp",
+    "lidarmarker",
     "lidars",
     "lidartag",
     "light",
@@ -1877,7 +1878,6 @@
     "zmqpp",
     "zorder",
     "zstd",
-    "zsync",
-    "lidarmarker"
+    "zsync"
   ]
 }
