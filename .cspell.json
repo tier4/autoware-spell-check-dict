@@ -1559,6 +1559,7 @@
     "shellcheck",
     "Shepp",
     "shfmt",
+    "Shimizu",
     "shinjuku",
     "shiojiri",
     "Shortcodes",
@@ -1648,6 +1649,7 @@
     "tableofcontents",
     "taggings",
     "Tahoma",
+    "Taisei",
     "Takagi",
     "Takeuchi",
     "Tamagawa",
@@ -1877,8 +1879,6 @@
     "zmqpp",
     "zorder",
     "zstd",
-    "zsync",
-    "Taisei",
-    "Shimizu"
+    "zsync"
   ]
 }
