@@ -1877,6 +1877,20 @@
     "zmqpp",
     "zorder",
     "zstd",
-    "zsync"
+    "zsync",
+    "kernelspec",
+    "ipykernel",
+    "codemirror",
+    "ipython",
+    "nbconvert",
+    "pygments",
+    "nbformat",
+    "fftfreq",
+    "basefmt",
+    "markerfmt",
+    "oneline",
+    "ndim",
+    "Riccati",
+    "Jacobians"
   ]
 }
