@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "gpasswd",
     "aabb",
     "aarch",
     "abspath",
@@ -778,6 +777,7 @@
     "GoogLeNet",
     "googletest",
     "gparted",
+    "gpasswd",
     "gpio",
     "Gpkg",
     "graphviz",
