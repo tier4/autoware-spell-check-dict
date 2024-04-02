@@ -777,6 +777,7 @@
     "GoogLeNet",
     "googletest",
     "gparted",
+    "gpasswd",
     "gpio",
     "Gpkg",
     "graphviz",
