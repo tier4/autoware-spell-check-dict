@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "candump",
     "aabb",
     "aarch",
     "abspath",
@@ -421,6 +420,7 @@
     "callees",
     "calloc",
     "callstr",
+    "candump",
     "canlib",
     "caplog",
     "capwords",
