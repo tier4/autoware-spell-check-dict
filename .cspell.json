@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "cansend",
     "aabb",
     "aarch",
     "abspath",
@@ -422,6 +421,7 @@
     "calloc",
     "callstr",
     "canlib",
+    "cansend",
     "caplog",
     "capwords",
     "carcolor",
