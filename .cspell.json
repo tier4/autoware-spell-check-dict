@@ -1051,6 +1051,7 @@
     "longsleep",
     "lowpass",
     "LPFED",
+    "lsdb",
     "lsim",
     "ltail",
     "lttng",
