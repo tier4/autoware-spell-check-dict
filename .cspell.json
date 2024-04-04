@@ -781,6 +781,7 @@
     "gparted",
     "gpasswd",
     "gpio",
+    "gpioget",
     "Gpkg",
     "graphviz",
     "GRBG",
