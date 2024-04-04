@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "gpioget",
     "aabb",
     "aarch",
     "abspath",
@@ -780,6 +779,7 @@
     "gparted",
     "gpasswd",
     "gpio",
+    "gpioget",
     "Gpkg",
     "graphviz",
     "GRBG",
