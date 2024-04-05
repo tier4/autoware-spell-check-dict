@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "submodel",
     "aabb",
     "aarch",
     "abspath",
@@ -1635,6 +1634,7 @@
     "structs",
     "styfle",
     "stylesheet",
+    "submodel",
     "submodule",
     "submodules",
     "subparsers",
