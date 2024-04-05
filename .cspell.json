@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "txqueue",
     "aabb",
     "aarch",
     "abspath",
@@ -1727,6 +1726,7 @@
     "twemoji",
     "twinx",
     "twiny",
+    "txqueue",
     "typesupport",
     "tzinfo",
     "UART",
