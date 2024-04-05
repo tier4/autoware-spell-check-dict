@@ -1501,6 +1501,7 @@
     "rosconsole",
     "roscore",
     "roscpp",
+    "roscube",
     "rosdep",
     "rosdistro",
     "rosgraph",
