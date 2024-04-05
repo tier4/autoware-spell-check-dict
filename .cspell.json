@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "bootloader",
     "aabb",
     "aarch",
     "abspath",
@@ -394,6 +393,7 @@
     "boldsymbol",
     "Bonnifait",
     "booktitle",
+    "bootloader",
     "borderaxespad",
     "boto",
     "boundingbox",
