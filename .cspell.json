@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "fvisibility",
     "aabb",
     "aarch",
     "abspath",
@@ -732,6 +731,7 @@
     "functors",
     "FuSa",
     "fvec",
+    "fvisibility",
     "gainsboro",
     "GBRG",
     "gcov",
