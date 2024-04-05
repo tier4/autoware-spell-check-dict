@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "roscube",
     "aabb",
     "aarch",
     "abspath",
@@ -1500,6 +1499,7 @@
     "rosconsole",
     "roscore",
     "roscpp",
+    "roscube",
     "rosdep",
     "rosdistro",
     "rosgraph",
