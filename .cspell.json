@@ -264,7 +264,6 @@
     "VSCode"
   ],
   "words": [
-    "cboot",
     "aabb",
     "aarch",
     "abspath",
@@ -431,6 +430,7 @@
     "cassert",
     "catmull",
     "cbegin",
+    "cboot",
     "ccache",
     "CCSC",
     "CCSCC",
