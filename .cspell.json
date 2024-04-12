@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "statustip",
     "aabb",
     "aarch",
     "abspath",
@@ -1613,6 +1612,7 @@
     "sshpass",
     "startuml",
     "staticmethod",
+    "statustip",
     "stdc",
     "stddev",
     "stdmap",
