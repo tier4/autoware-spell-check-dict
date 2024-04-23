@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "gosu",
     "aabb",
     "aarch",
     "abspath",
@@ -783,6 +782,7 @@
     "GOMP",
     "GoogLeNet",
     "googletest",
+    "gosu",
     "gparted",
     "gpasswd",
     "gpio",
