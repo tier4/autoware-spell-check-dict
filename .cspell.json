@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "stty",
     "aabb",
     "aarch",
     "abspath",
@@ -1642,6 +1641,7 @@
     "strtobool",
     "struct",
     "structs",
+    "stty",
     "styfle",
     "stylesheet",
     "submodel",
