@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "TCGETS",
     "aabb",
     "aarch",
     "abspath",
@@ -1675,6 +1674,7 @@
     "TARA",
     "Tatsuya",
     "tcache",
+    "TCGETS",
     "tcpdump",
     "TDMA",
     "Tegra",
