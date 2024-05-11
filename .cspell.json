@@ -1419,6 +1419,7 @@
     "qobject",
     "qpoases",
     "qpsolver",
+    "qreal",
     "qtbase",
     "qtgraphicaleffects",
     "qtgui",
