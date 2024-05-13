@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "waitable",
     "aabb",
     "aarch",
     "abspath",
@@ -1816,6 +1815,7 @@
     "vscodeintellicode",
     "vtid",
     "vulkan",
+    "waitable",
     "wasim",
     "wayarea",
     "wayareas",
