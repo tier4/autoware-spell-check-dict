@@ -406,6 +406,7 @@
     "bson",
     "bugprone",
     "bugtracker",
+    "buildcache",
     "BUILDKIT",
     "buildtool",
     "buildx",
