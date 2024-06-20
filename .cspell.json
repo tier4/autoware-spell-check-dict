@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "libpcre3",
     "aabb",
     "aarch",
     "abspath",
@@ -1005,6 +1004,7 @@
     "libosqp",
     "libpath",
     "libpcl",
+    "libpcre3",
     "libpointcloud",
     "libpolar",
     "libpugixml",
