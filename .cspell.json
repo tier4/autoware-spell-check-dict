@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "nproc",
     "aabb",
     "aarch",
     "abspath",
@@ -1232,6 +1231,7 @@
     "nowrap",
     "NPAGE",
     "nplan",
+    "nproc",
     "nsecs",
     "NSID",
     "nsswitch",
