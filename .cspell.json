@@ -1004,6 +1004,7 @@
     "libosqp",
     "libpath",
     "libpcl",
+    "libpcre3",
     "libpointcloud",
     "libpolar",
     "libpugixml",
