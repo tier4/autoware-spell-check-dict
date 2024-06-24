@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "voxelize",
     "aabb",
     "aarch",
     "abspath",
@@ -1814,6 +1813,7 @@
     "vmtouch",
     "voxel",
     "voxelgrid",
+    "voxelize",
     "voxelized",
     "voxels",
     "vpid",
