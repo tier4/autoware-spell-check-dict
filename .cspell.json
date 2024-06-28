@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "arccos",
     "aabb",
     "aarch",
     "abspath",
@@ -302,6 +301,7 @@
     "Applanix",
     "apriltag",
     "arange",
+    "arccos",
     "arclength",
     "arcname",
     "arctan",
