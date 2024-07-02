@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "realpath",
     "aabb",
     "aarch",
     "abspath",
@@ -1466,6 +1465,7 @@
     "rcutils",
     "readlink",
     "realloc",
+    "realpath",
     "Reasm",
     "reclass",
     "recvmsgs",
