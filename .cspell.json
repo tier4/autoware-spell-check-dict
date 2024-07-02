@@ -1465,6 +1465,7 @@
     "rcutils",
     "readlink",
     "realloc",
+    "realpath",
     "Reasm",
     "reclass",
     "recvmsgs",
