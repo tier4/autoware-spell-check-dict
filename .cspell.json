@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "xticklabels",
     "aabb",
     "aarch",
     "abspath",
@@ -1890,6 +1889,7 @@
     "xosc",
     "xpan",
     "XSOCK",
+    "xticklabels",
     "xticks",
     "xunit",
     "xwheel",
