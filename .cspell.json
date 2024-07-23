@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "coolwarm",
     "aabb",
     "aarch",
     "abspath",
@@ -496,6 +495,7 @@
     "contourf",
     "conv",
     "convolutional",
+    "coolwarm",
     "copyfile",
     "copyfileobj",
     "copymode",
