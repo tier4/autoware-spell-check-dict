@@ -1891,6 +1891,7 @@
     "xosc",
     "xpan",
     "XSOCK",
+    "xticklabels",
     "xticks",
     "xunit",
     "xwheel",
