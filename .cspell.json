@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "numba",
     "aabb",
     "aarch",
     "abspath",
@@ -1247,6 +1246,7 @@
     "nsswitch",
     "nullopt",
     "nullptr",
+    "numba",
     "NUMD",
     "numpify",
     "numpy",
