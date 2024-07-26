@@ -1052,6 +1052,7 @@
     "Linearize",
     "linebreak",
     "linecap",
+    "linecolor",
     "lineinfile",
     "linejoin",
     "linestring",
