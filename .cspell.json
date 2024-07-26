@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "linecolor",
     "aabb",
     "aarch",
     "abspath",
@@ -1053,6 +1052,7 @@
     "Linearize",
     "linebreak",
     "linecap",
+    "linecolor",
     "lineinfile",
     "linejoin",
     "linestring",
