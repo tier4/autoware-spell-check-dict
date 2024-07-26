@@ -1246,6 +1246,7 @@
     "nsswitch",
     "nullopt",
     "nullptr",
+    "numba",
     "NUMD",
     "numpify",
     "numpy",
