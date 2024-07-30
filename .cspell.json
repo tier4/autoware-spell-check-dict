@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "skel",
     "aabb",
     "aarch",
     "abspath",
@@ -1617,6 +1616,7 @@
     "SIMD",
     "SIOCETHTOOL",
     "SIVD",
+    "skel",
     "skinparam",
     "SKIPFIRST",
     "skyblue",
