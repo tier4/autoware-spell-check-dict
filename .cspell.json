@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "libpcap",
     "aabb",
     "aarch",
     "abspath",
@@ -1011,6 +1010,7 @@
     "libopenscenario",
     "libosqp",
     "libpath",
+    "libpcap",
     "libpcl",
     "libpcre3",
     "libpointcloud",
