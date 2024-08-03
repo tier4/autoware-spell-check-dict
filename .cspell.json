@@ -411,6 +411,7 @@
     "buildcache",
     "BUILDKIT",
     "buildtool",
+    "buildtools",
     "buildx",
     "builtins",
     "burlywood",
