@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "nocuda",
     "aabb",
     "aarch",
     "abspath",
@@ -1220,6 +1219,7 @@
     "nmerge",
     "noalias",
     "NOARP",
+    "nocuda",
     "nodelay",
     "nodelet",
     "nodelets",
