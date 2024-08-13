@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "pointnet",
     "aabb",
     "aarch",
     "abspath",
@@ -1359,6 +1358,7 @@
     "pmatrix",
     "pointcloud",
     "pointclouds",
+    "pointnet",
     "pointpainting",
     "pointsize",
     "polyfit",
