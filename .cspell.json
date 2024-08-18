@@ -1358,6 +1358,7 @@
     "pmatrix",
     "pointcloud",
     "pointclouds",
+    "pointnet",
     "pointpainting",
     "pointsize",
     "polyfit",
