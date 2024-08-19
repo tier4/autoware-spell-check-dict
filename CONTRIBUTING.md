@@ -2,9 +2,7 @@
 
 See <https://autowarefoundation.github.io/autoware-documentation/main/contributing/>.
 
-## For reviewer
-
-### How to judge whether to add a word?
+## How to judge whether to add a word?
 
 Please follow the flowchart below.
 
