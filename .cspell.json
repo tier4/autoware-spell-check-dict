@@ -1219,6 +1219,7 @@
     "nmerge",
     "noalias",
     "NOARP",
+    "nocuda",
     "nodelay",
     "nodelet",
     "nodelets",
