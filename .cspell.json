@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "stairstep",
     "aabb",
     "aarch",
     "abspath",
@@ -1646,6 +1645,7 @@
     "sregex",
     "srvs",
     "sshpass",
+    "stairstep",
     "startuml",
     "staticmethod",
     "statustip",
