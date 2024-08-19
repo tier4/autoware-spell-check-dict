@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "fontweight",
     "aabb",
     "aarch",
     "abspath",
@@ -724,6 +723,7 @@
     "folderlistmodel",
     "fontawesome",
     "fontsize",
+    "fontweight",
     "fopen",
     "fopenmp",
     "forestgreen",
