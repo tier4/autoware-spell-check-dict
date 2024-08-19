@@ -42,7 +42,7 @@ jobs:
           branch: add-word-${{ inputs.word }}
           title: "feat(words): add ${{ inputs.word }}"
           commit-message: "feat(words): add ${{ inputs.word }}"
-          body: "TODO: Update this comment and add some reference links."
+          body: "TODO: Update this comment and add some reference links. \n For reviewer: Please check [CONTRIBUTING.md](https://github.com/tier4/autoware-spell-check-dict/CONTRIBUTING.md)"
           labels: |
             bot
             words
