@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "ioff",
     "aabb",
     "aarch",
     "abspath",
@@ -881,6 +880,7 @@
     "insertafter",
     "interpolatable",
     "intrinsics",
+    "ioff",
     "iowait",
     "ipairs",
     "ipfrag",
