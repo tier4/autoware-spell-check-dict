@@ -880,6 +880,7 @@
     "insertafter",
     "interpolatable",
     "intrinsics",
+    "ioff",
     "iowait",
     "ipairs",
     "ipfrag",
