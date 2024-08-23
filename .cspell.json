@@ -1100,6 +1100,7 @@
     "mathrm",
     "mathutils",
     "matplotlib",
+    "matplotlibcpp",
     "mavx",
     "Mbps",
     "mcap",
