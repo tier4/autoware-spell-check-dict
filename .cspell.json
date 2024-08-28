@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "driveblocks",
     "aabb",
     "aarch",
     "abspath",
@@ -645,6 +644,7 @@
     "dpkg",
     "drawio",
     "Driveable",
+    "driveblocks",
     "driveworks",
     "droplevel",
     "dropna",
