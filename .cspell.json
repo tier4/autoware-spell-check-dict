@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "mapless",
     "aabb",
     "aarch",
     "abspath",
@@ -1093,6 +1092,7 @@
     "makestep",
     "malloc",
     "maph",
+    "mapless",
     "markdownlint",
     "markersize",
     "materialx",
