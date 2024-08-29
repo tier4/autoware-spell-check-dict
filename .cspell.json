@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "axvline",
     "aabb",
     "aarch",
     "abspath",
@@ -355,6 +354,7 @@
     "AWSIM",
     "Axisd",
     "Axisf",
+    "axvline",
     "backport",
     "backports",
     "bagfile",
