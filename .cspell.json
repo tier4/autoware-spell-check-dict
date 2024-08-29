@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "facecolor",
     "aabb",
     "aarch",
     "abspath",
@@ -704,6 +703,7 @@
     "exitflag",
     "extractall",
     "fabs",
+    "facecolor",
     "farocan",
     "farocand",
     "FASTCRC",
