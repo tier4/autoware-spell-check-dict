@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "inaxes",
     "aabb",
     "aarch",
     "abspath",
@@ -867,6 +866,7 @@
     "imread",
     "imshow",
     "imwrite",
+    "inaxes",
     "indianred",
     "inet",
     "initializable",
