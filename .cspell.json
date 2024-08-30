@@ -866,6 +866,7 @@
     "imread",
     "imshow",
     "imwrite",
+    "inaxes",
     "indianred",
     "inet",
     "initializable",
