@@ -705,6 +705,7 @@
     "exitflag",
     "extractall",
     "fabs",
+    "facecolor",
     "farocan",
     "farocand",
     "FASTCRC",
