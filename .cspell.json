@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "rospack",
     "aabb",
     "aarch",
     "abspath",
@@ -1560,6 +1559,7 @@
     "roslib",
     "roslint",
     "rosout",
+    "rospack",
     "rosparam",
     "rospkg",
     "rospy",
