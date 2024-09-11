@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "Kwargs",
     "aabb",
     "aarch",
     "abspath",
@@ -944,6 +943,7 @@
     "kubectl",
     "Kutta",
     "kvaser",
+    "Kwargs",
     "labelfile",
     "labelsize",
     "labelspacing",
