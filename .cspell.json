@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "buildsystem",
     "aabb",
     "aarch",
     "abspath",
@@ -414,6 +413,7 @@
     "bugtracker",
     "buildcache",
     "BUILDKIT",
+    "buildsystem",
     "buildtool",
     "buildtools",
     "buildx",
