@@ -631,6 +631,7 @@
     "divup",
     "dkms",
     "dlat",
+    "dlopen",
     "dockerenv",
     "dockerhub",
     "dockeri",
