@@ -413,6 +413,7 @@
     "bugtracker",
     "buildcache",
     "BUILDKIT",
+    "buildsystem",
     "buildtool",
     "buildtools",
     "buildx",
