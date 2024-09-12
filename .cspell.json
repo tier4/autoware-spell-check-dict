@@ -1317,6 +1317,7 @@
     "osqp",
     "osqpsolver",
     "osrf",
+    "ostream",
     "overaccel",
     "overridable",
     "overspeed",
