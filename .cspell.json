@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "listdir",
     "aabb",
     "aarch",
     "abspath",
@@ -1079,6 +1078,7 @@
     "linspace",
     "linuxcan",
     "linuxptp",
+    "listdir",
     "LIVOX",
     "LLVM",
     "loadtxt",
