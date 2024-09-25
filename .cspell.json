@@ -265,6 +265,7 @@
     "VSCode"
   ],
   "words": [
+    "STREQ",
     "aabb",
     "aarch",
     "abspath",
