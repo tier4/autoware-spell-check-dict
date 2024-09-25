@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "pretranslate",
     "aabb",
     "aarch",
     "abspath",
@@ -1407,6 +1406,7 @@
     "preprocessors",
     "prestart",
     "pretrained",
+    "pretranslate",
     "printenv",
     "printf",
     "PROCHOT",
