@@ -1406,6 +1406,7 @@
     "preprocessors",
     "prestart",
     "pretrained",
+    "pretranslate",
     "printenv",
     "printf",
     "PROCHOT",
