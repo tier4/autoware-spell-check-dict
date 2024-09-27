@@ -1078,6 +1078,7 @@
     "linspace",
     "linuxcan",
     "linuxptp",
+    "listdir",
     "LIVOX",
     "LLVM",
     "loadtxt",
