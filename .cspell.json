@@ -1467,6 +1467,7 @@
     "qpoases",
     "qpsolver",
     "qreal",
+    "QT_QPA_PLATFORMTHEME",
     "qtbase",
     "qtgraphicaleffects",
     "qtgui",
