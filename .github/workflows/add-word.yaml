@@ -44,7 +44,9 @@ jobs:
           commit-message: "feat(words): add ${{ inputs.word }}"
           body: |
             TODO: Update this comment and add some reference links.
-            Please check [CONTRIBUTING.md](https://github.com/tier4/autoware-spell-check-dict/blob/main/CONTRIBUTING.md) before sending PR.
+            > [!NOTE]
+            > To get approval, you need to show external documentation proving that the word is not your own creation, but is common in the public and industry.
+            > Please check [CONTRIBUTING.md](https://github.com/tier4/autoware-spell-check-dict/blob/main/CONTRIBUTING.md) for detail.
           labels: |
             bot
             words
