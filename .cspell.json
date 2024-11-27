@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "gdal",
     "aabb",
     "aarch",
     "abspath",
@@ -759,6 +758,7 @@
     "gainsboro",
     "GBRG",
     "gcov",
+    "gdal",
     "gdoc",
     "gdown",
     "gdrive",
