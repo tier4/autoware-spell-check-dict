@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "rtmdet",
     "aabb",
     "aarch",
     "abspath",
@@ -1598,6 +1597,7 @@
     "rstar",
     "rsyslog",
     "RTKLIB",
+    "rtmdet",
     "RTNL",
     "RTPS",
     "rtree",
