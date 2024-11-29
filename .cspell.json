@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "cumsum",
     "aabb",
     "aarch",
     "abspath",
@@ -540,6 +539,7 @@
     "CUDA",
     "CUDART",
     "cudnn",
+    "cumsum",
     "cuRAND",
     "cutecom",
     "CVPR",
