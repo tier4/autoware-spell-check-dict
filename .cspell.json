@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "interp1d",
     "aabb",
     "aarch",
     "abspath",
@@ -890,6 +889,7 @@
     "inpaints",
     "inplace",
     "insertafter",
+    "interp1d",
     "interpolatable",
     "intrinsics",
     "ioff",
