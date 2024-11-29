@@ -265,7 +265,6 @@
     "VSCode"
   ],
   "words": [
-    "libtensorrt",
     "aabb",
     "aarch",
     "abspath",
@@ -1040,6 +1039,7 @@
     "libsdl",
     "libstdc",
     "libswscale",
+    "libtensorrt",
     "libtheora",
     "libtorch",
     "libtraffic",
