@@ -891,6 +891,7 @@
     "inpaints",
     "inplace",
     "insertafter",
+    "interp",
     "interp1d",
     "interpolatable",
     "intrinsics",
