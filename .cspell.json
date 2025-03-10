@@ -94,7 +94,9 @@
         "imageio",
         "linewidth",
         "maintainer(_email)?=.*$",
-        "mimsave"
+        "mimsave",
+        "itemsize",
+        "nans"
       ]
     },
     {
@@ -914,7 +916,6 @@
     "isna",
     "isort",
     "isource",
-    "itemsize",
     "iterdir",
     "iterrows",
     "itertools",
@@ -1216,7 +1217,6 @@
     "mypy",
     "MZVLB",
     "nanosec",
-    "nans",
     "NAPT",
     "natsort",
     "natsorted",
