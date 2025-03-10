@@ -92,9 +92,11 @@
       "ignoreRegExpList": [
         "author(_email)?=.*$",
         "imageio",
+        "itemsize",
         "linewidth",
         "maintainer(_email)?=.*$",
-        "mimsave"
+        "mimsave",
+        "nans"
       ]
     },
     {
