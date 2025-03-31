@@ -267,7 +267,6 @@
     "VSCode"
   ],
   "words": [
-    "agnocastlib",
     "aabb",
     "aarch",
     "abspath",
@@ -286,6 +285,7 @@
     "adjacents",
     "ADMM",
     "adoc",
+    "agnocastlib",
     "AHCI",
     "AHRS",
     "Akima",
