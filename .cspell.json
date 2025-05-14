@@ -267,7 +267,6 @@
     "VSCode"
   ],
   "words": [
-    "espnet",
     "aabb",
     "aarch",
     "abspath",
@@ -702,6 +701,7 @@
     "Eppstein",
     "esac",
     "esli",
+    "espnet",
     "etag",
     "ethernets",
     "ETHTOOL_GSET",
