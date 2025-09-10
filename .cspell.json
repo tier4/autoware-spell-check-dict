@@ -267,7 +267,6 @@
     "VSCode"
   ],
   "words": [
-    "tracetools",
     "aabb",
     "aarch",
     "abspath",
@@ -1799,6 +1798,7 @@
     "tostring",
     "tpdo",
     "tqdm",
+    "tracetools",
     "tracklet",
     "trafficlight",
     "trafficlights",
