@@ -267,7 +267,6 @@
     "VSCode"
   ],
   "words": [
-    "Drclcpp_DIR",
     "aabb",
     "aarch",
     "abspath",
@@ -657,6 +656,7 @@
     "doxygen",
     "dpkg",
     "drawio",
+    "Drclcpp_DIR",
     "Driveable",
     "driveworks",
     "droplevel",
