@@ -267,7 +267,6 @@
     "VSCode"
   ],
   "words": [
-    "libtracetools",
     "aabb",
     "aarch",
     "abspath",
@@ -1048,6 +1047,7 @@
     "libswscale",
     "libtheora",
     "libtorch",
+    "libtracetools",
     "libtraffic",
     "liburcu",
     "libutils",
