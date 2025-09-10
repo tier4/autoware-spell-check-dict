@@ -267,7 +267,6 @@
     "VSCode"
   ],
   "words": [
-    "Dtracetools_DIR",
     "aabb",
     "aarch",
     "abspath",
@@ -667,6 +666,7 @@
     "dssad",
     "dsteer",
     "dtheta",
+    "Dtracetools_DIR",
     "dtype",
     "dtypes",
     "Dualshock",
