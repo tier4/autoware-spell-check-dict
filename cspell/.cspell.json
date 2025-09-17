@@ -355,6 +355,8 @@
     "cublas",
     "CUDA",
     "CUDART",
+    "CUDAH",
+    "ptxas",
     "cudnn",
     "cuRAND",
     "CVPR",

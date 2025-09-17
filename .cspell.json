@@ -543,6 +543,8 @@
     "cublas",
     "CUDA",
     "CUDART",
+    "CUDAH",
+    "ptxas",
     "cudnn",
     "cumsum",
     "cuRAND",
