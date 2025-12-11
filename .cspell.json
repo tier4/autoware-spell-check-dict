@@ -267,7 +267,6 @@
     "VSCode"
   ],
   "words": [
-    "activatable",
     "aabb",
     "aarch",
     "abspath",
@@ -276,6 +275,7 @@
     "AccelMap",
     "ACCX",
     "Ackermann",
+    "activatable",
     "adapi",
     "addf",
     "addopts",
