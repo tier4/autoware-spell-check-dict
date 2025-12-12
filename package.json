@@ -2,5 +2,10 @@
   "name": "@tier4/autoware-spell-check-dict",
   "version": "0.1.0",
   "license": "Apache-2.0",
-  "private": true
+  "private": true,
+  "devDependencies": {
+    "@tier4/cspell-dicts": "github:tier4/cspell-dicts",
+    "cspell": "^9.4.0",
+    "cspell-lib": "^9.4.0"
+  }
 }
