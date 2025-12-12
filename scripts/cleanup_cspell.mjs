@@ -1,6 +1,6 @@
 import fs from "node:fs/promises";
 import { spellCheckDocument } from "cspell-lib";
-import { formatCspellJson } from "./formatter.mjs";
+import { formatCspellJson, stringifyCspellJson } from "./formatter.mjs";
 
 async function checkSpelling(phrase, config) {
   const result = await spellCheckDocument(
@@ -41,11 +41,7 @@ async function main() {
 
   const cleanedConfig = { ...config, words: Array.from(customWords).sort() };
   const formattedConfig = formatCspellJson(cleanedConfig);
-  await fs.writeFile(
-    configPath,
-    JSON.stringify(formattedConfig, null, 2),
-    "utf-8",
-  );
+  await fs.writeFile(configPath, stringifyCspellJson(formattedConfig), "utf-8");
 }
 
 main();
