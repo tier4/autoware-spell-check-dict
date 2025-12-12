@@ -154,3 +154,7 @@ export function formatCspellJson(cspellJson) {
 
   return formatted;
 }
+
+export function stringifyCspellJson(cspellJson) {
+  return JSON.stringify(cspellJson, null, 2) + "\n";
+}

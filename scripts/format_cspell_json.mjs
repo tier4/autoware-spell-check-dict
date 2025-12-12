@@ -15,7 +15,7 @@
 // limitations under the License.
 
 import fs from "node:fs";
-import { formatCspellJson } from "./formatter.mjs";
+import { formatCspellJson, stringifyCspellJson } from "./formatter.mjs";
 
 function main() {
   const args = process.argv.slice(2);
@@ -31,7 +31,7 @@ function main() {
       const sortedJson = formatCspellJson(inputCopy);
 
       // Add indentation of 2 spaces and a newline at the end
-      const sortedJsonStr = JSON.stringify(sortedJson, null, 2) + "\n";
+      const sortedJsonStr = stringifyCspellJson(sortedJson);
 
       if (sortedJsonStr !== originalJsonStr) {
         console.log(`Fixing ${filepath}`);
