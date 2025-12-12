@@ -1,0 +1,47 @@
+name: Cleanup dictionary
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: 0 0 * * 1 # Every Monday at midnight
+  workflow_dispatch:
+
+jobs:
+  pytest:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v6
+
+      - uses: actions/setup-node@v6
+        with:
+          node-version: "24"
+
+      - name: Run cleanup script
+        id: cleanup
+        run: |
+          echo "stdout=<<EOF" >> $GITHUB_OUTPUT
+          node scripts/cleanup_cspell.mjs .cspell.json >> $GITHUB_OUTPUT
+          echo "EOF" >> $GITHUB_OUTPUT
+
+      - name: Generate token
+        id: generate-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.PRIVATE_KEY }}
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v8
+        with:
+          token: ${{ steps.generate-token.outputs.token }}
+          commit-message: "chore: cleanup cspell dictionary"
+          branch: fix/autoclean-cspell-dict
+          title: "chore: cleanup cspell dictionary"
+          body: |
+            This PR cleans up the cspell dictionary by removing unused words.
+
+            ${{ steps.cleanup.outputs.stdout }}
+          labels: bot

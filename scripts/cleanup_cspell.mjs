@@ -27,16 +27,19 @@ async function main() {
   const issues = await checkSpelling(testPhrases, noCustomWordsConfig);
 
   const misspelledWords = new Set(issues.map((issue) => issue.text));
-  const falsePositives = config.words.filter(
+  const recognizedWords = config.words.filter(
     (word) => !misspelledWords.has(word),
   );
 
-  if (falsePositives.length > 0) {
-    console.log("Removing false positive words:");
-    falsePositives.forEach((word) => {
+  if (recognizedWords.length > 0) {
+    console.log("Removing unused words:");
+    console.log("");
+    recognizedWords.forEach((word) => {
       console.log(`- ${word}`);
       customWords.delete(word);
     });
+    console.log("");
+    console.log(`Total removed: ${recognizedWords.length}`);
   }
 
   const cleanedConfig = { ...config, words: Array.from(customWords).sort() };
