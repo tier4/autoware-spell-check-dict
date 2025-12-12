@@ -62,6 +62,9 @@
     "@tier4/cspell-dicts/organization-names/cspell-ext.json",
     "@tier4/cspell-dicts/people-names/cspell-ext.json"
   ],
+  "dictionaries": [
+    "data-science"
+  ],
   "languageSettings": [
     {
       "languageId": "dockerfile",
