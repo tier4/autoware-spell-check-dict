@@ -23,11 +23,6 @@ repos:
       - id: markdownlint
         args: [-c, .markdownlint.yaml, --fix]
 
-  - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: v4.0.0-alpha.8
-    hooks:
-      - id: prettier
-
   - repo: https://github.com/adrienverge/yamllint
     rev: v1.37.1
     hooks:
@@ -44,40 +39,18 @@ repos:
       - id: shfmt
         args: [-w, -s, -i=4]
 
-  - repo: https://github.com/pycqa/isort
-    rev: 7.0.0
+  - repo: https://github.com/biomejs/pre-commit
+    rev: v2.3.8 # Use the sha / tag you want to point at
     hooks:
-      - id: isort
-
-  - repo: https://github.com/psf/black-pre-commit-mirror
-    rev: 25.11.0
-    hooks:
-      - id: black
-        args: [--line-length=100]
-
-  - repo: https://github.com/PyCQA/flake8
-    rev: 7.3.0
-    hooks:
-      - id: flake8
-        additional_dependencies:
-          [
-            flake8-blind-except,
-            flake8-builtins,
-            flake8-class-newline,
-            flake8-comprehensions,
-            flake8-deprecated,
-            flake8-docstrings,
-            flake8-import-order,
-            flake8-quotes,
-          ]
+      - id: biome-check
 
   - repo: local
     hooks:
       - id: format-cspell-json
         name: format cspell.json
         description: Format cspell.json.
-        entry: python format_cspell_json/format_cspell_json.py
-        language: python
+        entry: node scripts/format_cspell_json.mjs
+        language: node
         files: .cspell.json$
 
 exclude: .svg
