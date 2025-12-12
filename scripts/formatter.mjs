@@ -87,8 +87,8 @@ function sortDictKeys(d, newKeys, context = "unknown section") {
 
     console.warn(
       `[Warning] The following keys in "${context}"${identifier} are not in the allowed list and will be removed: [${unknownKeys.join(
-        ", "
-      )}]`
+        ", ",
+      )}]`,
     );
   }
 
@@ -115,7 +115,7 @@ export function formatCspellJson(cspellJson) {
       "flagWords",
       "words",
     ],
-    "root"
+    "root",
   );
 
   // Sort inside "languageSettings"
@@ -129,7 +129,11 @@ export function formatCspellJson(cspellJson) {
 
     // Sort keys within each item
     formatted.languageSettings = formatted.languageSettings.map((d) =>
-      sortDictKeys(d, ["languageId", "dictionaries", "ignoreRegExpList"], "languageSettings")
+      sortDictKeys(
+        d,
+        ["languageId", "dictionaries", "ignoreRegExpList"],
+        "languageSettings",
+      ),
     );
   }
 
@@ -144,7 +148,7 @@ export function formatCspellJson(cspellJson) {
 
     // Sort keys within each item
     formatted.overrides = formatted.overrides.map((d) =>
-      sortDictKeys(d, ["filename", "ignoreRegExpList"], "overrides")
+      sortDictKeys(d, ["filename", "ignoreRegExpList"], "overrides"),
     );
   }
 

@@ -4,6 +4,7 @@
   "license": "Apache-2.0",
   "private": true,
   "devDependencies": {
+    "@biomejs/biome": "2.3.8",
     "@tier4/cspell-dicts": "github:tier4/cspell-dicts",
     "cspell": "^9.4.0",
     "cspell-lib": "^9.4.0"

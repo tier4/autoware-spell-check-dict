@@ -23,11 +23,6 @@ repos:
       - id: markdownlint
         args: [-c, .markdownlint.yaml, --fix]
 
-  - repo: https://github.com/pre-commit/mirrors-prettier
-    rev: v4.0.0-alpha.8
-    hooks:
-      - id: prettier
-
   - repo: https://github.com/adrienverge/yamllint
     rev: v1.37.1
     hooks:
@@ -70,6 +65,11 @@ repos:
             flake8-import-order,
             flake8-quotes,
           ]
+
+  - repo: https://github.com/biomejs/pre-commit
+    rev: v2.3.8 # Use the sha / tag you want to point at
+    hooks:
+      - id: biome-check
 
   - repo: local
     hooks:

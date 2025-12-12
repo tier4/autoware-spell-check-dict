@@ -1,12 +1,12 @@
+import fs from "node:fs/promises";
 import { spellCheckDocument } from "cspell-lib";
 import { formatCspellJson } from "./formatter.mjs";
-import fs from "fs/promises";
 
 async function checkSpelling(phrase, config) {
   const result = await spellCheckDocument(
     { uri: "text.txt", text: phrase, languageId: "plaintext", locale: "en" },
     { generateSuggestions: true, noConfigSearch: true },
-    config
+    config,
   );
   return result.issues;
 }
@@ -27,17 +27,25 @@ async function main() {
   const issues = await checkSpelling(testPhrases, noCustomWordsConfig);
 
   const misspelledWords = new Set(issues.map((issue) => issue.text));
-  const falsePositives = config.words.filter((word) => !misspelledWords.has(word));
+  const falsePositives = config.words.filter(
+    (word) => !misspelledWords.has(word),
+  );
 
   if (falsePositives.length > 0) {
     console.log("Removing false positive words:");
-    falsePositives.forEach((word) => console.log(`- ${word}`));
-    falsePositives.forEach((word) => customWords.delete(word));
+    falsePositives.forEach((word) => {
+      console.log(`- ${word}`);
+      customWords.delete(word);
+    });
   }
 
   const cleanedConfig = { ...config, words: Array.from(customWords).sort() };
   const formattedConfig = formatCspellJson(cleanedConfig);
-  await fs.writeFile(configPath, JSON.stringify(formattedConfig, null, 2), "utf-8");
+  await fs.writeFile(
+    configPath,
+    JSON.stringify(formattedConfig, null, 2),
+    "utf-8",
+  );
 }
 
 main();

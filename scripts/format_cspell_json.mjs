@@ -14,7 +14,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
-import fs from "fs";
+import fs from "node:fs";
 import { formatCspellJson } from "./formatter.mjs";
 
 function main() {
