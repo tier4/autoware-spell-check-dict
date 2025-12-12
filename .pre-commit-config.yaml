@@ -76,8 +76,8 @@ repos:
       - id: format-cspell-json
         name: format cspell.json
         description: Format cspell.json.
-        entry: python format_cspell_json/format_cspell_json.py
-        language: python
+        entry: node scripts/format_cspell_json.mjs
+        language: node
         files: .cspell.json$
 
 exclude: .svg
