@@ -12,6 +12,7 @@
 // See the License for the specific language governing permissions and
 // limitations under the License.
 
+// cspell: ignore casefold
 /**
  * Comparison function to sort strings in a list.
  * Reproduces the behavior of Python's (str.casefold(s), s).
