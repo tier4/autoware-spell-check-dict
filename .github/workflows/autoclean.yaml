@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  pytest:
+  autoclean:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
@@ -19,10 +19,13 @@ jobs:
         with:
           node-version: "24"
 
+      - name: Install dependencies
+        run: npm install
+
       - name: Run cleanup script
         id: cleanup
         run: |
-          echo "stdout=<<EOF" >> $GITHUB_OUTPUT
+          echo "stdout<<EOF" >> $GITHUB_OUTPUT
           node scripts/cleanup_cspell.mjs .cspell.json >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
