@@ -25,7 +25,7 @@ jobs:
       - name: Run cleanup script
         id: cleanup
         run: |
-          echo "stdout=<<EOF" >> $GITHUB_OUTPUT
+          echo "stdout<<EOF" >> $GITHUB_OUTPUT
           node scripts/cleanup_cspell.mjs .cspell.json >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
