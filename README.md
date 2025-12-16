@@ -12,7 +12,7 @@ The words in the dictionary are sorted by the command `sort --ignore-case | uniq
 
 Just edit `.cspell.json` as follows and send a pull-request to this repository. Thanks!
 
-The words you inserted into the json will be **sorted automatically** by GitHub Actions.
+The words you inserted into the json will be **sorted automatically** by GitHub Actions or pre-commit hook (if you set it up).
 
 ```json
 {
@@ -34,11 +34,29 @@ With the [add-word workflow](https://github.com/tier4/autoware-spell-check-dict/
 
 ![image](https://user-images.githubusercontent.com/12395284/232272339-ec5edcee-cc67-45a8-badc-fc4edb7d9390.png)
 
+### Automatic cleanup of unused words
+
+With the [autoclean workflow](https://github.com/autowarefoundation/autoware-spell-check-dict/actions/workflows/autoclean.yaml), automated Pull Requests are created to remove unused words from `.cspell.json`.
+
+### Update upstream dictionaries
+
+In `package.json`, the following upstream dictionaries are used as dependencies.
+
+- `@cspell/dict-en-gb`
+- `@cspell/cspell-bundled-dicts`
+- (`@tier4/cspell-dicts`: Provided by GitHub repository)
+
+To update them, run the following command and send a pull-request to this repository.
+
+```shell
+npm update @cspell/dict-en-gb @cspell/cspell-bundled-dicts
+```
+
 ## How to check spelling with the dictionary in your local environment
 
-### Ubuntu 18.04 or later
+### Ubuntu 22.04 or later
 
-**Requirement**: Node.js >= v12
+**Requirement**: Node.js >= v20
 
 ```shell
 # Install Node.js
@@ -47,40 +65,21 @@ With the [add-word workflow](https://github.com/tier4/autoware-spell-check-dict/
 $ curl -fsSL https://deb.nodesource.com/setup_lts.x | sudo -E bash -
 $ sudo apt install nodejs
 
-# Make sure that Node.js >= v12
+# Make sure that Node.js >= v20
 $ node -v
-v16.13.0
+v24.4.1
 
-# Install a spell checker (cspell) using npm
-$ sudo npm install -g cspell
-
-# Install additional dictionaries
-$ npm install -g yarn
-$ yarn global add https://github.com/tier4/cspell-dicts
-
-# Copy the dictionary into your environment
-$ cd /your-project-dir
-$ wget -O .cspell.json https://raw.githubusercontent.com/tier4/autoware-spell-check-dict/main/.cspell.json
+# Install cspell and autoware-spell-check-dict as a global package from GitHub
+$ npm install -g cspell https://github.com/autowarefoundation/autoware-spell-check-dict
 
 # Check spelling
-$ cspell /path/to/src/*.cpp /path/to/include/*.hpp
+$ cspell -c '@tier4/autoware-spell-check-dict/.cspell.json' /path/to/src/*.cpp /path/to/include/*.hpp
 
-# Or
-$ find . -name '*.cpp' -o -name '*.hpp' -o -name '*.xml' -o -name '*.md' | xargs cspell
+# Check all files using glob patterns
+$ cspell -c '@tier4/autoware-spell-check-dict/.cspell.json' '**/*.{cpp,hpp,xml,md}'
 
-# Or
-$ find . -type d -name '.git' -prune -o \
-         -type d -name 'vendor' -prune -o \
-         -type f -name '*' \
-         -not -name '*onnx' \
-         -not -name '*.cu' \
-         -not -name '*.pcd' \
-         -not -name '*cspell*' \
-         -not -name '*compile_commands.json' \
-         -not -name '*.caffemodel' \
-         -not -name '*.svg' \
-         -not -name '*.pcd' \
-          | xargs cspell > cspell_all
+# Alternative way: Using npm exec without global installation
+$ npx --package cspell --package https://github.com/autowarefoundation/autoware-spell-check-dict cspell -c '@tier4/autoware-spell-check-dict/.cspell.json' '**/*.{cpp,hpp,xml,md}'
 ```
 
 ### Visual Studio Code
