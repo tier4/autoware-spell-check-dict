@@ -26,7 +26,7 @@ jobs:
         id: cleanup
         run: |
           echo "stdout<<EOF" >> $GITHUB_OUTPUT
-          node scripts/cleanup_cspell.mjs .cspell.json >> $GITHUB_OUTPUT
+          node scripts/cleanup_cspell.mts .cspell.json >> $GITHUB_OUTPUT
           echo "EOF" >> $GITHUB_OUTPUT
 
       - name: Generate token
