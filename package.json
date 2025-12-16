@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "@cspell/cspell-bundled-dicts": "^9.4.0",
+    "@cspell/dict-en-gb": "^5.0.20",
     "@tier4/cspell-dicts": "github:tier4/cspell-dicts"
   }
 }
