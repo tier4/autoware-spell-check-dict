@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  autoclean:
+  cleanup-dictionary:
     runs-on: ubuntu-latest
     steps:
       - name: Check out repository
