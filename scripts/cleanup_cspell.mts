@@ -79,18 +79,22 @@ async function main() {
 
   for (const [index, word] of customWords.entries()) {
     if (!misspelledIndexes.has(index)) {
-      console.log(`Removed word: ${word}`);
+      console.log(`- Removed word: ${word}`);
     }
   }
 
-  console.log(
-    `Cleaned dictionary: ${
-      customWords.length - cleanedWords.length
-    } words removed.`,
-  );
+  if (customWords.length - cleanedWords.length > 0) {
+    console.log("");
+    console.log(
+      `**Cleaned dictionary: ${
+        customWords.length - cleanedWords.length
+      } words removed.**`,
+    );
+  }
 
+  console.log("");
   for (const warning of warnings) {
-    console.warn(warning);
+    console.log(`- ${warning}`);
   }
 
   const cleanedConfig = { ...config, words: Array.from(cleanedWords).sort() };
