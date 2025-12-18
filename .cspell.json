@@ -1229,6 +1229,8 @@
     "mypy",
     "MZVLB",
     "nanosec",
+    "nanoflann",
+    "libnanoflann",
     "NAPT",
     "natsort",
     "natsorted",
