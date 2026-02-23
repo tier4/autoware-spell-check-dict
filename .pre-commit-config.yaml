@@ -18,13 +18,13 @@ repos:
         args: [--markdown-linebreak-ext=md]
 
   - repo: https://github.com/igorshubovych/markdownlint-cli
-    rev: v0.46.0
+    rev: v0.47.0
     hooks:
       - id: markdownlint
         args: [-c, .markdownlint.yaml, --fix]
 
   - repo: https://github.com/adrienverge/yamllint
-    rev: v1.37.1
+    rev: v1.38.0
     hooks:
       - id: yamllint
 
@@ -40,7 +40,7 @@ repos:
         args: [-w, -s, -i=4]
 
   - repo: https://github.com/biomejs/pre-commit
-    rev: v2.3.8 # Use the sha / tag you want to point at
+    rev: v2.4.4 # Use the sha / tag you want to point at
     hooks:
       - id: biome-check
 
