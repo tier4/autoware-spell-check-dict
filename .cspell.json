@@ -275,7 +275,6 @@
     "VSCode"
   ],
   "words": [
-    "configurator",
     "aabb",
     "aarch",
     "abspath",
@@ -508,6 +507,7 @@
     "concat",
     "concatenator",
     "COND",
+    "configurator",
     "ConOps",
     "consecutives",
     "Consolas",
