@@ -275,7 +275,6 @@
     "VSCode"
   ],
   "words": [
-    "seccomp",
     "aabb",
     "aarch",
     "abspath",
@@ -1647,6 +1646,7 @@
     "scrollok",
     "seaborn",
     "seagreen",
+    "seccomp",
     "semidefinite",
     "septentrio",
     "setcap",
